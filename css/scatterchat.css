@@ -1,0 +1,37 @@
+.bubbles {
+    stroke-width: 2px;
+    stroke: white;
+}
+.bubbles:hover {
+    stroke: black;
+}
+.line {
+    stroke: rgb(36, 35, 44);
+    fill: none;
+    stroke-width: 3;
+}
+.equation {
+    font-size: 12px;
+    margin-top: 10px;
+    text-align: center;
+}
+.line1 {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2px;
+  }
+.line2 {
+    fill: none;
+    stroke: rgb(70, 180, 147);
+    stroke-width: 2px;
+  }
+.line3 {
+    fill: none;
+    stroke: rgb(224, 112, 20);
+    stroke-width: 2px;
+  }
+.line4 {
+    fill: none;
+    stroke: rgb(136, 70, 180);
+    stroke-width: 2px;
+  }
