@@ -1,0 +1,3842 @@
+[
+  {
+    "links": [
+      {
+        "target": "600006 CH Equity",
+        "relation": 13020000.0,
+        "source": "DFMZ CH Equity",
+        "score": 2.276399454309922
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1310000.0,
+        "source": "Zhengzhou... Equity",
+        "score": 1.8171076917071645
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 11580000.0,
+        "source": "900953 CH Equity",
+        "score": 2.252958023292981
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 9390000.0,
+        "source": "DFDAZ CH Equity",
+        "score": 2.2110311915361427
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 8650000.0,
+        "source": "Xiangfan ... Equity",
+        "score": 2.1946139989029985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 413930.0,
+        "source": "0481113D CH Equity",
+        "score": 1.5866909144500707
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3430000.0,
+        "source": "LMAILZ CH Equity",
+        "score": 2.0096142221374538
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 2360000.0,
+        "source": "7885357Z CH Equity",
+        "score": 1.9348345201461035
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 195780.0,
+        "source": "0388092D CH Equity",
+        "score": 1.4369503933152816
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1640000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 1.8620414819112585
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1270000.0,
+        "source": "0535777D CH Equity",
+        "score": 1.810905649167208
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1270000.0,
+        "source": "LDASCZ CH Equity",
+        "score": 1.810905649167208
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1210000.0,
+        "source": "ABOFUZ CH Equity",
+        "score": 1.8012263488037727
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1040000.0,
+        "source": "OPAIYZ CH Equity",
+        "score": 1.770946446531111
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1050000.0,
+        "source": "TEN US Equity",
+        "score": 1.7728603349028411
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 899130.0,
+        "source": "ADHXUZ CH Equity",
+        "score": 1.7418368040603696
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 871240.0,
+        "source": "ACCCMZ CH Equity",
+        "score": 1.7355347822035725
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 793510.0,
+        "source": "600081 CH Equity",
+        "score": 1.716844536297283
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 672530.0,
+        "source": "Dongfeng3... Equity",
+        "score": 1.6837606972099977
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 570270.0,
+        "source": "ABPDHZ CH Equity",
+        "score": 1.650773393084421
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 555330.0,
+        "source": "Dongfeng af... Equity",
+        "score": 1.6454639222702632
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 508410.0,
+        "source": "0274203D CH Equity",
+        "score": 1.6278090909140115
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 491160.0,
+        "source": "Dongfeng mt... Equity",
+        "score": 1.6209054510537588
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 450690.0,
+        "source": "0181860D CH Equity",
+        "score": 1.6037074479084295
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 366770.0,
+        "source": "6816 JP Equity",
+        "score": 1.562498590815931
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 45700.0,
+        "source": "PTC US Equity",
+        "score": 1.1459750916961933
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 294560.0,
+        "source": "DEAIXZ CH Equity",
+        "score": 1.5186482782710442
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 255150.0,
+        "source": "0915321D CH Equity",
+        "score": 1.489922161149523
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 240110.0,
+        "source": "SO IM Equity",
+        "score": 1.4777713190807935
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 226120.0,
+        "source": "STAIWZ CH Equity",
+        "score": 1.4657651066420034
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 216240.0,
+        "source": "Shiyan Fe... Equity",
+        "score": 1.4568297610861882
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 146160.0,
+        "source": "0552290D CH Equity",
+        "score": 1.3784928065691338
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 134120.0,
+        "source": "ABPHXZ CH Equity",
+        "score": 1.3612995313123823
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 119980.0,
+        "source": "Wuhan You... Equity",
+        "score": 1.3390177351789605
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 91240.0,
+        "source": "EENGFZ CH Equity",
+        "score": 1.2842519272886959
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 85020.0,
+        "source": "CMI US Equity",
+        "score": 1.2701307127563952
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 80170.0,
+        "source": "0173656D CH Equity",
+        "score": 1.2583834264906057
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 75880.0,
+        "source": "0389084D CH Equity",
+        "score": 1.2473843205330657
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 73710.0,
+        "source": "KOA NO Equity",
+        "score": 1.2415814641543084
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 66620.0,
+        "source": "0549695D CH Equity",
+        "score": 1.2213550244284739
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 63690.0,
+        "source": "Wuhan Sou... Equity",
+        "score": 1.2123597088588243
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 51920.0,
+        "source": "CTS US Equity",
+        "score": 1.171495722318622
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 44550.0,
+        "source": "ACRGJZ CH Equity",
+        "score": 1.1408779758672294
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 33850.0,
+        "source": "Dongfeng snc... Equity",
+        "score": 1.0859447640003101
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 27850.0,
+        "source": "7256 JP Equity",
+        "score": 1.0469248302707062
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 2090.0,
+        "source": "Dongfeng ct... Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 16310.0,
+        "source": "002342 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 10540.0,
+        "source": "Shenzhen ... Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 4630.0,
+        "source": "Dongfeng1... Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 4560.0,
+        "source": "AAAEHZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 2880.0,
+        "source": "FEXIAZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 2290.0,
+        "source": "732 HK Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "DongFeng Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhengzhou Xiexin Metal Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Zhengzhou... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kama Co Ltd",
+        "market_cap": "USD 358.4M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900953 CH Equity",
+        "type": "supplier1",
+        "size": 7.697160239065049,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Dana Axle Co Ltd/JV",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFDAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xiangfan Bangle Axle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Xiangfan ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Design Institute Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0481113D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Cummins Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LMAILZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Automotive Wheel Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7885357Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Guangzhou Fengshen Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0388092D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Castrol Dongfeng Lubricants Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0535777D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Dongfeng Automotive Seating Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LDASCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Die & Stamping Technologies Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABOFUZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Wuhan Dongfeng Motor Industry Import & Export Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "OPAIYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Dongfeng Automobile Wheel Co Ltd Suizhou Wheel Factory",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADHXUZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen Hangsheng Electronics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACCCMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Electronic Technology Co Ltd",
+        "market_cap": "USD 620.31M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600081 CH Equity",
+        "type": "supplier1",
+        "size": 8.245729911045064,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Zhongxiang Automobile Spring Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dawnpro Information & Technologies Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPDHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Automobile Fasteners Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng af... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aeolus-Pan Automobile Aluminium Heat Exchange Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0274203D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Transmisson Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng mt... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xiangyang Sunrise Machinery Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0181860D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 10.07B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.032826543676883,
+        "country": "US"
+      },
+      {
+        "name": "Dongfeng Motor Propeller Shaft Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DEAIXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Dongfengtailifu Mo'ersi Control System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0915321D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 171.42M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.959627243435012,
+        "country": "IT"
+      },
+      {
+        "name": "Xiangfan Dongfeng Motor Electric Equipment Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "STAIWZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shiyan Fengshen Car Xiangsu Zhipin Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shiyan Fe... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Pump Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0552290D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Behr Thermal Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPHXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Wuhan Youde Motor Electric Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Wuhan You... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Shenyu Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "EENGFZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 26.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.983283605145786,
+        "country": "US"
+      },
+      {
+        "name": "Dongfeng Forging Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0173656D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Visteon Shiyan Automotive Trim Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0389084D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 397.85M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.801585607787818,
+        "country": "CH"
+      },
+      {
+        "name": "Dongfeng Piston & Bearing Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0549695D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Wuhan South Sagittarius Integration Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Wuhan Sou... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 934.74M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.655778973716668,
+        "country": "US"
+      },
+      {
+        "name": "Dongfeng Precision Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACRGJZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Shiyan Nonferrous Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng snc... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kasai Kogyo Co Ltd",
+        "market_cap": "USD 282.79M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7256 JP Equity",
+        "type": "supplier1",
+        "size": 7.460215130682563,
+        "country": "JP"
+      },
+      {
+        "name": "Dongfeng Communication Technology Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng ct... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Juli Sling Co Ltd",
+        "market_cap": "USD 531.76M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002342 CH Equity",
+        "type": "supplier1",
+        "size": 8.091702817697602,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen DFS Automobile Sales & Service Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenzhen ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Special Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Fuji Thomson Thermostat Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AAAEHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Fengshen Xiangfan Auto Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FEXIAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Truly International Holdings Ltd",
+        "market_cap": "USD 511.28M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "732 HK Equity",
+        "type": "supplier1",
+        "size": 8.052427943306302,
+        "country": "HK"
+      },
+      {
+        "name": "DongFeng Automobile Co Ltd",
+        "market_cap": "USD 1.69B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600006 CH Equity",
+        "type": "manufacturer",
+        "size": 9.249796364951152,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600006 CH Equity",
+        "relation": 64610000.0,
+        "source": "489 HK Equity",
+        "score": 2.5967759542023656
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5500000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 2.104051766404173
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 24670000.0,
+        "source": "7201 JP Equity",
+        "score": 2.40421970580812
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 13020000.0,
+        "source": "DFMZ CH Equity",
+        "score": 2.276399454309922
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 14400000.0,
+        "source": "Xiangfan ... Equity",
+        "score": 2.2965477667981338
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1250000.0,
+        "source": "Zhengzhou... Equity",
+        "score": 1.8077309818556326
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 12210000.0,
+        "source": "900953 CH Equity",
+        "score": 2.263553185597393
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 11950000.0,
+        "source": "DFDAZ CH Equity",
+        "score": 2.25924838400476
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 10360000.0,
+        "source": "Dongfeng1... Equity",
+        "score": 2.230692578264141
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 8840000.0,
+        "source": "LMAILZ CH Equity",
+        "score": 2.1989595095471985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5860000.0,
+        "source": "600081 CH Equity",
+        "score": 2.116732066440329
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 413930.0,
+        "source": "0481113D CH Equity",
+        "score": 1.5866909144500707
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3460000.0,
+        "source": "0535777D CH Equity",
+        "score": 2.0113558872102413
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3100000.0,
+        "source": "Dongfeng2... Equity",
+        "score": 1.9893825984071936
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 2360000.0,
+        "source": "7885357Z CH Equity",
+        "score": 1.9348345201461035
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 195780.0,
+        "source": "0388092D CH Equity",
+        "score": 1.4369503933152816
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1920000.0,
+        "source": "LDASCZ CH Equity",
+        "score": 1.8935672529674323
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1210000.0,
+        "source": "ABOFUZ CH Equity",
+        "score": 1.8012263488037727
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1240000.0,
+        "source": "ACCCMZ CH Equity",
+        "score": 1.8061245488065016
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 899130.0,
+        "source": "ADHXUZ CH Equity",
+        "score": 1.7418368040603696
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1030000.0,
+        "source": "Dongfeng3... Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 773230.0,
+        "source": "TEN US Equity",
+        "score": 1.7116666237264218
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 746230.0,
+        "source": "0274203D CH Equity",
+        "score": 1.7045580965456613
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 555330.0,
+        "source": "Dongfeng af... Equity",
+        "score": 1.6454639222702632
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 491160.0,
+        "source": "Dongfeng mt... Equity",
+        "score": 1.6209054510537588
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 450690.0,
+        "source": "0181860D CH Equity",
+        "score": 1.6037074479084295
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 445400.0,
+        "source": "ABPDHZ CH Equity",
+        "score": 1.6013460557951524
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 427440.0,
+        "source": "Shiyan Fe... Equity",
+        "score": 1.593114309227711
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 353840.0,
+        "source": "6816 JP Equity",
+        "score": 1.5553205877348644
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 44980.0,
+        "source": "PTC US Equity",
+        "score": 1.1427990914738668
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 294560.0,
+        "source": "DEAIXZ CH Equity",
+        "score": 1.5186482782710442
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 316850.0,
+        "source": "LEA US Equity",
+        "score": 1.5332373821628442
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 306530.0,
+        "source": "0915321D CH Equity",
+        "score": 1.5266148342337726
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 226120.0,
+        "source": "STAIWZ CH Equity",
+        "score": 1.4657651066420034
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 146160.0,
+        "source": "0552290D CH Equity",
+        "score": 1.3784928065691338
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 134120.0,
+        "source": "ABPHXZ CH Equity",
+        "score": 1.3612995313123823
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 146390.0,
+        "source": "EGAQBZ CH Equity",
+        "score": 1.378807280641964
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 119980.0,
+        "source": "Wuhan You... Equity",
+        "score": 1.3390177351789605
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 137220.0,
+        "source": "SO IM Equity",
+        "score": 1.3658696087571474
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 91240.0,
+        "source": "EENGFZ CH Equity",
+        "score": 1.2842519272886959
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 85020.0,
+        "source": "CMI US Equity",
+        "score": 1.2701307127563952
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 80170.0,
+        "source": "0173656D CH Equity",
+        "score": 1.2583834264906057
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 75880.0,
+        "source": "0389084D CH Equity",
+        "score": 1.2473843205330657
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 66620.0,
+        "source": "0549695D CH Equity",
+        "score": 1.2213550244284739
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 63690.0,
+        "source": "Wuhan Sou... Equity",
+        "score": 1.2123597088588243
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 44550.0,
+        "source": "ACRGJZ CH Equity",
+        "score": 1.1408779758672294
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 44430.0,
+        "source": "CTS US Equity",
+        "score": 1.140338540598309
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 33850.0,
+        "source": "Dongfeng snc... Equity",
+        "score": 1.0859447640003101
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 26790.0,
+        "source": "7256 JP Equity",
+        "score": 1.039164257840592
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 2090.0,
+        "source": "Dongfeng ct... Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 17870.0,
+        "source": "002342 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 10540.0,
+        "source": "Shenzhen ... Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 4560.0,
+        "source": "AAAEHZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 2880.0,
+        "source": "FEXIAZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 2290.0,
+        "source": "732 HK Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Motor Group Co Ltd",
+        "market_cap": "USD 7.77B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "489 HK Equity",
+        "type": "supplier1",
+        "size": 10.773536001325969,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nissan Motor Co Ltd",
+        "market_cap": "USD 32.34B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7201 JP Equity",
+        "type": "supplier1",
+        "size": 12.19957069109537,
+        "country": "JP"
+      },
+      {
+        "name": "DongFeng Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xiangfan Bangle Axle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Xiangfan ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhengzhou Xiexin Metal Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Zhengzhou... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kama Co Ltd",
+        "market_cap": "USD 352.0M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900953 CH Equity",
+        "type": "supplier1",
+        "size": 7.679141733562371,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Dana Axle Co Ltd/JV",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFDAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Special Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Cummins Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LMAILZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Electronic Technology Co Ltd",
+        "market_cap": "USD 594.48M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600081 CH Equity",
+        "type": "supplier1",
+        "size": 8.203197631813488,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Design Institute Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0481113D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Castrol Dongfeng Lubricants Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0535777D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng GETRAG Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Automotive Wheel Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7885357Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Guangzhou Fengshen Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0388092D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Dongfeng Automotive Seating Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LDASCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Die & Stamping Technologies Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABOFUZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen Hangsheng Electronics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACCCMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Automobile Wheel Co Ltd Suizhou Wheel Factory",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADHXUZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Zhongxiang Automobile Spring Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.06B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.781534745070388,
+        "country": "US"
+      },
+      {
+        "name": "Aeolus-Pan Automobile Aluminium Heat Exchange Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0274203D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Automobile Fasteners Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng af... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Transmisson Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng mt... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xiangyang Sunrise Machinery Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0181860D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dawnpro Information & Technologies Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPDHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shiyan Fengshen Car Xiangsu Zhipin Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shiyan Fe... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 9.83B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.008704771105485,
+        "country": "US"
+      },
+      {
+        "name": "Dongfeng Motor Propeller Shaft Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DEAIXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.49B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.862154837269667,
+        "country": "US"
+      },
+      {
+        "name": "Shanghai Dongfengtailifu Mo'ersi Control System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0915321D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xiangfan Dongfeng Motor Electric Equipment Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "STAIWZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Pump Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0552290D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Behr Thermal Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPHXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Yapp Automotive Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "EGAQBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Wuhan Youde Motor Electric Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Wuhan You... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 159.79M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.889371011115571,
+        "country": "IT"
+      },
+      {
+        "name": "Dongfeng Shenyu Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "EENGFZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.32B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.954860434222386,
+        "country": "US"
+      },
+      {
+        "name": "Dongfeng Forging Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0173656D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Visteon Shiyan Automotive Trim Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0389084D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Piston & Bearing Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0549695D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Wuhan South Sagittarius Integration Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Wuhan Sou... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Precision Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACRGJZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 893.01M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.610108336986361,
+        "country": "US"
+      },
+      {
+        "name": "Dongfeng Shiyan Nonferrous Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng snc... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kasai Kogyo Co Ltd",
+        "market_cap": "USD 282.18M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7256 JP Equity",
+        "type": "supplier1",
+        "size": 7.458055723149286,
+        "country": "JP"
+      },
+      {
+        "name": "Dongfeng Communication Technology Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng ct... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Juli Sling Co Ltd",
+        "market_cap": "USD 524.22M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002342 CH Equity",
+        "type": "supplier1",
+        "size": 8.077422001502331,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen DFS Automobile Sales & Service Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenzhen ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Fuji Thomson Thermostat Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AAAEHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Fengshen Xiangfan Auto Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FEXIAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Truly International Holdings Ltd",
+        "market_cap": "USD 511.21M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "732 HK Equity",
+        "type": "supplier1",
+        "size": 8.052291022651605,
+        "country": "HK"
+      },
+      {
+        "name": "DongFeng Automobile Co Ltd",
+        "market_cap": "USD 1.69B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600006 CH Equity",
+        "type": "manufacturer",
+        "size": 9.249796364951152,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600006 CH Equity",
+        "relation": 64610000.0,
+        "source": "489 HK Equity",
+        "score": 2.5967759542023656
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5500000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 2.104051766404173
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 24670000.0,
+        "source": "7201 JP Equity",
+        "score": 2.40421970580812
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1250000.0,
+        "source": "Zhengzhou... Equity",
+        "score": 1.8077309818556326
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 14400000.0,
+        "source": "Xiangfan ... Equity",
+        "score": 2.2965477667981338
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 12210000.0,
+        "source": "900953 CH Equity",
+        "score": 2.263553185597393
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 11950000.0,
+        "source": "DFDAZ CH Equity",
+        "score": 2.25924838400476
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 10360000.0,
+        "source": "Dongfeng1... Equity",
+        "score": 2.230692578264141
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 8840000.0,
+        "source": "LMAILZ CH Equity",
+        "score": 2.1989595095471985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5860000.0,
+        "source": "600081 CH Equity",
+        "score": 2.116732066440329
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3460000.0,
+        "source": "0535777D CH Equity",
+        "score": 2.0113558872102413
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3100000.0,
+        "source": "Dongfeng2... Equity",
+        "score": 1.9893825984071936
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 114130.0,
+        "source": "601127 CH Equity",
+        "score": 1.3290204380894801
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1920000.0,
+        "source": "LDASCZ CH Equity",
+        "score": 1.8935672529674323
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1240000.0,
+        "source": "ACCCMZ CH Equity",
+        "score": 1.8061245488065016
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1030000.0,
+        "source": "Dongfeng3... Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 898280.0,
+        "source": "TEN US Equity",
+        "score": 1.7416476431860985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 785000.0,
+        "source": "OPAIYZ CH Equity",
+        "score": 1.7146880541298168
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 746230.0,
+        "source": "0274203D CH Equity",
+        "score": 1.7045580965456613
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 445400.0,
+        "source": "ABPDHZ CH Equity",
+        "score": 1.6013460557951524
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 427440.0,
+        "source": "Shiyan Fe... Equity",
+        "score": 1.593114309227711
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 490230.0,
+        "source": "6816 JP Equity",
+        "score": 1.6205263975141402
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 490230.0,
+        "source": "6816 JP Equity",
+        "score": 1.6205263975141402
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 316850.0,
+        "source": "LEA US Equity",
+        "score": 1.5332373821628442
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 306530.0,
+        "source": "0915321D CH Equity",
+        "score": 1.5266148342337726
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 45090.0,
+        "source": "PTC US Equity",
+        "score": 1.1432875898071386
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 146390.0,
+        "source": "EGAQBZ CH Equity",
+        "score": 1.378807280641964
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 137220.0,
+        "source": "SO IM Equity",
+        "score": 1.3658696087571474
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 71960.0,
+        "source": "KOA NO Equity",
+        "score": 1.2367759169154278
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 52690.0,
+        "source": "CTS US Equity",
+        "score": 1.1744399883913235
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 17700.0,
+        "source": "002342 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Motor Group Co Ltd",
+        "market_cap": "USD 7.59B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "489 HK Equity",
+        "type": "supplier1",
+        "size": 10.75009742835395,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nissan Motor Co Ltd",
+        "market_cap": "USD 29.9B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7201 JP Equity",
+        "type": "supplier1",
+        "size": 12.121124317343053,
+        "country": "JP"
+      },
+      {
+        "name": "Zhengzhou Xiexin Metal Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Zhengzhou... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xiangfan Bangle Axle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Xiangfan ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kama Co Ltd",
+        "market_cap": "USD 338.56M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900953 CH Equity",
+        "type": "supplier1",
+        "size": 7.640211887194155,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Dana Axle Co Ltd/JV",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFDAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Special Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Cummins Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LMAILZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Electronic Technology Co Ltd",
+        "market_cap": "USD 559.38M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600081 CH Equity",
+        "type": "supplier1",
+        "size": 8.142339585500931,
+        "country": "CN"
+      },
+      {
+        "name": "Castrol Dongfeng Lubricants Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0535777D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng GETRAG Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.85B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "supplier1",
+        "size": 9.338451476036646,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Dongfeng Automotive Seating Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LDASCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen Hangsheng Electronics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACCCMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Zhongxiang Automobile Spring Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "Wuhan Dongfeng Motor Industry Import & Export Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "OPAIYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aeolus-Pan Automobile Aluminium Heat Exchange Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0274203D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dawnpro Information & Technologies Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPDHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shiyan Fengshen Car Xiangsu Zhipin Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shiyan Fe... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.35B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.845527375809176,
+        "country": "US"
+      },
+      {
+        "name": "Shanghai Dongfengtailifu Mo'ersi Control System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0915321D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 9.99B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.024850429606872,
+        "country": "US"
+      },
+      {
+        "name": "Dongfeng Yapp Automotive Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "EGAQBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 156.06M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.8657511066528905,
+        "country": "IT"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 391.44M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.785342804945142,
+        "country": "CH"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 887.76M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.604211994156582,
+        "country": "US"
+      },
+      {
+        "name": "Juli Sling Co Ltd",
+        "market_cap": "USD 512.53M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002342 CH Equity",
+        "type": "supplier1",
+        "size": 8.054869803849005,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Automobile Co Ltd",
+        "market_cap": "USD 1.69B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600006 CH Equity",
+        "type": "manufacturer",
+        "size": 9.249796364951152,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600006 CH Equity",
+        "relation": 64610000.0,
+        "source": "489 HK Equity",
+        "score": 2.5967759542023656
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5500000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 2.104051766404173
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 24670000.0,
+        "source": "7201 JP Equity",
+        "score": 2.40421970580812
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 14400000.0,
+        "source": "Xiangfan ... Equity",
+        "score": 2.2965477667981338
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1250000.0,
+        "source": "Zhengzhou... Equity",
+        "score": 1.8077309818556326
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 12210000.0,
+        "source": "900953 CH Equity",
+        "score": 2.263553185597393
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 11950000.0,
+        "source": "DFDAZ CH Equity",
+        "score": 2.25924838400476
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 10360000.0,
+        "source": "Dongfeng1... Equity",
+        "score": 2.230692578264141
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 8840000.0,
+        "source": "LMAILZ CH Equity",
+        "score": 2.1989595095471985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5860000.0,
+        "source": "600081 CH Equity",
+        "score": 2.116732066440329
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3460000.0,
+        "source": "0535777D CH Equity",
+        "score": 2.0113558872102413
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3100000.0,
+        "source": "Dongfeng2... Equity",
+        "score": 1.9893825984071936
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1920000.0,
+        "source": "LDASCZ CH Equity",
+        "score": 1.8935672529674323
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1240000.0,
+        "source": "ACCCMZ CH Equity",
+        "score": 1.8061245488065016
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1030000.0,
+        "source": "Dongfeng3... Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 898280.0,
+        "source": "TEN US Equity",
+        "score": 1.7416476431860985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 785000.0,
+        "source": "OPAIYZ CH Equity",
+        "score": 1.7146880541298168
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 785000.0,
+        "source": "OPAIYZ CH Equity",
+        "score": 1.7146880541298168
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 746230.0,
+        "source": "0274203D CH Equity",
+        "score": 1.7045580965456613
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 445400.0,
+        "source": "ABPDHZ CH Equity",
+        "score": 1.6013460557951524
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 427440.0,
+        "source": "Shiyan Fe... Equity",
+        "score": 1.593114309227711
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 316850.0,
+        "source": "LEA US Equity",
+        "score": 1.5332373821628442
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 490230.0,
+        "source": "6816 JP Equity",
+        "score": 1.6205263975141402
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 306530.0,
+        "source": "0915321D CH Equity",
+        "score": 1.5266148342337726
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 45090.0,
+        "source": "PTC US Equity",
+        "score": 1.1432875898071386
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 137220.0,
+        "source": "SO IM Equity",
+        "score": 1.3658696087571474
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 71960.0,
+        "source": "KOA NO Equity",
+        "score": 1.2367759169154278
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 54420.0,
+        "source": "CTS US Equity",
+        "score": 1.180901077553123
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 29110.0,
+        "source": "7256 JP Equity",
+        "score": 1.0557742777211674
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 9940.0,
+        "source": "002342 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 13590.0,
+        "source": "601127 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Motor Group Co Ltd",
+        "market_cap": "USD 7.59B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "489 HK Equity",
+        "type": "supplier1",
+        "size": 10.75009742835395,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nissan Motor Co Ltd",
+        "market_cap": "USD 29.9B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7201 JP Equity",
+        "type": "supplier1",
+        "size": 12.121124317343053,
+        "country": "JP"
+      },
+      {
+        "name": "Xiangfan Bangle Axle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Xiangfan ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhengzhou Xiexin Metal Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Zhengzhou... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kama Co Ltd",
+        "market_cap": "USD 338.56M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900953 CH Equity",
+        "type": "supplier1",
+        "size": 7.640211887194155,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Dana Axle Co Ltd/JV",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFDAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Special Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Cummins Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LMAILZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Electronic Technology Co Ltd",
+        "market_cap": "USD 559.29M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600081 CH Equity",
+        "type": "supplier1",
+        "size": 8.142178680139754,
+        "country": "CN"
+      },
+      {
+        "name": "Castrol Dongfeng Lubricants Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0535777D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng GETRAG Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Dongfeng Automotive Seating Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LDASCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen Hangsheng Electronics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACCCMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Zhongxiang Automobile Spring Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "Wuhan Dongfeng Motor Industry Import & Export Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "OPAIYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Wuhan Dongfeng Motor Industry Import & Export Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "OPAIYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aeolus-Pan Automobile Aluminium Heat Exchange Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0274203D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dawnpro Information & Technologies Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPDHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shiyan Fengshen Car Xiangsu Zhipin Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shiyan Fe... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.35B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.845527375809176,
+        "country": "US"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Shanghai Dongfengtailifu Mo'ersi Control System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0915321D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 9.99B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.024850429606872,
+        "country": "US"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 156.13M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.866199551517703,
+        "country": "IT"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 391.56M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.785649318357503,
+        "country": "CH"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 887.76M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.604211994156582,
+        "country": "US"
+      },
+      {
+        "name": "Kasai Kogyo Co Ltd",
+        "market_cap": "USD 280.48M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7256 JP Equity",
+        "type": "supplier1",
+        "size": 7.452012979137198,
+        "country": "JP"
+      },
+      {
+        "name": "Juli Sling Co Ltd",
+        "market_cap": "USD 512.45M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002342 CH Equity",
+        "type": "supplier1",
+        "size": 8.054713703241845,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.85B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "supplier1",
+        "size": 9.338451476036646,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Automobile Co Ltd",
+        "market_cap": "USD 1.69B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600006 CH Equity",
+        "type": "manufacturer",
+        "size": 9.249796364951152,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600006 CH Equity",
+        "relation": 64610000.0,
+        "source": "489 HK Equity",
+        "score": 2.5967759542023656
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5500000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 2.104051766404173
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 24670000.0,
+        "source": "7201 JP Equity",
+        "score": 2.40421970580812
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 14400000.0,
+        "source": "Xiangfan ... Equity",
+        "score": 2.2965477667981338
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1250000.0,
+        "source": "Zhengzhou... Equity",
+        "score": 1.8077309818556326
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 12210000.0,
+        "source": "900953 CH Equity",
+        "score": 2.263553185597393
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 11950000.0,
+        "source": "DFDAZ CH Equity",
+        "score": 2.25924838400476
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 10360000.0,
+        "source": "Dongfeng1... Equity",
+        "score": 2.230692578264141
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 8840000.0,
+        "source": "LMAILZ CH Equity",
+        "score": 2.1989595095471985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5860000.0,
+        "source": "600081 CH Equity",
+        "score": 2.116732066440329
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3460000.0,
+        "source": "0535777D CH Equity",
+        "score": 2.0113558872102413
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3100000.0,
+        "source": "Dongfeng2... Equity",
+        "score": 1.9893825984071936
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1920000.0,
+        "source": "LDASCZ CH Equity",
+        "score": 1.8935672529674323
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1240000.0,
+        "source": "ACCCMZ CH Equity",
+        "score": 1.8061245488065016
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1030000.0,
+        "source": "Dongfeng3... Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 898280.0,
+        "source": "TEN US Equity",
+        "score": 1.7416476431860985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 785000.0,
+        "source": "OPAIYZ CH Equity",
+        "score": 1.7146880541298168
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 746230.0,
+        "source": "0274203D CH Equity",
+        "score": 1.7045580965456613
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 445400.0,
+        "source": "ABPDHZ CH Equity",
+        "score": 1.6013460557951524
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 427440.0,
+        "source": "Shiyan Fe... Equity",
+        "score": 1.593114309227711
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 490230.0,
+        "source": "6816 JP Equity",
+        "score": 1.6205263975141402
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 316850.0,
+        "source": "LEA US Equity",
+        "score": 1.5332373821628442
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 306530.0,
+        "source": "0915321D CH Equity",
+        "score": 1.5266148342337726
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 45090.0,
+        "source": "PTC US Equity",
+        "score": 1.1432875898071386
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 146390.0,
+        "source": "EGAQBZ CH Equity",
+        "score": 1.378807280641964
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 137220.0,
+        "source": "SO IM Equity",
+        "score": 1.3658696087571474
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 71960.0,
+        "source": "KOA NO Equity",
+        "score": 1.2367759169154278
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 28840.0,
+        "source": "CTS US Equity",
+        "score": 1.053910652972311
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 29110.0,
+        "source": "7256 JP Equity",
+        "score": 1.0557742777211674
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 11560.0,
+        "source": "002342 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 13590.0,
+        "source": "601127 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Motor Group Co Ltd",
+        "market_cap": "USD 7.49B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "489 HK Equity",
+        "type": "supplier1",
+        "size": 10.736834634475539,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nissan Motor Co Ltd",
+        "market_cap": "USD 33.34B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7201 JP Equity",
+        "type": "supplier1",
+        "size": 12.230023714269059,
+        "country": "JP"
+      },
+      {
+        "name": "Xiangfan Bangle Axle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Xiangfan ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhengzhou Xiexin Metal Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Zhengzhou... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kama Co Ltd",
+        "market_cap": "USD 352.0M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900953 CH Equity",
+        "type": "supplier1",
+        "size": 7.679141733562371,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Dana Axle Co Ltd/JV",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFDAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Special Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Cummins Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LMAILZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Electronic Technology Co Ltd",
+        "market_cap": "USD 602.75M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600081 CH Equity",
+        "type": "supplier1",
+        "size": 8.217013075025555,
+        "country": "CN"
+      },
+      {
+        "name": "Castrol Dongfeng Lubricants Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0535777D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng GETRAG Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Dongfeng Automotive Seating Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LDASCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen Hangsheng Electronics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACCCMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Zhongxiang Automobile Spring Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Wuhan Dongfeng Motor Industry Import & Export Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "OPAIYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aeolus-Pan Automobile Aluminium Heat Exchange Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0274203D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dawnpro Information & Technologies Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPDHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shiyan Fengshen Car Xiangsu Zhipin Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shiyan Fe... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.891176026613856,
+        "country": "US"
+      },
+      {
+        "name": "Shanghai Dongfengtailifu Mo'ersi Control System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0915321D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 10.07B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.032826543676883,
+        "country": "US"
+      },
+      {
+        "name": "Dongfeng Yapp Automotive Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "EGAQBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 160.85M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.895982811649308,
+        "country": "IT"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 384.56M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.767610381549979,
+        "country": "CH"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 934.74M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.655778973716668,
+        "country": "US"
+      },
+      {
+        "name": "Kasai Kogyo Co Ltd",
+        "market_cap": "USD 279.78M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7256 JP Equity",
+        "type": "supplier1",
+        "size": 7.44951413801256,
+        "country": "JP"
+      },
+      {
+        "name": "Juli Sling Co Ltd",
+        "market_cap": "USD 530.84M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002342 CH Equity",
+        "type": "supplier1",
+        "size": 8.089971215533321,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.87B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "supplier1",
+        "size": 9.349204267812908,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Automobile Co Ltd",
+        "market_cap": "USD 1.69B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600006 CH Equity",
+        "type": "manufacturer",
+        "size": 9.249796364951152,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600006 CH Equity",
+        "relation": 64610000.0,
+        "source": "489 HK Equity",
+        "score": 2.5967759542023656
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5500000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 2.104051766404173
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 24670000.0,
+        "source": "7201 JP Equity",
+        "score": 2.40421970580812
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 14400000.0,
+        "source": "Xiangfan ... Equity",
+        "score": 2.2965477667981338
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1250000.0,
+        "source": "Zhengzhou... Equity",
+        "score": 1.8077309818556326
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 12210000.0,
+        "source": "900953 CH Equity",
+        "score": 2.263553185597393
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 11950000.0,
+        "source": "DFDAZ CH Equity",
+        "score": 2.25924838400476
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 10360000.0,
+        "source": "Dongfeng1... Equity",
+        "score": 2.230692578264141
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 8840000.0,
+        "source": "LMAILZ CH Equity",
+        "score": 2.1989595095471985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5710000.0,
+        "source": "CAAS US Equity",
+        "score": 2.1115459513527055
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 5860000.0,
+        "source": "600081 CH Equity",
+        "score": 2.116732066440329
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3460000.0,
+        "source": "0535777D CH Equity",
+        "score": 2.0113558872102413
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 2700000.0,
+        "source": "5949 JP Equity",
+        "score": 1.961752540268972
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 3100000.0,
+        "source": "Dongfeng2... Equity",
+        "score": 1.9893825984071936
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1920000.0,
+        "source": "LDASCZ CH Equity",
+        "score": 1.8935672529674323
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1240000.0,
+        "source": "ACCCMZ CH Equity",
+        "score": 1.8061245488065016
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 663850.0,
+        "source": "300750 CH Equity",
+        "score": 1.6811626011374607
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 1030000.0,
+        "source": "Dongfeng3... Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 898280.0,
+        "source": "TEN US Equity",
+        "score": 1.7416476431860985
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 785000.0,
+        "source": "OPAIYZ CH Equity",
+        "score": 1.7146880541298168
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 746230.0,
+        "source": "0274203D CH Equity",
+        "score": 1.7045580965456613
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 445400.0,
+        "source": "ABPDHZ CH Equity",
+        "score": 1.6013460557951524
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 427440.0,
+        "source": "Shiyan Fe... Equity",
+        "score": 1.593114309227711
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 205890.0,
+        "source": "7278 JP Equity",
+        "score": 1.4470204363042902
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 316850.0,
+        "source": "LEA US Equity",
+        "score": 1.5332373821628442
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 306530.0,
+        "source": "0915321D CH Equity",
+        "score": 1.5266148342337726
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 45090.0,
+        "source": "PTC US Equity",
+        "score": 1.1432875898071386
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 127480.0,
+        "source": "7239 JP Equity",
+        "score": 1.3511445225736498
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 146390.0,
+        "source": "EGAQBZ CH Equity",
+        "score": 1.378807280641964
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 137220.0,
+        "source": "SO IM Equity",
+        "score": 1.3658696087571474
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 30750.0,
+        "source": "CTS US Equity",
+        "score": 1.0667355586062186
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 29110.0,
+        "source": "7256 JP Equity",
+        "score": 1.0557742777211674
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 11560.0,
+        "source": "002342 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600006 CH Equity",
+        "relation": 6550.0,
+        "source": "601127 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Motor Group Co Ltd",
+        "market_cap": "USD 7.67B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "489 HK Equity",
+        "type": "supplier1",
+        "size": 10.760582452325576,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nissan Motor Co Ltd",
+        "market_cap": "USD 30.29B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7201 JP Equity",
+        "type": "supplier1",
+        "size": 12.134083461985558,
+        "country": "JP"
+      },
+      {
+        "name": "Xiangfan Bangle Axle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Xiangfan ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhengzhou Xiexin Metal Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Zhengzhou... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kama Co Ltd",
+        "market_cap": "USD 353.92M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900953 CH Equity",
+        "type": "supplier1",
+        "size": 7.68458145685819,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Dana Axle Co Ltd/JV",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFDAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Special Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Cummins Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LMAILZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Automotive Systems Inc",
+        "market_cap": "USD 79.69M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CAAS US Equity",
+        "type": "supplier1",
+        "size": 6.193654665373931,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Electronic Technology Co Ltd",
+        "market_cap": "USD 631.39M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600081 CH Equity",
+        "type": "supplier1",
+        "size": 8.26343429614203,
+        "country": "CN"
+      },
+      {
+        "name": "Castrol Dongfeng Lubricants Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0535777D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Unipres Corp",
+        "market_cap": "USD 732.53M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5949 JP Equity",
+        "type": "supplier1",
+        "size": 8.412014853648238,
+        "country": "JP"
+      },
+      {
+        "name": "Dongfeng GETRAG Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Dongfeng Automotive Seating Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "LDASCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen Hangsheng Electronics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACCCMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Contemporary Amperex Technology Co Ltd",
+        "market_cap": "USD 23.93B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300750 CH Equity",
+        "type": "supplier1",
+        "size": 11.898398738866693,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Zhongxiang Automobile Spring Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dongfeng3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.772056001115843,
+        "country": "US"
+      },
+      {
+        "name": "Wuhan Dongfeng Motor Industry Import & Export Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "OPAIYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aeolus-Pan Automobile Aluminium Heat Exchange Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0274203D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dawnpro Information & Technologies Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPDHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shiyan Fengshen Car Xiangsu Zhipin Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shiyan Fe... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 1000.0M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.72326583694641,
+        "country": "JP"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.49B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.862154837269667,
+        "country": "US"
+      },
+      {
+        "name": "Shanghai Dongfengtailifu Mo'ersi Control System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0915321D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 10.02B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.027848932603131,
+        "country": "US"
+      },
+      {
+        "name": "Tachi-S Co Ltd",
+        "market_cap": "USD 468.94M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7239 JP Equity",
+        "type": "supplier1",
+        "size": 7.965985386456865,
+        "country": "JP"
+      },
+      {
+        "name": "Dongfeng Yapp Automotive Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "EGAQBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 163.18M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.9103644439649266,
+        "country": "IT"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 909.11M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.62797665692159,
+        "country": "US"
+      },
+      {
+        "name": "Kasai Kogyo Co Ltd",
+        "market_cap": "USD 284.34M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7256 JP Equity",
+        "type": "supplier1",
+        "size": 7.4656812631718275,
+        "country": "JP"
+      },
+      {
+        "name": "Juli Sling Co Ltd",
+        "market_cap": "USD 533.16M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002342 CH Equity",
+        "type": "supplier1",
+        "size": 8.094332124700092,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.86B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "supplier1",
+        "size": 9.34384232467152,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Automobile Co Ltd",
+        "market_cap": "USD 1.69B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600006 CH Equity",
+        "type": "manufacturer",
+        "size": 9.249796364951152,
+        "country": "CN"
+      }
+    ]
+  }
+]

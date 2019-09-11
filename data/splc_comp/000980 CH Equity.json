@@ -1,0 +1,834 @@
+[
+  {
+    "links": [
+      {
+        "target": "000980 CH Equity",
+        "relation": 2800000.0,
+        "source": "600808 CH Equity",
+        "score": 1.969026066457645
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2270000.0,
+        "source": "Anhui Yul... Equity",
+        "score": 1.9270581659972246
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 1210000.0,
+        "source": "ADNT US Equity",
+        "score": 1.8012263488037727
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 43550.0,
+        "source": "8022718Z CH Equity",
+        "score": 1.1363375888259073
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 294170.0,
+        "source": "POM FP Equity",
+        "score": 1.5183833019782336
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 16210.0,
+        "source": "Zhejiang ... Equity",
+        "score": 1
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 8270.0,
+        "source": "600237 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Maanshan Iron & Steel Co Ltd",
+        "market_cap": "USD 3.7B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600808 CH Equity",
+        "type": "supplier1",
+        "size": 10.03159865659659,
+        "country": "CN"
+      },
+      {
+        "name": "Anhui Yulong Mold & Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Anhui Yul... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "Zhejiang Zotye Automobile Manufacture Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "8022718Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.97B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.10203193164551,
+        "country": "FR"
+      },
+      {
+        "name": "Zhejiang Xinyitang Wood Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Zhejiang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Anhui Tongfeng Electronics Co Ltd",
+        "market_cap": "USD 328.47M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600237 CH Equity",
+        "type": "supplier1",
+        "size": 7.609956067517718,
+        "country": "CN"
+      },
+      {
+        "name": "ZOTYE AUTOMOBILE CO LTD-A",
+        "market_cap": "USD 1.65B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000980 CH Equity",
+        "type": "manufacturer",
+        "size": 9.225999286168086,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000980 CH Equity",
+        "relation": 2800000.0,
+        "source": "600808 CH Equity",
+        "score": 1.969026066457645
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2270000.0,
+        "source": "Anhui Yul... Equity",
+        "score": 1.9270581659972246
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 1650000.0,
+        "source": "ADNT US Equity",
+        "score": 1.8632572903874371
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 657750.0,
+        "source": "POM FP Equity",
+        "score": 1.6793163438471717
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 43550.0,
+        "source": "8022718Z CH Equity",
+        "score": 1.1363375888259073
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 16210.0,
+        "source": "Zhejiang ... Equity",
+        "score": 1
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 8270.0,
+        "source": "600237 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Maanshan Iron & Steel Co Ltd",
+        "market_cap": "USD 3.63B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600808 CH Equity",
+        "type": "supplier1",
+        "size": 10.012498485223169,
+        "country": "CN"
+      },
+      {
+        "name": "Anhui Yulong Mold & Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Anhui Yul... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.94B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.385953810021647,
+        "country": "US"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.83B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.066130640138965,
+        "country": "FR"
+      },
+      {
+        "name": "Zhejiang Zotye Automobile Manufacture Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "8022718Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Xinyitang Wood Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Zhejiang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Anhui Tongfeng Electronics Co Ltd",
+        "market_cap": "USD 330.37M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600237 CH Equity",
+        "type": "supplier1",
+        "size": 7.615723796457139,
+        "country": "CN"
+      },
+      {
+        "name": "ZOTYE AUTOMOBILE CO LTD-A",
+        "market_cap": "USD 1.65B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000980 CH Equity",
+        "type": "manufacturer",
+        "size": 9.225999286168086,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000980 CH Equity",
+        "relation": 1650000.0,
+        "source": "ADNT US Equity",
+        "score": 1.8632572903874371
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2020000.0,
+        "source": "ACTPRZ CH Equity",
+        "score": 1.9037217128853543
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 657750.0,
+        "source": "POM FP Equity",
+        "score": 1.6793163438471717
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 1180000.0,
+        "source": "603011 CH Equity",
+        "score": 1.796205168779823
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 957290.0,
+        "source": "002475 CH Equity",
+        "score": 1.7543725398897392
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 36430.0,
+        "source": "0609553D CH Equity",
+        "score": 1.1006350679059587
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2390.0,
+        "source": "600237 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Tech-New Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACTPRZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.04502167692873,
+        "country": "FR"
+      },
+      {
+        "name": "Hefei Metalforming Intelligent Manufacturing Co Ltd",
+        "market_cap": "USD 349.46M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603011 CH Equity",
+        "type": "supplier1",
+        "size": 7.671899663875166,
+        "country": "CN"
+      },
+      {
+        "name": "Luxshare Precision Industry Co Ltd",
+        "market_cap": "USD 12.76B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002475 CH Equity",
+        "type": "supplier1",
+        "size": 11.269581114863055,
+        "country": "CN"
+      },
+      {
+        "name": "Zotye Holding Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0609553D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Anhui Tongfeng Electronics Co Ltd",
+        "market_cap": "USD 324.99M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600237 CH Equity",
+        "type": "supplier1",
+        "size": 7.599304970589859,
+        "country": "CN"
+      },
+      {
+        "name": "ZOTYE AUTOMOBILE CO LTD-A",
+        "market_cap": "USD 1.65B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000980 CH Equity",
+        "type": "manufacturer",
+        "size": 9.225999286168086,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000980 CH Equity",
+        "relation": 438480.0,
+        "source": "BABA US Equity",
+        "score": 1.5982143520646255
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 3100000.0,
+        "source": "ADNT US Equity",
+        "score": 1.9893825984071936
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2020000.0,
+        "source": "ACTPRZ CH Equity",
+        "score": 1.9037217128853543
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 1180000.0,
+        "source": "603011 CH Equity",
+        "score": 1.796205168779823
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 957290.0,
+        "source": "002475 CH Equity",
+        "score": 1.7543725398897392
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 705680.0,
+        "source": "POM FP Equity",
+        "score": 1.693383714600908
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 36430.0,
+        "source": "0609553D CH Equity",
+        "score": 1.1006350679059587
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2390.0,
+        "source": "600237 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Alibaba Group Holding Ltd",
+        "market_cap": "USD 438.43B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "BABA US Equity",
+        "type": "supplier1",
+        "size": 14.806466000895881,
+        "country": "CN"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Tech-New Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACTPRZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hefei Metalforming Intelligent Manufacturing Co Ltd",
+        "market_cap": "USD 349.41M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603011 CH Equity",
+        "type": "supplier1",
+        "size": 7.671756575746944,
+        "country": "CN"
+      },
+      {
+        "name": "Luxshare Precision Industry Co Ltd",
+        "market_cap": "USD 12.76B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002475 CH Equity",
+        "type": "supplier1",
+        "size": 11.269581114863055,
+        "country": "CN"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.04502167692873,
+        "country": "FR"
+      },
+      {
+        "name": "Zotye Holding Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0609553D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Anhui Tongfeng Electronics Co Ltd",
+        "market_cap": "USD 324.94M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600237 CH Equity",
+        "type": "supplier1",
+        "size": 7.599151107865879,
+        "country": "CN"
+      },
+      {
+        "name": "ZOTYE AUTOMOBILE CO LTD-A",
+        "market_cap": "USD 1.65B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000980 CH Equity",
+        "type": "manufacturer",
+        "size": 9.225999286168086,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000980 CH Equity",
+        "relation": 438480.0,
+        "source": "BABA US Equity",
+        "score": 1.5982143520646255
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 3100000.0,
+        "source": "ADNT US Equity",
+        "score": 1.9893825984071936
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2020000.0,
+        "source": "ACTPRZ CH Equity",
+        "score": 1.9037217128853543
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 1180000.0,
+        "source": "603011 CH Equity",
+        "score": 1.796205168779823
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 957290.0,
+        "source": "002475 CH Equity",
+        "score": 1.7543725398897392
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 705680.0,
+        "source": "POM FP Equity",
+        "score": 1.693383714600908
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 36430.0,
+        "source": "0609553D CH Equity",
+        "score": 1.1006350679059587
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2390.0,
+        "source": "600237 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Alibaba Group Holding Ltd",
+        "market_cap": "USD 460.22B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "BABA US Equity",
+        "type": "supplier1",
+        "size": 14.85497047296884,
+        "country": "CN"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "Tech-New Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACTPRZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hefei Metalforming Intelligent Manufacturing Co Ltd",
+        "market_cap": "USD 350.81M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603011 CH Equity",
+        "type": "supplier1",
+        "size": 7.675755324327387,
+        "country": "CN"
+      },
+      {
+        "name": "Luxshare Precision Industry Co Ltd",
+        "market_cap": "USD 13.86B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002475 CH Equity",
+        "type": "supplier1",
+        "size": 11.35227283070817,
+        "country": "CN"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.052989846577908,
+        "country": "FR"
+      },
+      {
+        "name": "Zotye Holding Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0609553D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Anhui Tongfeng Electronics Co Ltd",
+        "market_cap": "USD 329.32M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600237 CH Equity",
+        "type": "supplier1",
+        "size": 7.6125404803945,
+        "country": "CN"
+      },
+      {
+        "name": "ZOTYE AUTOMOBILE CO LTD-A",
+        "market_cap": "USD 1.65B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000980 CH Equity",
+        "type": "manufacturer",
+        "size": 9.225999286168086,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000980 CH Equity",
+        "relation": 658770.0,
+        "source": "BABA US Equity",
+        "score": 1.6796262513774947
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 1950000.0,
+        "source": "ADNT US Equity",
+        "score": 1.8966680886720622
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 1900000.0,
+        "source": "EO FP Equity",
+        "score": 1.891472994090464
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2020000.0,
+        "source": "ACTPRZ CH Equity",
+        "score": 1.9037217128853543
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 1180000.0,
+        "source": "603011 CH Equity",
+        "score": 1.796205168779823
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 705680.0,
+        "source": "POM FP Equity",
+        "score": 1.693383714600908
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 140400.0,
+        "source": "002475 CH Equity",
+        "score": 1.3704515786111213
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 36430.0,
+        "source": "0609553D CH Equity",
+        "score": 1.1006350679059587
+      },
+      {
+        "target": "000980 CH Equity",
+        "relation": 2390.0,
+        "source": "600237 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Alibaba Group Holding Ltd",
+        "market_cap": "USD 459.19B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "BABA US Equity",
+        "type": "supplier1",
+        "size": 14.852729904711161,
+        "country": "CN"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.91B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "US"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.01B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.516690585493528,
+        "country": "FR"
+      },
+      {
+        "name": "Tech-New Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACTPRZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hefei Metalforming Intelligent Manufacturing Co Ltd",
+        "market_cap": "USD 358.41M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603011 CH Equity",
+        "type": "supplier1",
+        "size": 7.697188140461517,
+        "country": "CN"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.9B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.08424239008201,
+        "country": "FR"
+      },
+      {
+        "name": "Luxshare Precision Industry Co Ltd",
+        "market_cap": "USD 14.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002475 CH Equity",
+        "type": "supplier1",
+        "size": 11.368021187676309,
+        "country": "CN"
+      },
+      {
+        "name": "Zotye Holding Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0609553D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Anhui Tongfeng Electronics Co Ltd",
+        "market_cap": "USD 336.41M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600237 CH Equity",
+        "type": "supplier1",
+        "size": 7.633841212137295,
+        "country": "CN"
+      },
+      {
+        "name": "ZOTYE AUTOMOBILE CO LTD-A",
+        "market_cap": "USD 1.65B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000980 CH Equity",
+        "type": "manufacturer",
+        "size": 9.225999286168086,
+        "country": "CN"
+      }
+    ]
+  }
+]

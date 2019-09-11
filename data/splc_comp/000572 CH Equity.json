@@ -1,0 +1,1138 @@
+[
+  {
+    "links": [
+      {
+        "target": "000572 CH Equity",
+        "relation": 21944280.88,
+        "source": "000559 CH Equity",
+        "score": 2.380803431388358
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 3482629.85,
+        "source": "1512 TT Equity",
+        "score": 2.012659711502485
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 1118302.89,
+        "source": "000710 CH Equity",
+        "score": 1.7854647423008747
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 898503.65,
+        "source": "FAWHMZ CH Equity",
+        "score": 1.7416974320969025
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 513854.98,
+        "source": "ALV US Equity",
+        "score": 1.6299396621245892
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 69270.91859,
+        "source": "CPS US Equity",
+        "score": 1.2291589775809268
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Wanxiang Qianchao Co Ltd",
+        "market_cap": "USD 18.03B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000559 CH Equity",
+        "type": "supplier1",
+        "size": 11.615302874161635,
+        "country": "CN"
+      },
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 228.44M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 7.246784151760938,
+        "country": "TW"
+      },
+      {
+        "name": "Berry Genomics Co Ltd",
+        "market_cap": "USD 12.75B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000710 CH Equity",
+        "type": "supplier1",
+        "size": 11.268797108550846,
+        "country": "CN"
+      },
+      {
+        "name": "FAW-Haima Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWHMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 44.43B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 12.517180753894227,
+        "country": "SE"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 6.28B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 10.560635817426519,
+        "country": "US"
+      },
+      {
+        "name": "Haima Automobile Group Co Ltd",
+        "market_cap": "USD 539.79M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000572 CH Equity",
+        "type": "manufacturer",
+        "size": 8.106694919454757,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000572 CH Equity",
+        "relation": 22250000.0,
+        "source": "000559 CH Equity",
+        "score": 2.383570522304068
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 3520000.0,
+        "source": "1512 TT Equity",
+        "score": 2.01479436633303
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 1070000.0,
+        "source": "ALV US Equity",
+        "score": 1.7766340282034183
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 1130000.0,
+        "source": "000710 CH Equity",
+        "score": 1.7875458151287766
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 911320.0,
+        "source": "FAWHMZ CH Equity",
+        "score": 1.7445300948443565
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 172390.0,
+        "source": "CPS US Equity",
+        "score": 1.411504086334542
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Wanxiang Qianchao Co Ltd",
+        "market_cap": "USD 2.58B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000559 CH Equity",
+        "type": "supplier1",
+        "size": 9.671055235879937,
+        "country": "CN"
+      },
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 31.83M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.275919799258276,
+        "country": "TW"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.26B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.557446022058418,
+        "country": "SE"
+      },
+      {
+        "name": "Berry Genomics Co Ltd",
+        "market_cap": "USD 1.84B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000710 CH Equity",
+        "type": "supplier1",
+        "size": 9.333031408567305,
+        "country": "CN"
+      },
+      {
+        "name": "FAW-Haima Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWHMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 864.73M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.577927877442399,
+        "country": "US"
+      },
+      {
+        "name": "Haima Automobile Group Co Ltd",
+        "market_cap": "USD 539.79M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000572 CH Equity",
+        "type": "manufacturer",
+        "size": 8.106694919454757,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000572 CH Equity",
+        "relation": 3550000.0,
+        "source": "1512 TT Equity",
+        "score": 2.01649168862834
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 956410.0,
+        "source": "ALV US Equity",
+        "score": 1.7541886031927976
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 818840.0,
+        "source": "HAIMAZ CH Equity",
+        "score": 1.7231290409587228
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 172390.0,
+        "source": "CPS US Equity",
+        "score": 1.411504086334542
+      }
+    ],
+    "nodes": [
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 29.1M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.1862487321417206,
+        "country": "TW"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 5.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.51335724907377,
+        "country": "SE"
+      },
+      {
+        "name": "Haima Investment Group Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "HAIMAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 795.87M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.494946413888137,
+        "country": "US"
+      },
+      {
+        "name": "Haima Automobile Group Co Ltd",
+        "market_cap": "USD 539.79M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000572 CH Equity",
+        "type": "manufacturer",
+        "size": 8.106694919454757,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000572 CH Equity",
+        "relation": 3550000.0,
+        "source": "1512 TT Equity",
+        "score": 2.01649168862834
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 956410.0,
+        "source": "ALV US Equity",
+        "score": 1.7541886031927976
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 818840.0,
+        "source": "HAIMAZ CH Equity",
+        "score": 1.7231290409587228
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 159950.0,
+        "source": "CPS US Equity",
+        "score": 1.3965245594623714
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 99700000.0,
+        "source": "TEN US Equity",
+        "score": 2.683535248992431
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 26340000.0,
+        "source": "200030 CH Equity",
+        "score": 2.417319858448896
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 10150000.0,
+        "source": "1573026D CH Equity",
+        "score": 2.226596872394847
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 9360000.0,
+        "source": "7950518Z CH Equity",
+        "score": 2.2103911910582754
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 6280000.0,
+        "source": "300392 CH Equity",
+        "score": 2.1305761395360077
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 5350000.0,
+        "source": "6473 JP Equity",
+        "score": 2.098521461157612
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 4150000.0,
+        "source": "MG CN Equity",
+        "score": 2.0477238266341415
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 492160.0,
+        "source": "002232 CH Equity",
+        "score": 1.6213122355433711
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 2980000.0,
+        "source": "7276 JP Equity",
+        "score": 1.9814868388104
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 2340000.0,
+        "source": "1074506D CH Equity",
+        "score": 1.933132382936844
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 2250000.0,
+        "source": "BWA US Equity",
+        "score": 1.9252882437249896
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 1890000.0,
+        "source": "600019 CH Equity",
+        "score": 1.8904175832272427
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 51920.0,
+        "source": "CMCO US Equity",
+        "score": 1.171495722318622
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 242530.0,
+        "source": "Changchun1... Equity",
+        "score": 1.4797769632482032
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 1520000.0,
+        "source": "INTC US Equity",
+        "score": 1.8468443101433958
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 1470000.0,
+        "source": "ALSN US Equity",
+        "score": 1.8401547278053592
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 1320000.0,
+        "source": "ALV US Equity",
+        "score": 1.8186286104276048
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 1090000.0,
+        "source": "ADJRZZ CH Equity",
+        "score": 1.7803378343272196
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 192540.0,
+        "source": "1477057D CH Equity",
+        "score": 1.4336128794088898
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 21110.0,
+        "source": "7722 JP Equity",
+        "score": 1
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 835880.0,
+        "source": "POM FP Equity",
+        "score": 1.727248307487458
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 750410.0,
+        "source": "TIFS LN Equity",
+        "score": 1.7056752670830653
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 671180.0,
+        "source": "MOD US Equity",
+        "score": 1.6833588252451057
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 551270.0,
+        "source": "1512 TT Equity",
+        "score": 1.6439963600511365
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 420000.0,
+        "source": "8106906Z CH Equity",
+        "score": 1.5896024742418193
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 480960.0,
+        "source": "7247 JP Equity",
+        "score": 1.6167082929439136
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 348220.0,
+        "source": "ADNT US Equity",
+        "score": 1.5521185229328425
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 270240.0,
+        "source": "Changchun2... Equity",
+        "score": 1.5014138864898454
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 241060.0,
+        "source": "ATU US Equity",
+        "score": 1.4785610584957078
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 105880.0,
+        "source": "VC US Equity",
+        "score": 1.3140142201901526
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 56070.0,
+        "source": "STRT US Equity",
+        "score": 1.1868748047615947
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 20770.0,
+        "source": "002009 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 15250.0,
+        "source": "ACIXPZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 1630.0,
+        "source": "000927 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 29.05M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.184529041262195,
+        "country": "TW"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 5.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.51335724907377,
+        "country": "SE"
+      },
+      {
+        "name": "Haima Investment Group Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "HAIMAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 795.87M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.494946413888137,
+        "country": "US"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "FAWER Automotive Parts Co Ltd",
+        "market_cap": "USD 1.3B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200030 CH Equity",
+        "type": "supplier1",
+        "size": 8.985630101413904,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Fawsn Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1573026D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faway-Johnson Controls Automotive Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7950518Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Beijing Tensyn Digital Marketing Technology JSC",
+        "market_cap": "USD 531.06M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300392 CH Equity",
+        "type": "supplier1",
+        "size": 8.090385567173115,
+        "country": "CN"
+      },
+      {
+        "name": "JTEKT Corp",
+        "market_cap": "USD 3.78B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6473 JP Equity",
+        "type": "supplier1",
+        "size": 10.052989846577908,
+        "country": "JP"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.5B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.397414486372941,
+        "country": "CA"
+      },
+      {
+        "name": "Qiming Information Technology Co Ltd",
+        "market_cap": "USD 478.13M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002232 CH Equity",
+        "type": "supplier1",
+        "size": 7.985393220006735,
+        "country": "CN"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.12B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.817595991119997,
+        "country": "JP"
+      },
+      {
+        "name": "Yanfeng Visteon Investment Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1074506D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.52B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.740831974908161,
+        "country": "US"
+      },
+      {
+        "name": "Baoshan Iron & Steel Co Ltd",
+        "market_cap": "USD 21.78B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600019 CH Equity",
+        "type": "supplier1",
+        "size": 11.804257954451227,
+        "country": "CN"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 821.86M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.527080622213283,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Automobile Economic & Technology Development Zone Sanitation Cleaning",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Intel Corp",
+        "market_cap": "USD 200.97B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "INTC US Equity",
+        "type": "supplier1",
+        "size": 14.026421480134697,
+        "country": "US"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.47B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.4225444533803,
+        "country": "US"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 5.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.51335724907377,
+        "country": "SE"
+      },
+      {
+        "name": "Changchun Faway High New Automotive Accessories Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADJRZZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Sanguard Automobile Insurance Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1477057D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kokusai Co Ltd",
+        "market_cap": "USD 94.74M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7722 JP Equity",
+        "type": "supplier1",
+        "size": 6.36664685545988,
+        "country": "JP"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.04502167692873,
+        "country": "FR"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 8.96228273741691,
+        "country": "GB"
+      },
+      {
+        "name": "Modine Manufacturing Co",
+        "market_cap": "USD 654.63M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MOD US Equity",
+        "type": "supplier1",
+        "size": 8.299580748495423,
+        "country": "US"
+      },
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 29.05M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.184529041262195,
+        "country": "TW"
+      },
+      {
+        "name": "Changchun Mekra-Lang Automobile Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "8106906Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 119.31M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.597235705851983,
+        "country": "JP"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Fawer Meikelang Auto Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.48B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.115307924722433,
+        "country": "US"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "US"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 102.17M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.442148650567606,
+        "country": "US"
+      },
+      {
+        "name": "Miracle Automation Engineering Co Ltd",
+        "market_cap": "USD 466.89M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002009 CH Equity",
+        "type": "supplier1",
+        "size": 7.961604241849301,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faw Steel Processing & Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACIXPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tianjin Faw Xiali Automobile Co Ltd",
+        "market_cap": "USD 1.01B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000927 CH Equity",
+        "type": "supplier1",
+        "size": 8.73321616779958,
+        "country": "CN"
+      },
+      {
+        "name": "Haima Automobile Group Co Ltd",
+        "market_cap": "USD 539.79M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000572 CH Equity",
+        "type": "manufacturer",
+        "size": 8.106694919454757,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000572 CH Equity",
+        "relation": 3550000.0,
+        "source": "1512 TT Equity",
+        "score": 2.01649168862834
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 956410.0,
+        "source": "ALV US Equity",
+        "score": 1.7541886031927976
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 818840.0,
+        "source": "HAIMAZ CH Equity",
+        "score": 1.7231290409587228
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 159950.0,
+        "source": "CPS US Equity",
+        "score": 1.3965245594623714
+      }
+    ],
+    "nodes": [
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 32.71M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.303191399514567,
+        "country": "TW"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.596605293166888,
+        "country": "SE"
+      },
+      {
+        "name": "Haima Investment Group Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "HAIMAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 920.63M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.640568776259428,
+        "country": "US"
+      },
+      {
+        "name": "Haima Automobile Group Co Ltd",
+        "market_cap": "USD 539.79M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000572 CH Equity",
+        "type": "manufacturer",
+        "size": 8.106694919454757,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000572 CH Equity",
+        "relation": 3550000.0,
+        "source": "1512 TT Equity",
+        "score": 2.01649168862834
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 824430.0,
+        "source": "ALV US Equity",
+        "score": 1.7244897460793505
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 818840.0,
+        "source": "HAIMAZ CH Equity",
+        "score": 1.7231290409587228
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 251820.0,
+        "source": "002306 CH Equity",
+        "score": 1.4872947593276535
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 160830.0,
+        "source": "7278 JP Equity",
+        "score": 1.397621880643162
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 159950.0,
+        "source": "CPS US Equity",
+        "score": 1.3965245594623714
+      },
+      {
+        "target": "000572 CH Equity",
+        "relation": 72170.0,
+        "source": "7247 JP Equity",
+        "score": 1.2373587164286497
+      }
+    ],
+    "nodes": [
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 31.07M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.251753281369229,
+        "country": "TW"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.24B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.55424601932775,
+        "country": "SE"
+      },
+      {
+        "name": "Haima Investment Group Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "HAIMAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cloud Live Technology Group Co Ltd",
+        "market_cap": "USD 365.21M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002306 CH Equity",
+        "type": "supplier1",
+        "size": 7.7159830885664995,
+        "country": "CN"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 1000.0M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.72326583694641,
+        "country": "JP"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 847.21M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.5574591557701,
+        "country": "US"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 121.27M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.613530022632975,
+        "country": "JP"
+      },
+      {
+        "name": "Haima Automobile Group Co Ltd",
+        "market_cap": "USD 539.79M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000572 CH Equity",
+        "type": "manufacturer",
+        "size": 8.106694919454757,
+        "country": "CN"
+      }
+    ]
+  }
+]

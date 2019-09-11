@@ -1,0 +1,482 @@
+[
+  {
+    "links": [
+      {
+        "target": "601127 CH Equity",
+        "relation": 2010000.0,
+        "source": "ADHXUZ CH Equity",
+        "score": 1.9027291555095145
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 42300.0,
+        "source": "DFMZ CH Equity",
+        "score": 1.1305132010833745
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 5930.0,
+        "source": "600006 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Automobile Wheel Co Ltd Suizhou Wheel Factory",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADHXUZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Automobile Co Ltd",
+        "market_cap": "USD 1.61B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600006 CH Equity",
+        "type": "supplier1",
+        "size": 9.199500015942782,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.78B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "manufacturer",
+        "size": 9.29954206577494,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601127 CH Equity",
+        "relation": 2010000.0,
+        "source": "ADHXUZ CH Equity",
+        "score": 1.9027291555095145
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 42300.0,
+        "source": "DFMZ CH Equity",
+        "score": 1.1305132010833745
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 5930.0,
+        "source": "600006 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Automobile Wheel Co Ltd Suizhou Wheel Factory",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADHXUZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Automobile Co Ltd",
+        "market_cap": "USD 1.52B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600006 CH Equity",
+        "type": "supplier1",
+        "size": 9.141976171804597,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.78B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "manufacturer",
+        "size": 9.29954206577494,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601127 CH Equity",
+        "relation": 2810000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 1.9697390794363505
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 77540.0,
+        "source": "1277162D CH Equity",
+        "score": 1.2517124215422544
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 63730.0,
+        "source": "DFMZ CH Equity",
+        "score": 1.2124852758764946
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 12800.0,
+        "source": "489 HK Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Xiao Kang Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1277162D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Group Co Ltd",
+        "market_cap": "USD 7.59B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "489 HK Equity",
+        "type": "supplier1",
+        "size": 10.75009742835395,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.78B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "manufacturer",
+        "size": 9.29954206577494,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601127 CH Equity",
+        "relation": 1950000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 1.8966680886720622
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 1840000.0,
+        "source": "1277162D CH Equity",
+        "score": 1.8850553346126562
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 799620.0,
+        "source": "DFMZ CH Equity",
+        "score": 1.7183786288790155
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 12800.0,
+        "source": "489 HK Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Xiao Kang Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1277162D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Group Co Ltd",
+        "market_cap": "USD 7.59B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "489 HK Equity",
+        "type": "supplier1",
+        "size": 10.75009742835395,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.78B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "manufacturer",
+        "size": 9.29954206577494,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601127 CH Equity",
+        "relation": 1950000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 1.8966680886720622
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 1840000.0,
+        "source": "1277162D CH Equity",
+        "score": 1.8850553346126562
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 799620.0,
+        "source": "DFMZ CH Equity",
+        "score": 1.7183786288790155
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 12800.0,
+        "source": "489 HK Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Xiao Kang Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1277162D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Group Co Ltd",
+        "market_cap": "USD 7.49B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "489 HK Equity",
+        "type": "supplier1",
+        "size": 10.736834634475539,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.78B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "manufacturer",
+        "size": 9.29954206577494,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601127 CH Equity",
+        "relation": 1920000.0,
+        "source": "1277162D CH Equity",
+        "score": 1.8935672529674323
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 1620000.0,
+        "source": "DFMTCZ CH Equity",
+        "score": 1.8595874648984654
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 1240000.0,
+        "source": "601965 CH Equity",
+        "score": 1.8061245488065016
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 593030.0,
+        "source": "DFMZ CH Equity",
+        "score": 1.6586003906346711
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 12800.0,
+        "source": "489 HK Equity",
+        "score": 1
+      },
+      {
+        "target": "601127 CH Equity",
+        "relation": 15010.0,
+        "source": "THRM US Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Chongqing Xiao Kang Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1277162D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMTCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Automotive Engineering Research Institute Co Ltd",
+        "market_cap": "USD 1.02B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601965 CH Equity",
+        "type": "supplier1",
+        "size": 8.74306846424259,
+        "country": "CN"
+      },
+      {
+        "name": "DongFeng Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "DFMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dongfeng Motor Group Co Ltd",
+        "market_cap": "USD 7.67B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "489 HK Equity",
+        "type": "supplier1",
+        "size": 10.760582452325576,
+        "country": "CN"
+      },
+      {
+        "name": "Gentherm Inc",
+        "market_cap": "USD 1.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "THRM US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "US"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.78B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "manufacturer",
+        "size": 9.29954206577494,
+        "country": "CN"
+      }
+    ]
+  }
+]

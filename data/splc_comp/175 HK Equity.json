@@ -1,0 +1,7250 @@
+[
+  {
+    "links": [
+      {
+        "target": "175 HK Equity",
+        "relation": 110880000.0,
+        "source": "EO FP Equity",
+        "score": 2.7047918204849255
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 86540000.0,
+        "source": "GEST SM Equity",
+        "score": 2.6552234608632723
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 57160000.0,
+        "source": "GKN LN Equity",
+        "score": 2.5722729857041386
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 60870000.0,
+        "source": "204320 KS Equity",
+        "score": 2.5848502033797125
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 53290000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.5582518546076423
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 48320000.0,
+        "source": "7276 JP Equity",
+        "score": 2.5386712264572395
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 21500000.0,
+        "source": "TEN US Equity",
+        "score": 2.3767127079219037
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 32550000.0,
+        "source": "CON GR Equity",
+        "score": 2.4596575914681638
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 29190000.0,
+        "source": "LEA US Equity",
+        "score": 2.4378673554177213
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 29610000.0,
+        "source": "TKA GR Equity",
+        "score": 2.440724546770029
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 17470000.0,
+        "source": "UNW PW Equity",
+        "score": 2.3351991478702443
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 17360000.0,
+        "source": "CPS US Equity",
+        "score": 2.333935864960033
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 719320.0,
+        "source": "KU2 GR Equity",
+        "score": 1.6972125980960047
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 25320000.0,
+        "source": "ML FP Equity",
+        "score": 2.409421038946944
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 18630000.0,
+        "source": "ALV US Equity",
+        "score": 2.3480567592509267
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 13570000.0,
+        "source": "018880 KS Equity",
+        "score": 2.284674421100603
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 355040.0,
+        "source": "DSY FP Equity",
+        "score": 1.5559977109493
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11780000.0,
+        "source": "GNTX US Equity",
+        "score": 2.256382764215471
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11620000.0,
+        "source": "MRE CN Equity",
+        "score": 2.253647679089311
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11050000.0,
+        "source": "FR FP Equity",
+        "score": 2.243588215285154
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11590000.0,
+        "source": "BAS GR Equity",
+        "score": 2.2531306603194414
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10620000.0,
+        "source": "DLPH US Equity",
+        "score": 2.2356499335880047
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10020000.0,
+        "source": "MG CN Equity",
+        "score": 2.2240187506842775
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 9940000.0,
+        "source": "PYT AV Equity",
+        "score": 2.222415535847275
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 9280000.0,
+        "source": "SW1 GR Equity",
+        "score": 2.2086744425041998
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8180000.0,
+        "source": "ADNT US Equity",
+        "score": 2.183440566165662
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8790000.0,
+        "source": "ERICB SS Equity",
+        "score": 2.1978250766853993
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7630000.0,
+        "source": "LEO GR Equity",
+        "score": 2.1695197068644463
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5330000.0,
+        "source": "AKW FP Equity",
+        "score": 2.097772396751854
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7360000.0,
+        "source": "BWA US Equity",
+        "score": 2.1623141253149227
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7290000.0,
+        "source": "2105 TT Equity",
+        "score": 2.1604028482318087
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6640000.0,
+        "source": "AKZA NA Equity",
+        "score": 2.141724534411003
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6040000.0,
+        "source": "012330 KS Equity",
+        "score": 2.1227829470947794
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4870000.0,
+        "source": "7312 JP Equity",
+        "score": 2.079720940079512
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5360000.0,
+        "source": "7278 JP Equity",
+        "score": 2.0988949439228266
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4860000.0,
+        "source": "HLE GR Equity",
+        "score": 2.0793098403275945
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4630000.0,
+        "source": "MT NA Equity",
+        "score": 2.0696135284090227
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3070000.0,
+        "source": "300207 CH Equity",
+        "score": 1.9874376890592451
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2110000.0,
+        "source": "PPG US Equity",
+        "score": 1.912439795877157
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4190000.0,
+        "source": "6472 JP Equity",
+        "score": 2.0496423061123554
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3740000.0,
+        "source": "SKFB SS Equity",
+        "score": 2.0269192873540716
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3600000.0,
+        "source": "GMM GR Equity",
+        "score": 2.0192889362408155
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3510000.0,
+        "source": "TOWR US Equity",
+        "score": 2.0142253760684588
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3040000.0,
+        "source": "VOE AV Equity",
+        "score": 1.9854736804659439
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3040000.0,
+        "source": "BRE IM Equity",
+        "score": 1.9854736804659439
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2840000.0,
+        "source": "SEMC SS Equity",
+        "score": 1.9718629924500006
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2670000.0,
+        "source": "ST US Equity",
+        "score": 1.9595178809816396
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2240000.0,
+        "source": "5334 JP Equity",
+        "score": 1.9243973740519391
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2610000.0,
+        "source": "NEMAKA MM Equity",
+        "score": 1.954972232488113
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2220000.0,
+        "source": "6816 JP Equity",
+        "score": 1.9226036408597622
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2090000.0,
+        "source": "092200 KS Equity",
+        "score": 1.910535020481956
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1770000.0,
+        "source": "DAN US Equity",
+        "score": 1.8772981339043207
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 846300.0,
+        "source": "354 HK Equity",
+        "score": 1.7297260734543167
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1650000.0,
+        "source": "AXL US Equity",
+        "score": 1.8632572903874371
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1620000.0,
+        "source": "SO IM Equity",
+        "score": 1.8595874648984654
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1580000.0,
+        "source": "ZIL2 GR Equity",
+        "score": 1.8545872075828682
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1400000.0,
+        "source": "SSABA SS Equity",
+        "score": 1.8303967017741893
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 631950.0,
+        "source": "698 HK Equity",
+        "score": 1.6713134276955381
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1060000.0,
+        "source": "KOA NO Equity",
+        "score": 1.7747560818968062
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 802490.0,
+        "source": "AUTN SW Equity",
+        "score": 1.7190951837940296
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 609850.0,
+        "source": "600718 CH Equity",
+        "score": 1.6641939888035036
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 527270.0,
+        "source": "SHLO US Equity",
+        "score": 1.6350939853701685
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 440600.0,
+        "source": "300328 CH Equity",
+        "score": 1.5991789965960246
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 296800.0,
+        "source": "SLTIAZ CH Equity",
+        "score": 1.5201634319083848
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 411170.0,
+        "source": "VC US Equity",
+        "score": 1.5853528930688476
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 172470.0,
+        "source": "STRT US Equity",
+        "score": 1.4115968770756906
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 48230.0,
+        "source": "0926227D CH Equity",
+        "score": 1.1567514493662139
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 17100.0,
+        "source": "MBBYF US Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.12B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.534827933470645,
+        "country": "FR"
+      },
+      {
+        "name": "Gestamp Automocion SA",
+        "market_cap": "USD 3.43B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GEST SM Equity",
+        "type": "supplier1",
+        "size": 9.955826098124259,
+        "country": "ES"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Mando Corp",
+        "market_cap": "USD 1.23B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "204320 KS Equity",
+        "type": "supplier1",
+        "size": 8.930280006330737,
+        "country": "KR"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.71B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.887737627810822,
+        "country": "JP"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 30.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.14132033567499,
+        "country": "DE"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.891176026613856,
+        "country": "US"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 9.84B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 11.009721548010575,
+        "country": "DE"
+      },
+      {
+        "name": "Superior Industries Europe AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "UNW PW Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 920.63M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.640568776259428,
+        "country": "US"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.47B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.627483987586299,
+        "country": "DE"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.22B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.824258621157895,
+        "country": "FR"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.596605293166888,
+        "country": "SE"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.23B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.377677115023243,
+        "country": "KR"
+      },
+      {
+        "name": "Dassault Systemes SE",
+        "market_cap": "USD 40.15B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DSY FP Equity",
+        "type": "supplier1",
+        "size": 12.415888277339182,
+        "country": "FR"
+      },
+      {
+        "name": "Gentex Corp",
+        "market_cap": "USD 5.78B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "GNTX US Equity",
+        "type": "supplier1",
+        "size": 10.477669519630698,
+        "country": "US"
+      },
+      {
+        "name": "Martinrea International Inc",
+        "market_cap": "USD 658.0M",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MRE CN Equity",
+        "type": "supplier1",
+        "size": 8.304715489289592,
+        "country": "CA"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.71B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.76578402452165,
+        "country": "FR"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 67.87B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.94085994766208,
+        "country": "DE"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "GB"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 15.37B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.455683394496916,
+        "country": "CA"
+      },
+      {
+        "name": "POLYTEC Holding AG",
+        "market_cap": "USD 244.14M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "PYT AV Equity",
+        "type": "supplier1",
+        "size": 7.313252389205928,
+        "country": "AT"
+      },
+      {
+        "name": "SHW AG",
+        "market_cap": "USD 143.2M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SW1 GR Equity",
+        "type": "supplier1",
+        "size": 6.77975281249082,
+        "country": "DE"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "Telefonaktiebolaget LM Ericsson",
+        "market_cap": "USD 30.63B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ERICB SS Equity",
+        "type": "supplier1",
+        "size": 12.145245757791095,
+        "country": "SE"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 653.99M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.298602618784695,
+        "country": "DE"
+      },
+      {
+        "name": "AKWEL",
+        "market_cap": "USD 495.21M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKW FP Equity",
+        "type": "supplier1",
+        "size": 8.020492472991833,
+        "country": "FR"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.98B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.800204248408129,
+        "country": "US"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.16B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.148780911219582,
+        "country": "TW"
+      },
+      {
+        "name": "Akzo Nobel NV",
+        "market_cap": "USD 19.17B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKZA NA Equity",
+        "type": "supplier1",
+        "size": 11.676612394003964,
+        "country": "NL"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 18.09B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.618625136353614,
+        "country": "KR"
+      },
+      {
+        "name": "TKJP Corp",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7312 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 1.01B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.73321616779958,
+        "country": "JP"
+      },
+      {
+        "name": "Hella GmbH & Co KGaA",
+        "market_cap": "USD 5.68B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "HLE GR Equity",
+        "type": "supplier1",
+        "size": 10.46021706967947,
+        "country": "DE"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 18.5B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.641036569030689,
+        "country": "LU"
+      },
+      {
+        "name": "Sunwoda Electronic Co Ltd",
+        "market_cap": "USD 2.9B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300207 CH Equity",
+        "type": "supplier1",
+        "size": 9.787976573938838,
+        "country": "CN"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.5B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 12.000410569938587,
+        "country": "US"
+      },
+      {
+        "name": "NTN Corp",
+        "market_cap": "USD 1.59B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6472 JP Equity",
+        "type": "supplier1",
+        "size": 9.186999853178552,
+        "country": "JP"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.65B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.757971484784857,
+        "country": "SE"
+      },
+      {
+        "name": "Grammer AG",
+        "market_cap": "USD 486.62M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GMM GR Equity",
+        "type": "supplier1",
+        "size": 8.002994088989809,
+        "country": "DE"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 425.36M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.868446427160357,
+        "country": "US"
+      },
+      {
+        "name": "voestalpine AG",
+        "market_cap": "USD 5.31B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOE AV Equity",
+        "type": "supplier1",
+        "size": 10.392857672200257,
+        "country": "AT"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 4.07B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.126908836400915,
+        "country": "IT"
+      },
+      {
+        "name": "Semcon AB",
+        "market_cap": "USD 113.31M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SEMC SS Equity",
+        "type": "supplier1",
+        "size": 6.545637983356748,
+        "country": "SE"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.9B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.790128596419386,
+        "country": "US"
+      },
+      {
+        "name": "NGK Spark Plug Co Ltd",
+        "market_cap": "USD 3.6B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5334 JP Equity",
+        "type": "supplier1",
+        "size": 10.004199682408476,
+        "country": "JP"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.52B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.141976171804597,
+        "country": "MX"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 124.58M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.640458637790275,
+        "country": "KR"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.46B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.623427186890684,
+        "country": "US"
+      },
+      {
+        "name": "Chinasoft International Ltd",
+        "market_cap": "USD 1.31B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "354 HK Equity",
+        "type": "supplier1",
+        "size": 8.99329297415947,
+        "country": "CN"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "US"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 171.42M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.959627243435012,
+        "country": "IT"
+      },
+      {
+        "name": "ElringKlinger AG",
+        "market_cap": "USD 434.31M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ZIL2 GR Equity",
+        "type": "supplier1",
+        "size": 7.889269122798336,
+        "country": "DE"
+      },
+      {
+        "name": "SSAB AB",
+        "market_cap": "USD 3.2B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SSABA SS Equity",
+        "type": "supplier1",
+        "size": 9.886416646752092,
+        "country": "SE"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 602.65M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.216847154998625,
+        "country": "HK"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 397.85M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.801585607787818,
+        "country": "CH"
+      },
+      {
+        "name": "Autoneum Holding AG",
+        "market_cap": "USD 566.26M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AUTN SW Equity",
+        "type": "supplier1",
+        "size": 8.15456389464973,
+        "country": "CH"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.33B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.569134104524021,
+        "country": "CN"
+      },
+      {
+        "name": "Shiloh Industries Inc",
+        "market_cap": "USD 133.24M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SHLO US Equity",
+        "type": "supplier1",
+        "size": 6.707662571289752,
+        "country": "US"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 563.2M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.149145362808106,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai LTI Automobile Components Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "SLTIAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.282881624881835,
+        "country": "US"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 105.89M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.477911377406638,
+        "country": "US"
+      },
+      {
+        "name": "Kandi Electric Vehicles Shanghai Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0926227D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mobileye NV",
+        "market_cap": "--",
+        "region": "Middle East",
+        "score": 1.0,
+        "ticker": "MBBYF US Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "IL"
+      },
+      {
+        "name": "Geely Automobile Holdings Ltd",
+        "market_cap": "USD 18.17B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "175 HK Equity",
+        "type": "manufacturer",
+        "size": 11.623029760233056,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "175 HK Equity",
+        "relation": 107860000.0,
+        "source": "EO FP Equity",
+        "score": 2.6992689314289264
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 57160000.0,
+        "source": "GKN LN Equity",
+        "score": 2.5722729857041386
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 86590000.0,
+        "source": "GEST SM Equity",
+        "score": 2.6553389809945322
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 60870000.0,
+        "source": "204320 KS Equity",
+        "score": 2.5848502033797125
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 59000000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.5786096037638293
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 48980000.0,
+        "source": "7276 JP Equity",
+        "score": 2.541384525980958
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 37490000.0,
+        "source": "TKA GR Equity",
+        "score": 2.4879169630771747
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 38310000.0,
+        "source": "ALV US Equity",
+        "score": 2.492244308555935
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 37450000.0,
+        "source": "CON GR Equity",
+        "score": 2.4877034589259543
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 17470000.0,
+        "source": "UNW PW Equity",
+        "score": 2.3351991478702443
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 25320000.0,
+        "source": "ML FP Equity",
+        "score": 2.409421038946944
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 27820000.0,
+        "source": "TEN US Equity",
+        "score": 2.4282531560809866
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1730000.0,
+        "source": "KU2 GR Equity",
+        "score": 1.8727265089016951
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 16600000.0,
+        "source": "LEA US Equity",
+        "score": 2.324982662713547
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 18090000.0,
+        "source": "CPS US Equity",
+        "score": 2.3421739825301273
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12540000.0,
+        "source": "018880 KS Equity",
+        "score": 2.268886834582772
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12030000.0,
+        "source": "MG CN Equity",
+        "score": 2.2605828342152754
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 355040.0,
+        "source": "DSY FP Equity",
+        "score": 1.5559977109493
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15560000.0,
+        "source": "ADNT US Equity",
+        "score": 2.312042828196374
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10920000.0,
+        "source": "GNTX US Equity",
+        "score": 2.2412213239712244
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11050000.0,
+        "source": "FR FP Equity",
+        "score": 2.243588215285154
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11590000.0,
+        "source": "BAS GR Equity",
+        "score": 2.2531306603194414
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11160000.0,
+        "source": "MRE CN Equity",
+        "score": 2.2455693209046337
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10420000.0,
+        "source": "SW1 GR Equity",
+        "score": 2.231847538051756
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 9940000.0,
+        "source": "PYT AV Equity",
+        "score": 2.222415535847275
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8790000.0,
+        "source": "ERICB SS Equity",
+        "score": 2.1978250766853993
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11220000.0,
+        "source": "LEO GR Equity",
+        "score": 2.246641709437076
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5330000.0,
+        "source": "AKW FP Equity",
+        "score": 2.097772396751854
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7270000.0,
+        "source": "2105 TT Equity",
+        "score": 2.159853397412255
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8940000.0,
+        "source": "DLPH US Equity",
+        "score": 2.201209251801303
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6640000.0,
+        "source": "AKZA NA Equity",
+        "score": 2.141724534411003
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8430000.0,
+        "source": "BWA US Equity",
+        "score": 2.1894614897203986
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5770000.0,
+        "source": "7278 JP Equity",
+        "score": 2.1136365623588986
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5740000.0,
+        "source": "012330 KS Equity",
+        "score": 2.1125939885023524
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5670000.0,
+        "source": "005930 KS Equity",
+        "score": 2.1101399704141524
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5910000.0,
+        "source": "HLE GR Equity",
+        "score": 2.118431311717401
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4870000.0,
+        "source": "7312 JP Equity",
+        "score": 2.079720940079512
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5050000.0,
+        "source": "3481 TT Equity",
+        "score": 2.086979799854265
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4990000.0,
+        "source": "SKFB SS Equity",
+        "score": 2.0845893336256966
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4360000.0,
+        "source": "6472 JP Equity",
+        "score": 2.057596568936598
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2110000.0,
+        "source": "PPG US Equity",
+        "score": 1.912439795877157
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4110000.0,
+        "source": "HON US Equity",
+        "score": 2.045786765956278
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3980000.0,
+        "source": "GMM GR Equity",
+        "score": 2.039358525703374
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3840000.0,
+        "source": "BRE IM Equity",
+        "score": 2.0321966369961086
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4150000.0,
+        "source": "NEMAKA MM Equity",
+        "score": 2.0477238266341415
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3330000.0,
+        "source": "MT NA Equity",
+        "score": 2.0036966324513763
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4150000.0,
+        "source": "NEMAKA MM Equity",
+        "score": 2.0477238266341415
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3140000.0,
+        "source": "VOE AV Equity",
+        "score": 1.9919467352711449
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2850000.0,
+        "source": "SHLO US Equity",
+        "score": 1.9725659806243927
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2820000.0,
+        "source": "5334 JP Equity",
+        "score": 1.9704495595048326
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2670000.0,
+        "source": "ST US Equity",
+        "score": 1.9595178809816396
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2700000.0,
+        "source": "SEMC SS Equity",
+        "score": 1.961752540268972
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2460000.0,
+        "source": "TIFS LN Equity",
+        "score": 1.9431344628825054
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2140000.0,
+        "source": "6816 JP Equity",
+        "score": 1.915263370857529
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1890000.0,
+        "source": "092200 KS Equity",
+        "score": 1.8904175832272427
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2380000.0,
+        "source": "SSABA SS Equity",
+        "score": 1.9365222931631272
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1730000.0,
+        "source": "DAN US Equity",
+        "score": 1.8727265089016951
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1640000.0,
+        "source": "TOWR US Equity",
+        "score": 1.8620414819112585
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1630000.0,
+        "source": "354 HK Equity",
+        "score": 1.860818237255938
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1710000.0,
+        "source": "ZIL2 GR Equity",
+        "score": 1.8704009026547985
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1560000.0,
+        "source": "AXL US Equity",
+        "score": 1.852039404050231
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1670000.0,
+        "source": "SO IM Equity",
+        "score": 1.8656669566390307
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1520000.0,
+        "source": "698 HK Equity",
+        "score": 1.8468443101433958
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1040000.0,
+        "source": "KOA NO Equity",
+        "score": 1.770946446531111
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1320000.0,
+        "source": "300207 CH Equity",
+        "score": 1.8186286104276048
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 834380.0,
+        "source": "AUTN SW Equity",
+        "score": 1.7268890823112266
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 609850.0,
+        "source": "600718 CH Equity",
+        "score": 1.6641939888035036
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 440600.0,
+        "source": "300328 CH Equity",
+        "score": 1.5991789965960246
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 296800.0,
+        "source": "SLTIAZ CH Equity",
+        "score": 1.5201634319083848
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 407470.0,
+        "source": "VC US Equity",
+        "score": 1.5835450086972975
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 267910.0,
+        "source": "7239 JP Equity",
+        "score": 1.4996820229573617
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 232940.0,
+        "source": "STRT US Equity",
+        "score": 1.4717080963196807
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 159670.0,
+        "source": "300256 CH Equity",
+        "score": 1.3961741454462802
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 48230.0,
+        "source": "0926227D CH Equity",
+        "score": 1.1567514493662139
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 17100.0,
+        "source": "MBBYF US Equity",
+        "score": 1
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 17100.0,
+        "source": "MBBYF US Equity",
+        "score": 1
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15350.0,
+        "source": "AVAV US Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "FR"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Gestamp Automocion SA",
+        "market_cap": "USD 3.38B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GEST SM Equity",
+        "type": "supplier1",
+        "size": 9.94114154644134,
+        "country": "ES"
+      },
+      {
+        "name": "Mando Corp",
+        "market_cap": "USD 1.19B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "204320 KS Equity",
+        "type": "supplier1",
+        "size": 8.897219144069851,
+        "country": "KR"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.29B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.838315806093615,
+        "country": "JP"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 8.87B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 10.9059406332679,
+        "country": "DE"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.26B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.557446022058418,
+        "country": "SE"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 28.83B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.084682348596722,
+        "country": "DE"
+      },
+      {
+        "name": "Superior Industries Europe AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "UNW PW Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.02B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.815216968240946,
+        "country": "FR"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.06B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.781534745070388,
+        "country": "US"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.39B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.59455920288983,
+        "country": "DE"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.49B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.862154837269667,
+        "country": "US"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 864.73M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.577927877442399,
+        "country": "US"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.12B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.356420275997827,
+        "country": "KR"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.71B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.411793371559757,
+        "country": "CA"
+      },
+      {
+        "name": "Dassault Systemes SE",
+        "market_cap": "USD 39.84B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DSY FP Equity",
+        "type": "supplier1",
+        "size": 12.40813726966281,
+        "country": "FR"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.94B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.385953810021647,
+        "country": "US"
+      },
+      {
+        "name": "Gentex Corp",
+        "market_cap": "USD 5.66B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "GNTX US Equity",
+        "type": "supplier1",
+        "size": 10.456689729161504,
+        "country": "US"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.739501302722456,
+        "country": "FR"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 65.09B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.899036764530706,
+        "country": "DE"
+      },
+      {
+        "name": "Martinrea International Inc",
+        "market_cap": "USD 645.43M",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MRE CN Equity",
+        "type": "supplier1",
+        "size": 8.285427319303206,
+        "country": "CA"
+      },
+      {
+        "name": "SHW AG",
+        "market_cap": "USD 142.1M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SW1 GR Equity",
+        "type": "supplier1",
+        "size": 6.772041593067328,
+        "country": "DE"
+      },
+      {
+        "name": "POLYTEC Holding AG",
+        "market_cap": "USD 245.24M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "PYT AV Equity",
+        "type": "supplier1",
+        "size": 7.317747880858761,
+        "country": "AT"
+      },
+      {
+        "name": "Telefonaktiebolaget LM Ericsson",
+        "market_cap": "USD 30.39B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ERICB SS Equity",
+        "type": "supplier1",
+        "size": 12.137379443875112,
+        "country": "SE"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 622.59M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.249398754165952,
+        "country": "DE"
+      },
+      {
+        "name": "AKWEL",
+        "market_cap": "USD 474.1M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKW FP Equity",
+        "type": "supplier1",
+        "size": 7.976928827872346,
+        "country": "FR"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.04B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.11951052891947,
+        "country": "TW"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.83B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.327581803799742,
+        "country": "GB"
+      },
+      {
+        "name": "Akzo Nobel NV",
+        "market_cap": "USD 19.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKZA NA Equity",
+        "type": "supplier1",
+        "size": 11.681815319372685,
+        "country": "NL"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.747458904395767,
+        "country": "US"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 1000.0M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.72326583694641,
+        "country": "JP"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 17.4B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.579736043166893,
+        "country": "KR"
+      },
+      {
+        "name": "Samsung Electronics Co Ltd",
+        "market_cap": "USD 214.22B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "005930 KS Equity",
+        "type": "supplier1",
+        "size": 14.090269361282896,
+        "country": "KR"
+      },
+      {
+        "name": "Hella GmbH & Co KGaA",
+        "market_cap": "USD 5.54B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "HLE GR Equity",
+        "type": "supplier1",
+        "size": 10.435260337705603,
+        "country": "DE"
+      },
+      {
+        "name": "TKJP Corp",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7312 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Innolux Corp",
+        "market_cap": "USD 2.78B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "3481 TT Equity",
+        "type": "supplier1",
+        "size": 9.745716764648957,
+        "country": "TW"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.54B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.743488018966275,
+        "country": "SE"
+      },
+      {
+        "name": "NTN Corp",
+        "market_cap": "USD 1.52B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6472 JP Equity",
+        "type": "supplier1",
+        "size": 9.141976171804597,
+        "country": "JP"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.33B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.993974810454628,
+        "country": "US"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 122.48B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.531213588295838,
+        "country": "US"
+      },
+      {
+        "name": "Grammer AG",
+        "market_cap": "USD 487.44M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GMM GR Equity",
+        "type": "supplier1",
+        "size": 8.004677763904514,
+        "country": "DE"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.87B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.0765203439881,
+        "country": "IT"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.54B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.155048253371948,
+        "country": "MX"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 17.47B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.583750961092377,
+        "country": "LU"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.54B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.155048253371948,
+        "country": "MX"
+      },
+      {
+        "name": "voestalpine AG",
+        "market_cap": "USD 5.29B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOE AV Equity",
+        "type": "supplier1",
+        "size": 10.38908408281662,
+        "country": "AT"
+      },
+      {
+        "name": "Shiloh Industries Inc",
+        "market_cap": "USD 124.0M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SHLO US Equity",
+        "type": "supplier1",
+        "size": 6.63579212356931,
+        "country": "US"
+      },
+      {
+        "name": "NGK Spark Plug Co Ltd",
+        "market_cap": "USD 3.58B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5334 JP Equity",
+        "type": "supplier1",
+        "size": 9.998628637359019,
+        "country": "JP"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.44B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.730136685791411,
+        "country": "US"
+      },
+      {
+        "name": "Semcon AB",
+        "market_cap": "USD 115.68M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SEMC SS Equity",
+        "type": "supplier1",
+        "size": 6.566338316374729,
+        "country": "SE"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.33B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 9.008444779180074,
+        "country": "GB"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 124.71M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.64150159989693,
+        "country": "KR"
+      },
+      {
+        "name": "SSAB AB",
+        "market_cap": "USD 3.12B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SSABA SS Equity",
+        "type": "supplier1",
+        "size": 9.861098838767802,
+        "country": "SE"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.590366324629795,
+        "country": "US"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 410.05M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.831789661446695,
+        "country": "US"
+      },
+      {
+        "name": "Chinasoft International Ltd",
+        "market_cap": "USD 1.26B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "354 HK Equity",
+        "type": "supplier1",
+        "size": 8.954377557909798,
+        "country": "CN"
+      },
+      {
+        "name": "ElringKlinger AG",
+        "market_cap": "USD 424.63M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ZIL2 GR Equity",
+        "type": "supplier1",
+        "size": 7.866728759471368,
+        "country": "DE"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.34B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.015935450909232,
+        "country": "US"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 159.79M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.889371011115571,
+        "country": "IT"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 577.8M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.17473834599641,
+        "country": "HK"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 383.41M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.764615470656125,
+        "country": "CH"
+      },
+      {
+        "name": "Sunwoda Electronic Co Ltd",
+        "market_cap": "USD 2.68B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300207 CH Equity",
+        "type": "supplier1",
+        "size": 9.709082631469176,
+        "country": "CN"
+      },
+      {
+        "name": "Autoneum Holding AG",
+        "market_cap": "USD 550.78M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AUTN SW Equity",
+        "type": "supplier1",
+        "size": 8.126846013338895,
+        "country": "CH"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.25B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.534196053162741,
+        "country": "CN"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 571.05M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.16298732946089,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai LTI Automobile Components Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "SLTIAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.59B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.186999853178552,
+        "country": "US"
+      },
+      {
+        "name": "Tachi-S Co Ltd",
+        "market_cap": "USD 493.41M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7239 JP Equity",
+        "type": "supplier1",
+        "size": 8.01685102938556,
+        "country": "JP"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 102.17M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.442148650567606,
+        "country": "US"
+      },
+      {
+        "name": "Zhejiang Firstar Panel Technology Co Ltd",
+        "market_cap": "USD 475.92M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300256 CH Equity",
+        "type": "supplier1",
+        "size": 7.980760330843925,
+        "country": "CN"
+      },
+      {
+        "name": "Kandi Electric Vehicles Shanghai Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0926227D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mobileye NV",
+        "market_cap": "--",
+        "region": "Middle East",
+        "score": 1.0,
+        "ticker": "MBBYF US Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "IL"
+      },
+      {
+        "name": "Mobileye NV",
+        "market_cap": "--",
+        "region": "Middle East",
+        "score": 1.0,
+        "ticker": "MBBYF US Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "IL"
+      },
+      {
+        "name": "Aerovironment Inc",
+        "market_cap": "USD 1.67B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AVAV US Equity",
+        "type": "supplier1",
+        "size": 9.236089463375073,
+        "country": "US"
+      },
+      {
+        "name": "Geely Automobile Holdings Ltd",
+        "market_cap": "USD 18.17B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "175 HK Equity",
+        "type": "manufacturer",
+        "size": 11.623029760233056,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "175 HK Equity",
+        "relation": 60870000.0,
+        "source": "204320 KS Equity",
+        "score": 2.5848502033797125
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 76740000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.631186731162819
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 63330000.0,
+        "source": "GKN LN Equity",
+        "score": 2.592773944856584
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 54930000.0,
+        "source": "7276 JP Equity",
+        "score": 2.5643140447047585
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 53220000.0,
+        "source": "GEST SM Equity",
+        "score": 2.5579889684607493
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 50430000.0,
+        "source": "ALV US Equity",
+        "score": 2.5472193627764748
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 37490000.0,
+        "source": "TKA GR Equity",
+        "score": 2.4879169630771747
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 37450000.0,
+        "source": "CON GR Equity",
+        "score": 2.4877034589259543
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 27820000.0,
+        "source": "TEN US Equity",
+        "score": 2.4282531560809866
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 30470000.0,
+        "source": "ML FP Equity",
+        "score": 2.4464506367562118
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1730000.0,
+        "source": "KU2 GR Equity",
+        "score": 1.8727265089016951
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 23330000.0,
+        "source": "LEA US Equity",
+        "score": 2.3930501373721755
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 18090000.0,
+        "source": "CPS US Equity",
+        "score": 2.3421739825301273
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 19000000.0,
+        "source": "018880 KS Equity",
+        "score": 2.3519899179524586
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12030000.0,
+        "source": "MG CN Equity",
+        "score": 2.2605828342152754
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 16450000.0,
+        "source": "GNTX US Equity",
+        "score": 2.3231672191931856
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1050000.0,
+        "source": "DSY FP Equity",
+        "score": 1.7728603349028411
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15560000.0,
+        "source": "ADNT US Equity",
+        "score": 2.312042828196374
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15520000.0,
+        "source": "MRE CN Equity",
+        "score": 2.311528027430467
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15080000.0,
+        "source": "BAS GR Equity",
+        "score": 2.3057759973714154
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15220000.0,
+        "source": "KOA NO Equity",
+        "score": 2.307624195220167
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10130000.0,
+        "source": "PYT AV Equity",
+        "score": 2.2262023949883085
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11270000.0,
+        "source": "FR FP Equity",
+        "score": 2.2475309949494195
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8790000.0,
+        "source": "ERICB SS Equity",
+        "score": 2.1978250766853993
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11220000.0,
+        "source": "LEO GR Equity",
+        "score": 2.246641709437076
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10410000.0,
+        "source": "SW1 GR Equity",
+        "score": 2.231655507330525
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 9850000.0,
+        "source": "2105 TT Equity",
+        "score": 2.2205964229342223
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8940000.0,
+        "source": "DLPH US Equity",
+        "score": 2.201209251801303
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8890000.0,
+        "source": "SKFB SS Equity",
+        "score": 2.200087543995204
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6640000.0,
+        "source": "AKZA NA Equity",
+        "score": 2.141724534411003
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8430000.0,
+        "source": "BWA US Equity",
+        "score": 2.1894614897203986
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6940000.0,
+        "source": "AKW FP Equity",
+        "score": 2.150562495315039
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7850000.0,
+        "source": "7278 JP Equity",
+        "score": 2.1752048434294236
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5670000.0,
+        "source": "005930 KS Equity",
+        "score": 2.1101399704141524
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5910000.0,
+        "source": "HLE GR Equity",
+        "score": 2.118431311717401
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6150000.0,
+        "source": "000678 CH Equity",
+        "score": 2.1263925604768628
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7290000.0,
+        "source": "012330 KS Equity",
+        "score": 2.1604028482318087
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5050000.0,
+        "source": "3481 TT Equity",
+        "score": 2.086979799854265
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6290000.0,
+        "source": "6472 JP Equity",
+        "score": 2.1308943575318247
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5900000.0,
+        "source": "MT NA Equity",
+        "score": 2.118092615673492
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5270000.0,
+        "source": "HON US Equity",
+        "score": 2.0955082220541694
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4830000.0,
+        "source": "GMM GR Equity",
+        "score": 2.078071446533614
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4500000.0,
+        "source": "CIE SM Equity",
+        "score": 2.0639176353925492
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4510000.0,
+        "source": "BRE IM Equity",
+        "score": 2.0643615866416654
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4150000.0,
+        "source": "NEMAKA MM Equity",
+        "score": 2.0477238266341415
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2820000.0,
+        "source": "5334 JP Equity",
+        "score": 1.9704495595048326
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3870000.0,
+        "source": "VOE AV Equity",
+        "score": 2.0337530646807727
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3660000.0,
+        "source": "SHLO US Equity",
+        "score": 2.022594795720311
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3490000.0,
+        "source": "ST US Equity",
+        "score": 2.013082516142304
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3510000.0,
+        "source": "SEMC SS Equity",
+        "score": 2.0142253760684588
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3450000.0,
+        "source": "TIFS LN Equity",
+        "score": 2.0107770157725144
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2650000.0,
+        "source": "300432 CH Equity",
+        "score": 1.9580141150641648
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3080000.0,
+        "source": "6816 JP Equity",
+        "score": 1.9880880959250056
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2680000.0,
+        "source": "AXL US Equity",
+        "score": 1.9602655451242597
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2430000.0,
+        "source": "DAN US Equity",
+        "score": 1.9406804453678559
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2380000.0,
+        "source": "SSABA SS Equity",
+        "score": 1.9365222931631272
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2050000.0,
+        "source": "TOWR US Equity",
+        "score": 1.90667016778387
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2030000.0,
+        "source": "ZIL2 GR Equity",
+        "score": 1.9047093687257375
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1930000.0,
+        "source": "354 HK Equity",
+        "score": 1.89460621580313
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1910000.0,
+        "source": "SO IM Equity",
+        "score": 1.892522864716577
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1560000.0,
+        "source": "300392 CH Equity",
+        "score": 1.852039404050231
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1570000.0,
+        "source": "698 HK Equity",
+        "score": 1.8533173628533928
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1320000.0,
+        "source": "300207 CH Equity",
+        "score": 1.8186286104276048
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1360000.0,
+        "source": "092200 KS Equity",
+        "score": 1.8245991986012164
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1280000.0,
+        "source": "NUE US Equity",
+        "score": 1.8124742834290988
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 440600.0,
+        "source": "300328 CH Equity",
+        "score": 1.5991789965960246
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 595780.0,
+        "source": "AUTN SW Equity",
+        "score": 1.6595256857713774
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 390830.0,
+        "source": "VC US Equity",
+        "score": 1.5752061040934775
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 380240.0,
+        "source": "7239 JP Equity",
+        "score": 1.5697121082404761
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 232940.0,
+        "source": "STRT US Equity",
+        "score": 1.4717080963196807
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 159670.0,
+        "source": "300256 CH Equity",
+        "score": 1.3961741454462802
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 145120.0,
+        "source": "600718 CH Equity",
+        "score": 1.377064631234835
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Mando Corp",
+        "market_cap": "USD 1.19B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "204320 KS Equity",
+        "type": "supplier1",
+        "size": 8.897219144069851,
+        "country": "KR"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.12B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.817595991119997,
+        "country": "JP"
+      },
+      {
+        "name": "Gestamp Automocion SA",
+        "market_cap": "USD 3.37B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GEST SM Equity",
+        "type": "supplier1",
+        "size": 9.93817858131068,
+        "country": "ES"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 5.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.51335724907377,
+        "country": "SE"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 8.69B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 10.885438776223712,
+        "country": "DE"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 28.6B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.07667255477222,
+        "country": "DE"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.07B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.817485057215055,
+        "country": "FR"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.31B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "DE"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.35B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.845527375809176,
+        "country": "US"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 795.87M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.494946413888137,
+        "country": "US"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.1B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.35250637667669,
+        "country": "KR"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.5B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.397414486372941,
+        "country": "CA"
+      },
+      {
+        "name": "Gentex Corp",
+        "market_cap": "USD 5.64B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "GNTX US Equity",
+        "type": "supplier1",
+        "size": 10.453149902456378,
+        "country": "US"
+      },
+      {
+        "name": "Dassault Systemes SE",
+        "market_cap": "USD 41.46B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DSY FP Equity",
+        "type": "supplier1",
+        "size": 12.447994943954043,
+        "country": "FR"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Martinrea International Inc",
+        "market_cap": "USD 669.6M",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MRE CN Equity",
+        "type": "supplier1",
+        "size": 8.32219107713954,
+        "country": "CA"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 64.95B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.896883580063019,
+        "country": "DE"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 391.44M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.785342804945142,
+        "country": "CH"
+      },
+      {
+        "name": "POLYTEC Holding AG",
+        "market_cap": "USD 238.81M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "PYT AV Equity",
+        "type": "supplier1",
+        "size": 7.291178814652845,
+        "country": "AT"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.70702212849184,
+        "country": "FR"
+      },
+      {
+        "name": "Telefonaktiebolaget LM Ericsson",
+        "market_cap": "USD 31.36B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ERICB SS Equity",
+        "type": "supplier1",
+        "size": 12.16879903242862,
+        "country": "SE"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 537.01M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.101527274273682,
+        "country": "DE"
+      },
+      {
+        "name": "SHW AG",
+        "market_cap": "USD 139.96M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SW1 GR Equity",
+        "type": "supplier1",
+        "size": 6.756867225463761,
+        "country": "DE"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 3.99B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.107057067848181,
+        "country": "TW"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.7B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.253894088008582,
+        "country": "GB"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.48B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.735498628932795,
+        "country": "SE"
+      },
+      {
+        "name": "Akzo Nobel NV",
+        "market_cap": "USD 19.46B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKZA NA Equity",
+        "type": "supplier1",
+        "size": 11.691626913704269,
+        "country": "NL"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.52B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.740831974908161,
+        "country": "US"
+      },
+      {
+        "name": "AKWEL",
+        "market_cap": "USD 491.46M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKW FP Equity",
+        "type": "supplier1",
+        "size": 8.012891110719838,
+        "country": "FR"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 998.79M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.722055104305355,
+        "country": "JP"
+      },
+      {
+        "name": "Samsung Electronics Co Ltd",
+        "market_cap": "USD 206.08B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "005930 KS Equity",
+        "type": "supplier1",
+        "size": 14.051530279862401,
+        "country": "KR"
+      },
+      {
+        "name": "Hella GmbH & Co KGaA",
+        "market_cap": "USD 5.52B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "HLE GR Equity",
+        "type": "supplier1",
+        "size": 10.431643697235415,
+        "country": "DE"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 601.81M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.215452338838379,
+        "country": "CN"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 16.93B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.552353033091457,
+        "country": "KR"
+      },
+      {
+        "name": "Innolux Corp",
+        "market_cap": "USD 2.4B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "3481 TT Equity",
+        "type": "supplier1",
+        "size": 9.598734574300313,
+        "country": "TW"
+      },
+      {
+        "name": "NTN Corp",
+        "market_cap": "USD 1.46B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6472 JP Equity",
+        "type": "supplier1",
+        "size": 9.101702272666657,
+        "country": "JP"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 16.53B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.528442748779344,
+        "country": "LU"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 123.79B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.54185241849013,
+        "country": "US"
+      },
+      {
+        "name": "Grammer AG",
+        "market_cap": "USD 476.62M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GMM GR Equity",
+        "type": "supplier1",
+        "size": 7.982230085659491,
+        "country": "DE"
+      },
+      {
+        "name": "CIE Automotive SA",
+        "market_cap": "USD 3.56B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CIE SM Equity",
+        "type": "supplier1",
+        "size": 9.993026381810349,
+        "country": "ES"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.8B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.058266903678753,
+        "country": "IT"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.52B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.141976171804597,
+        "country": "MX"
+      },
+      {
+        "name": "NGK Spark Plug Co Ltd",
+        "market_cap": "USD 3.7B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5334 JP Equity",
+        "type": "supplier1",
+        "size": 10.03159865659659,
+        "country": "JP"
+      },
+      {
+        "name": "voestalpine AG",
+        "market_cap": "USD 5.08B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOE AV Equity",
+        "type": "supplier1",
+        "size": 10.3485770985368,
+        "country": "AT"
+      },
+      {
+        "name": "Shiloh Industries Inc",
+        "market_cap": "USD 121.86M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SHLO US Equity",
+        "type": "supplier1",
+        "size": 6.618383402784623,
+        "country": "US"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.7274448941257,
+        "country": "US"
+      },
+      {
+        "name": "Semcon AB",
+        "market_cap": "USD 114.97M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SEMC SS Equity",
+        "type": "supplier1",
+        "size": 6.560181782729924,
+        "country": "SE"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 8.96228273741691,
+        "country": "GB"
+      },
+      {
+        "name": "Mianyang Fulin Precision Machining Co Ltd",
+        "market_cap": "USD 459.78M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300432 CH Equity",
+        "type": "supplier1",
+        "size": 7.946258672174643,
+        "country": "CN"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 8.99329297415947,
+        "country": "US"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "US"
+      },
+      {
+        "name": "SSAB AB",
+        "market_cap": "USD 3.13B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SSABA SS Equity",
+        "type": "supplier1",
+        "size": 9.864298841498474,
+        "country": "SE"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 405.91M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.821642018115654,
+        "country": "US"
+      },
+      {
+        "name": "ElringKlinger AG",
+        "market_cap": "USD 416.89M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ZIL2 GR Equity",
+        "type": "supplier1",
+        "size": 7.848332955995822,
+        "country": "DE"
+      },
+      {
+        "name": "Chinasoft International Ltd",
+        "market_cap": "USD 1.19B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "354 HK Equity",
+        "type": "supplier1",
+        "size": 8.897219144069851,
+        "country": "CN"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 156.06M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.8657511066528905,
+        "country": "IT"
+      },
+      {
+        "name": "Beijing Tensyn Digital Marketing Technology JSC",
+        "market_cap": "USD 531.14M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300392 CH Equity",
+        "type": "supplier1",
+        "size": 8.090536197939734,
+        "country": "CN"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 536.63M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.100819401959185,
+        "country": "HK"
+      },
+      {
+        "name": "Sunwoda Electronic Co Ltd",
+        "market_cap": "USD 2.81B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300207 CH Equity",
+        "type": "supplier1",
+        "size": 9.756450320292064,
+        "country": "CN"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 112.54M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.538819271969405,
+        "country": "KR"
+      },
+      {
+        "name": "Nucor Corp",
+        "market_cap": "USD 16.24B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NUE US Equity",
+        "type": "supplier1",
+        "size": 11.510743171679945,
+        "country": "US"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 574.05M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.168227058504094,
+        "country": "CN"
+      },
+      {
+        "name": "Autoneum Holding AG",
+        "market_cap": "USD 577.7M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AUTN SW Equity",
+        "type": "supplier1",
+        "size": 8.174565260751493,
+        "country": "CH"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "US"
+      },
+      {
+        "name": "Tachi-S Co Ltd",
+        "market_cap": "USD 451.13M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7239 JP Equity",
+        "type": "supplier1",
+        "size": 7.927266104268412,
+        "country": "JP"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 102.17M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.442148650567606,
+        "country": "US"
+      },
+      {
+        "name": "Zhejiang Firstar Panel Technology Co Ltd",
+        "market_cap": "USD 531.64M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300256 CH Equity",
+        "type": "supplier1",
+        "size": 8.091477126517407,
+        "country": "CN"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.19B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.50716738077482,
+        "country": "CN"
+      },
+      {
+        "name": "Geely Automobile Holdings Ltd",
+        "market_cap": "USD 18.17B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "175 HK Equity",
+        "type": "manufacturer",
+        "size": 11.623029760233056,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "175 HK Equity",
+        "relation": 60870000.0,
+        "source": "204320 KS Equity",
+        "score": 2.5848502033797125
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 76740000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.631186731162819
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 63330000.0,
+        "source": "GKN LN Equity",
+        "score": 2.592773944856584
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 54930000.0,
+        "source": "7276 JP Equity",
+        "score": 2.5643140447047585
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 53220000.0,
+        "source": "GEST SM Equity",
+        "score": 2.5579889684607493
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 50430000.0,
+        "source": "ALV US Equity",
+        "score": 2.5472193627764748
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 37470000.0,
+        "source": "CON GR Equity",
+        "score": 2.4878102394915773
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1610000.0,
+        "source": "KU2 GR Equity",
+        "score": 1.858349071615693
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 34150000.0,
+        "source": "TKA GR Equity",
+        "score": 2.46925463465273
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 27820000.0,
+        "source": "TEN US Equity",
+        "score": 2.4282531560809866
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 30470000.0,
+        "source": "ML FP Equity",
+        "score": 2.4464506367562118
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 23330000.0,
+        "source": "LEA US Equity",
+        "score": 2.3930501373721755
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 18090000.0,
+        "source": "CPS US Equity",
+        "score": 2.3421739825301273
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 19000000.0,
+        "source": "018880 KS Equity",
+        "score": 2.3519899179524586
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 16450000.0,
+        "source": "GNTX US Equity",
+        "score": 2.3231672191931856
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1050000.0,
+        "source": "DSY FP Equity",
+        "score": 1.7728603349028411
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15520000.0,
+        "source": "MRE CN Equity",
+        "score": 2.311528027430467
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 16030000.0,
+        "source": "ADNT US Equity",
+        "score": 2.3179945173937533
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15960000.0,
+        "source": "MG CN Equity",
+        "score": 2.3171192425285154
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15080000.0,
+        "source": "BAS GR Equity",
+        "score": 2.3057759973714154
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11940000.0,
+        "source": "KOA NO Equity",
+        "score": 2.259080949936164
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12130000.0,
+        "source": "LEO GR Equity",
+        "score": 2.2622384726720925
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11270000.0,
+        "source": "FR FP Equity",
+        "score": 2.2475309949494195
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8790000.0,
+        "source": "ERICB SS Equity",
+        "score": 2.1978250766853993
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10410000.0,
+        "source": "SW1 GR Equity",
+        "score": 2.231655507330525
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10740000.0,
+        "source": "PYT AV Equity",
+        "score": 2.2378971480309717
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 9850000.0,
+        "source": "2105 TT Equity",
+        "score": 2.2205964229342223
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8890000.0,
+        "source": "SKFB SS Equity",
+        "score": 2.200087543995204
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 9020000.0,
+        "source": "BWA US Equity",
+        "score": 2.2029910005807087
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8950000.0,
+        "source": "DLPH US Equity",
+        "score": 2.201432840396575
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6940000.0,
+        "source": "AKW FP Equity",
+        "score": 2.150562495315039
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7850000.0,
+        "source": "7278 JP Equity",
+        "score": 2.1752048434294236
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5670000.0,
+        "source": "005930 KS Equity",
+        "score": 2.1101399704141524
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7650000.0,
+        "source": "HLE GR Equity",
+        "score": 2.1700432673043326
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6150000.0,
+        "source": "000678 CH Equity",
+        "score": 2.1263925604768628
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7290000.0,
+        "source": "012330 KS Equity",
+        "score": 2.1604028482318087
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6290000.0,
+        "source": "6472 JP Equity",
+        "score": 2.1308943575318247
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 552900.0,
+        "source": "354 HK Equity",
+        "score": 1.644586848193943
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5680000.0,
+        "source": "MT NA Equity",
+        "score": 2.1104923933507314
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4810000.0,
+        "source": "NEMAKA MM Equity",
+        "score": 2.077241569996426
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4830000.0,
+        "source": "GMM GR Equity",
+        "score": 2.078071446533614
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4950000.0,
+        "source": "3481 TT Equity",
+        "score": 2.082979667313011
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4610000.0,
+        "source": "SHLO US Equity",
+        "score": 2.0687477263785095
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4500000.0,
+        "source": "CIE SM Equity",
+        "score": 2.0639176353925492
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4510000.0,
+        "source": "BRE IM Equity",
+        "score": 2.0643615866416654
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2820000.0,
+        "source": "5334 JP Equity",
+        "score": 1.9704495595048326
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3760000.0,
+        "source": "HON US Equity",
+        "score": 2.027985956264698
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3650000.0,
+        "source": "POM FP Equity",
+        "score": 2.022047599906248
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3580000.0,
+        "source": "VOE AV Equity",
+        "score": 2.0181747275412905
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3490000.0,
+        "source": "ST US Equity",
+        "score": 2.013082516142304
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3510000.0,
+        "source": "SEMC SS Equity",
+        "score": 2.0142253760684588
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3450000.0,
+        "source": "TIFS LN Equity",
+        "score": 2.0107770157725144
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2650000.0,
+        "source": "300432 CH Equity",
+        "score": 1.9580141150641648
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3080000.0,
+        "source": "6816 JP Equity",
+        "score": 1.9880880959250056
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2680000.0,
+        "source": "AXL US Equity",
+        "score": 1.9602655451242597
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2510000.0,
+        "source": "SSABA SS Equity",
+        "score": 1.9471587419028524
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2430000.0,
+        "source": "DAN US Equity",
+        "score": 1.9406804453678559
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2050000.0,
+        "source": "TOWR US Equity",
+        "score": 1.90667016778387
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2030000.0,
+        "source": "ZIL2 GR Equity",
+        "score": 1.9047093687257375
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1910000.0,
+        "source": "SO IM Equity",
+        "score": 1.892522864716577
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1560000.0,
+        "source": "300392 CH Equity",
+        "score": 1.852039404050231
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1460000.0,
+        "source": "NUE US Equity",
+        "score": 1.838789535723158
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1400000.0,
+        "source": "300207 CH Equity",
+        "score": 1.8303967017741893
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1360000.0,
+        "source": "092200 KS Equity",
+        "score": 1.8245991986012164
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1260000.0,
+        "source": "7287 JP Equity",
+        "score": 1.8093246145156279
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 920500.0,
+        "source": "698 HK Equity",
+        "score": 1.746534673204157
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 595780.0,
+        "source": "AUTN SW Equity",
+        "score": 1.6595256857713774
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 600320.0,
+        "source": "300328 CH Equity",
+        "score": 1.6610439582273613
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 581730.0,
+        "source": "AKZA NA Equity",
+        "score": 1.654752684110767
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 390830.0,
+        "source": "VC US Equity",
+        "score": 1.5752061040934775
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 380240.0,
+        "source": "7239 JP Equity",
+        "score": 1.5697121082404761
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 225910.0,
+        "source": "600718 CH Equity",
+        "score": 1.4655792790766027
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 224740.0,
+        "source": "STRT US Equity",
+        "score": 1.4645407814076363
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 189820.0,
+        "source": "300256 CH Equity",
+        "score": 1.430767360363876
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Mando Corp",
+        "market_cap": "USD 1.19B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "204320 KS Equity",
+        "type": "supplier1",
+        "size": 8.897219144069851,
+        "country": "KR"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.12B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.817595991119997,
+        "country": "JP"
+      },
+      {
+        "name": "Gestamp Automocion SA",
+        "market_cap": "USD 3.37B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GEST SM Equity",
+        "type": "supplier1",
+        "size": 9.93817858131068,
+        "country": "ES"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 5.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.51335724907377,
+        "country": "SE"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 28.62B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.077371611074717,
+        "country": "DE"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.31B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "DE"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 8.69B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 10.885438776223712,
+        "country": "DE"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.08B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.817938058355306,
+        "country": "FR"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.35B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.845527375809176,
+        "country": "US"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 795.87M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.494946413888137,
+        "country": "US"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.1B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.35250637667669,
+        "country": "KR"
+      },
+      {
+        "name": "Gentex Corp",
+        "market_cap": "USD 5.64B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "GNTX US Equity",
+        "type": "supplier1",
+        "size": 10.453149902456378,
+        "country": "US"
+      },
+      {
+        "name": "Dassault Systemes SE",
+        "market_cap": "USD 41.48B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DSY FP Equity",
+        "type": "supplier1",
+        "size": 12.448477220307737,
+        "country": "FR"
+      },
+      {
+        "name": "Martinrea International Inc",
+        "market_cap": "USD 669.7M",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MRE CN Equity",
+        "type": "supplier1",
+        "size": 8.32234040888028,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.5B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.397414486372941,
+        "country": "CA"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 64.98B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.897345367187366,
+        "country": "DE"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 391.56M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.785649318357503,
+        "country": "CH"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 537.26M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.101992706622184,
+        "country": "DE"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.28B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.708396699155006,
+        "country": "FR"
+      },
+      {
+        "name": "Telefonaktiebolaget LM Ericsson",
+        "market_cap": "USD 31.36B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ERICB SS Equity",
+        "type": "supplier1",
+        "size": 12.16879903242862,
+        "country": "SE"
+      },
+      {
+        "name": "SHW AG",
+        "market_cap": "USD 140.03M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SW1 GR Equity",
+        "type": "supplier1",
+        "size": 6.757367243331959,
+        "country": "DE"
+      },
+      {
+        "name": "POLYTEC Holding AG",
+        "market_cap": "USD 238.92M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "PYT AV Equity",
+        "type": "supplier1",
+        "size": 7.291639325828378,
+        "country": "AT"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 3.99B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.107057067848181,
+        "country": "TW"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.49B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.736834634475539,
+        "country": "SE"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.52B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.740831974908161,
+        "country": "US"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.7B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.253894088008582,
+        "country": "GB"
+      },
+      {
+        "name": "AKWEL",
+        "market_cap": "USD 491.68M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKW FP Equity",
+        "type": "supplier1",
+        "size": 8.013338656346448,
+        "country": "FR"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 998.69M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.72195497814631,
+        "country": "JP"
+      },
+      {
+        "name": "Samsung Electronics Co Ltd",
+        "market_cap": "USD 206.05B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "005930 KS Equity",
+        "type": "supplier1",
+        "size": 14.051384694731237,
+        "country": "KR"
+      },
+      {
+        "name": "Hella GmbH & Co KGaA",
+        "market_cap": "USD 5.53B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "HLE GR Equity",
+        "type": "supplier1",
+        "size": 10.433453652480654,
+        "country": "DE"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 601.72M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.215302778793898,
+        "country": "CN"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 16.93B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.552353033091457,
+        "country": "KR"
+      },
+      {
+        "name": "NTN Corp",
+        "market_cap": "USD 1.45B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6472 JP Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "JP"
+      },
+      {
+        "name": "Chinasoft International Ltd",
+        "market_cap": "USD 1.19B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "354 HK Equity",
+        "type": "supplier1",
+        "size": 8.897219144069851,
+        "country": "CN"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 16.54B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.529047526541955,
+        "country": "LU"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.52B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.141976171804597,
+        "country": "MX"
+      },
+      {
+        "name": "Grammer AG",
+        "market_cap": "USD 476.83M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GMM GR Equity",
+        "type": "supplier1",
+        "size": 7.982670591199156,
+        "country": "DE"
+      },
+      {
+        "name": "Innolux Corp",
+        "market_cap": "USD 2.39B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "3481 TT Equity",
+        "type": "supplier1",
+        "size": 9.59455920288983,
+        "country": "TW"
+      },
+      {
+        "name": "Shiloh Industries Inc",
+        "market_cap": "USD 121.86M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SHLO US Equity",
+        "type": "supplier1",
+        "size": 6.618383402784623,
+        "country": "US"
+      },
+      {
+        "name": "CIE Automotive SA",
+        "market_cap": "USD 3.56B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CIE SM Equity",
+        "type": "supplier1",
+        "size": 9.993026381810349,
+        "country": "ES"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.8B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.058266903678753,
+        "country": "IT"
+      },
+      {
+        "name": "NGK Spark Plug Co Ltd",
+        "market_cap": "USD 3.7B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5334 JP Equity",
+        "type": "supplier1",
+        "size": 10.03159865659659,
+        "country": "JP"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 123.79B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.54185241849013,
+        "country": "US"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.04502167692873,
+        "country": "FR"
+      },
+      {
+        "name": "voestalpine AG",
+        "market_cap": "USD 5.08B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOE AV Equity",
+        "type": "supplier1",
+        "size": 10.3485770985368,
+        "country": "AT"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.7274448941257,
+        "country": "US"
+      },
+      {
+        "name": "Semcon AB",
+        "market_cap": "USD 115.0M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SEMC SS Equity",
+        "type": "supplier1",
+        "size": 6.560442686327523,
+        "country": "SE"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 8.96228273741691,
+        "country": "GB"
+      },
+      {
+        "name": "Mianyang Fulin Precision Machining Co Ltd",
+        "market_cap": "USD 459.7M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300432 CH Equity",
+        "type": "supplier1",
+        "size": 7.946084660776457,
+        "country": "CN"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 8.99329297415947,
+        "country": "US"
+      },
+      {
+        "name": "SSAB AB",
+        "market_cap": "USD 3.13B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SSABA SS Equity",
+        "type": "supplier1",
+        "size": 9.864298841498474,
+        "country": "SE"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "US"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 405.91M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.821642018115654,
+        "country": "US"
+      },
+      {
+        "name": "ElringKlinger AG",
+        "market_cap": "USD 417.08M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ZIL2 GR Equity",
+        "type": "supplier1",
+        "size": 7.848788607885666,
+        "country": "DE"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 156.13M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.866199551517703,
+        "country": "IT"
+      },
+      {
+        "name": "Beijing Tensyn Digital Marketing Technology JSC",
+        "market_cap": "USD 531.06M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300392 CH Equity",
+        "type": "supplier1",
+        "size": 8.090385567173115,
+        "country": "CN"
+      },
+      {
+        "name": "Nucor Corp",
+        "market_cap": "USD 16.24B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NUE US Equity",
+        "type": "supplier1",
+        "size": 11.510743171679945,
+        "country": "US"
+      },
+      {
+        "name": "Sunwoda Electronic Co Ltd",
+        "market_cap": "USD 2.81B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300207 CH Equity",
+        "type": "supplier1",
+        "size": 9.756450320292064,
+        "country": "CN"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 112.53M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.538730410726181,
+        "country": "KR"
+      },
+      {
+        "name": "Nippon Seiki Co Ltd",
+        "market_cap": "USD 1.02B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7287 JP Equity",
+        "type": "supplier1",
+        "size": 8.74306846424259,
+        "country": "JP"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 536.6M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.100763495955796,
+        "country": "HK"
+      },
+      {
+        "name": "Autoneum Holding AG",
+        "market_cap": "USD 578.1M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AUTN SW Equity",
+        "type": "supplier1",
+        "size": 8.175257422052706,
+        "country": "CH"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 573.96M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.16807026544448,
+        "country": "CN"
+      },
+      {
+        "name": "Akzo Nobel NV",
+        "market_cap": "USD 19.47B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKZA NA Equity",
+        "type": "supplier1",
+        "size": 11.692140656330519,
+        "country": "NL"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "US"
+      },
+      {
+        "name": "Tachi-S Co Ltd",
+        "market_cap": "USD 451.09M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7239 JP Equity",
+        "type": "supplier1",
+        "size": 7.927177434099214,
+        "country": "JP"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.19B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.50716738077482,
+        "country": "CN"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 102.17M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.442148650567606,
+        "country": "US"
+      },
+      {
+        "name": "Zhejiang Firstar Panel Technology Co Ltd",
+        "market_cap": "USD 531.56M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300256 CH Equity",
+        "type": "supplier1",
+        "size": 8.091326637427581,
+        "country": "CN"
+      },
+      {
+        "name": "Geely Automobile Holdings Ltd",
+        "market_cap": "USD 18.17B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "175 HK Equity",
+        "type": "manufacturer",
+        "size": 11.623029760233056,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "175 HK Equity",
+        "relation": 79080000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.637194113782422
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 62230000.0,
+        "source": "204320 KS Equity",
+        "score": 2.5892695545229643
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 50430000.0,
+        "source": "ALV US Equity",
+        "score": 2.5472193627764748
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 46010000.0,
+        "source": "GEST SM Equity",
+        "score": 2.5288738687732115
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 37470000.0,
+        "source": "CON GR Equity",
+        "score": 2.4878102394915773
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1610000.0,
+        "source": "KU2 GR Equity",
+        "score": 1.858349071615693
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 27820000.0,
+        "source": "TEN US Equity",
+        "score": 2.4282531560809866
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 31240000.0,
+        "source": "ML FP Equity",
+        "score": 2.4514419829892007
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 26550000.0,
+        "source": "TKA GR Equity",
+        "score": 2.418908068663401
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 25140000.0,
+        "source": "018880 KS Equity",
+        "score": 2.407994160180724
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 23330000.0,
+        "source": "LEA US Equity",
+        "score": 2.3930501373721755
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 18090000.0,
+        "source": "CPS US Equity",
+        "score": 2.3421739825301273
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 16450000.0,
+        "source": "GNTX US Equity",
+        "score": 2.3231672191931856
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 16240000.0,
+        "source": "BAS GR Equity",
+        "score": 2.320597590854832
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1050000.0,
+        "source": "DSY FP Equity",
+        "score": 1.7728603349028411
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 16030000.0,
+        "source": "ADNT US Equity",
+        "score": 2.3179945173937533
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15960000.0,
+        "source": "MG CN Equity",
+        "score": 2.3171192425285154
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 13200000.0,
+        "source": "MRE CN Equity",
+        "score": 2.2791454926628347
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11940000.0,
+        "source": "KOA NO Equity",
+        "score": 2.259080949936164
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12600000.0,
+        "source": "FR FP Equity",
+        "score": 2.269841490257357
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12330000.0,
+        "source": "7276 JP Equity",
+        "score": 2.265509191248705
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12130000.0,
+        "source": "LEO GR Equity",
+        "score": 2.2622384726720925
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8790000.0,
+        "source": "ERICB SS Equity",
+        "score": 2.1978250766853993
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10740000.0,
+        "source": "PYT AV Equity",
+        "score": 2.2378971480309717
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 9850000.0,
+        "source": "2105 TT Equity",
+        "score": 2.2205964229342223
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 9020000.0,
+        "source": "BWA US Equity",
+        "score": 2.2029910005807087
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8950000.0,
+        "source": "DLPH US Equity",
+        "score": 2.201432840396575
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8060000.000000001,
+        "source": "SKFB SS Equity",
+        "score": 2.1804848477104564
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6940000.0,
+        "source": "AKW FP Equity",
+        "score": 2.150562495315039
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7850000.0,
+        "source": "7278 JP Equity",
+        "score": 2.1752048434294236
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5670000.0,
+        "source": "005930 KS Equity",
+        "score": 2.1101399704141524
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7930000.0,
+        "source": "SW1 GR Equity",
+        "score": 2.1772327439428856
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7300000.0,
+        "source": "HLE GR Equity",
+        "score": 2.1606770086209823
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6150000.0,
+        "source": "000678 CH Equity",
+        "score": 2.1263925604768628
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6770000.0,
+        "source": "7259 JP Equity",
+        "score": 2.145602358519787
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6440000.0,
+        "source": "012330 KS Equity",
+        "score": 2.1356078506720055
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6290000.0,
+        "source": "6472 JP Equity",
+        "score": 2.1308943575318247
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 552900.0,
+        "source": "354 HK Equity",
+        "score": 1.644586848193943
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5680000.0,
+        "source": "MT NA Equity",
+        "score": 2.1104923933507314
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4810000.0,
+        "source": "NEMAKA MM Equity",
+        "score": 2.077241569996426
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4840000.0,
+        "source": "BRE IM Equity",
+        "score": 2.078485097060873
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4820000.0,
+        "source": "3481 TT Equity",
+        "score": 2.0776569386991284
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4610000.0,
+        "source": "SHLO US Equity",
+        "score": 2.0687477263785095
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4670000.0,
+        "source": "GMM GR Equity",
+        "score": 2.071333968755564
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2820000.0,
+        "source": "5334 JP Equity",
+        "score": 1.9704495595048326
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3760000.0,
+        "source": "HON US Equity",
+        "score": 2.027985956264698
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3650000.0,
+        "source": "POM FP Equity",
+        "score": 2.022047599906248
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3620000.0,
+        "source": "CIE SM Equity",
+        "score": 2.020396972009002
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3580000.0,
+        "source": "VOE AV Equity",
+        "score": 2.0181747275412905
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3490000.0,
+        "source": "ST US Equity",
+        "score": 2.013082516142304
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3330000.0,
+        "source": "TIFS LN Equity",
+        "score": 2.0036966324513763
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2650000.0,
+        "source": "300432 CH Equity",
+        "score": 1.9580141150641648
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3080000.0,
+        "source": "6816 JP Equity",
+        "score": 1.9880880959250056
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2790000.0,
+        "source": "SEMC SS Equity",
+        "score": 1.9683105024440843
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2890000.0,
+        "source": "AXL US Equity",
+        "score": 1.9753534812218634
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2430000.0,
+        "source": "DAN US Equity",
+        "score": 1.9406804453678559
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2190000.0,
+        "source": "ZIL2 GR Equity",
+        "score": 1.9198825116827165
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2050000.0,
+        "source": "TOWR US Equity",
+        "score": 1.90667016778387
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1560000.0,
+        "source": "300392 CH Equity",
+        "score": 1.852039404050231
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1730000.0,
+        "source": "SO IM Equity",
+        "score": 1.8727265089016951
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1660000.0,
+        "source": "SSABA SS Equity",
+        "score": 1.8644657525484365
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1460000.0,
+        "source": "NUE US Equity",
+        "score": 1.838789535723158
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1420000.0,
+        "source": "VNE US Equity",
+        "score": 1.8332336267605096
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1400000.0,
+        "source": "300207 CH Equity",
+        "score": 1.8303967017741893
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1360000.0,
+        "source": "092200 KS Equity",
+        "score": 1.8245991986012164
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1260000.0,
+        "source": "7287 JP Equity",
+        "score": 1.8093246145156279
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 881880.0,
+        "source": "698 HK Equity",
+        "score": 1.73796248105028
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 655760.0,
+        "source": "7239 JP Equity",
+        "score": 1.67871033445478
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 623900.0,
+        "source": "AUTN SW Equity",
+        "score": 1.6687493961837117
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 581730.0,
+        "source": "AKZA NA Equity",
+        "score": 1.654752684110767
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 553700.0,
+        "source": "300328 CH Equity",
+        "score": 1.6448760217683152
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 390830.0,
+        "source": "VC US Equity",
+        "score": 1.5752061040934775
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 224740.0,
+        "source": "STRT US Equity",
+        "score": 1.4645407814076363
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 222500.0,
+        "source": "600718 CH Equity",
+        "score": 1.462537374992071
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 146710.0,
+        "source": "300256 CH Equity",
+        "score": 1.379243988855682
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 105890.0,
+        "source": "300322 CH Equity",
+        "score": 1.3140331084284607
+      }
+    ],
+    "nodes": [
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Mando Corp",
+        "market_cap": "USD 1.22B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "204320 KS Equity",
+        "type": "supplier1",
+        "size": 8.922116695691578,
+        "country": "KR"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.596605293166888,
+        "country": "SE"
+      },
+      {
+        "name": "Gestamp Automocion SA",
+        "market_cap": "USD 3.37B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GEST SM Equity",
+        "type": "supplier1",
+        "size": 9.93817858131068,
+        "country": "ES"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 28.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.081903604189769,
+        "country": "DE"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.45B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.619353861503047,
+        "country": "DE"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 21.5B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.791318772080029,
+        "country": "FR"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 9.15B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 10.937019716233841,
+        "country": "DE"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.22B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.375763238840957,
+        "country": "KR"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.891176026613856,
+        "country": "US"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 920.63M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.640568776259428,
+        "country": "US"
+      },
+      {
+        "name": "Gentex Corp",
+        "market_cap": "USD 5.78B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "GNTX US Equity",
+        "type": "supplier1",
+        "size": 10.477669519630698,
+        "country": "US"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 65.31B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.902411000860976,
+        "country": "DE"
+      },
+      {
+        "name": "Dassault Systemes SE",
+        "market_cap": "USD 39.23B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DSY FP Equity",
+        "type": "supplier1",
+        "size": 12.392707597167874,
+        "country": "FR"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 15.31B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.451772046616004,
+        "country": "CA"
+      },
+      {
+        "name": "Martinrea International Inc",
+        "market_cap": "USD 655.7M",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MRE CN Equity",
+        "type": "supplier1",
+        "size": 8.30121392523385,
+        "country": "CA"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 384.56M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.767610381549979,
+        "country": "CH"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.3B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.711140185100756,
+        "country": "FR"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.5B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.863332000442682,
+        "country": "JP"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 631.25M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.263212538553844,
+        "country": "DE"
+      },
+      {
+        "name": "Telefonaktiebolaget LM Ericsson",
+        "market_cap": "USD 30.18B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ERICB SS Equity",
+        "type": "supplier1",
+        "size": 12.130445290286115,
+        "country": "SE"
+      },
+      {
+        "name": "POLYTEC Holding AG",
+        "market_cap": "USD 239.81M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "PYT AV Equity",
+        "type": "supplier1",
+        "size": 7.295357501106057,
+        "country": "AT"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.129362825362481,
+        "country": "TW"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.98B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.800204248408129,
+        "country": "US"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "GB"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.39B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.72339357190652,
+        "country": "SE"
+      },
+      {
+        "name": "AKWEL",
+        "market_cap": "USD 474.65M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKW FP Equity",
+        "type": "supplier1",
+        "size": 7.978088248292082,
+        "country": "FR"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 1.01B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.73321616779958,
+        "country": "JP"
+      },
+      {
+        "name": "Samsung Electronics Co Ltd",
+        "market_cap": "USD 214.77B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "005930 KS Equity",
+        "type": "supplier1",
+        "size": 14.092833525022616,
+        "country": "KR"
+      },
+      {
+        "name": "SHW AG",
+        "market_cap": "USD 141.72M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SW1 GR Equity",
+        "type": "supplier1",
+        "size": 6.769363837961546,
+        "country": "DE"
+      },
+      {
+        "name": "Hella GmbH & Co KGaA",
+        "market_cap": "USD 5.42B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "HLE GR Equity",
+        "type": "supplier1",
+        "size": 10.413361652397967,
+        "country": "DE"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 557.79M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.139493105424354,
+        "country": "CN"
+      },
+      {
+        "name": "Aisin Seiki Co Ltd",
+        "market_cap": "USD 10.03B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7259 JP Equity",
+        "type": "supplier1",
+        "size": 11.028846438920255,
+        "country": "JP"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 17.61B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.591732759454526,
+        "country": "KR"
+      },
+      {
+        "name": "NTN Corp",
+        "market_cap": "USD 1.55B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6472 JP Equity",
+        "type": "supplier1",
+        "size": 9.161520767877565,
+        "country": "JP"
+      },
+      {
+        "name": "Chinasoft International Ltd",
+        "market_cap": "USD 1.31B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "354 HK Equity",
+        "type": "supplier1",
+        "size": 8.99329297415947,
+        "country": "CN"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 17.54B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.587749823890448,
+        "country": "LU"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.51B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "MX"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.85B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.071338985246104,
+        "country": "IT"
+      },
+      {
+        "name": "Innolux Corp",
+        "market_cap": "USD 2.84B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "3481 TT Equity",
+        "type": "supplier1",
+        "size": 9.767069889119526,
+        "country": "TW"
+      },
+      {
+        "name": "Shiloh Industries Inc",
+        "market_cap": "USD 133.24M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SHLO US Equity",
+        "type": "supplier1",
+        "size": 6.707662571289752,
+        "country": "US"
+      },
+      {
+        "name": "Grammer AG",
+        "market_cap": "USD 473.04M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GMM GR Equity",
+        "type": "supplier1",
+        "size": 7.974690509476847,
+        "country": "DE"
+      },
+      {
+        "name": "NGK Spark Plug Co Ltd",
+        "market_cap": "USD 3.57B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5334 JP Equity",
+        "type": "supplier1",
+        "size": 9.995831432737958,
+        "country": "JP"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 125.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.551659571048884,
+        "country": "US"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.052989846577908,
+        "country": "FR"
+      },
+      {
+        "name": "CIE Automotive SA",
+        "market_cap": "USD 3.56B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CIE SM Equity",
+        "type": "supplier1",
+        "size": 9.993026381810349,
+        "country": "ES"
+      },
+      {
+        "name": "voestalpine AG",
+        "market_cap": "USD 5.16B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOE AV Equity",
+        "type": "supplier1",
+        "size": 10.364202416439884,
+        "country": "AT"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.9B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.790128596419386,
+        "country": "US"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.32B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 9.000897573544691,
+        "country": "GB"
+      },
+      {
+        "name": "Mianyang Fulin Precision Machining Co Ltd",
+        "market_cap": "USD 517.42M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300432 CH Equity",
+        "type": "supplier1",
+        "size": 8.06436548178165,
+        "country": "CN"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Semcon AB",
+        "market_cap": "USD 112.85M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SEMC SS Equity",
+        "type": "supplier1",
+        "size": 6.541570061227819,
+        "country": "SE"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "US"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.46B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.623427186890684,
+        "country": "US"
+      },
+      {
+        "name": "ElringKlinger AG",
+        "market_cap": "USD 419.95M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ZIL2 GR Equity",
+        "type": "supplier1",
+        "size": 7.855646214535909,
+        "country": "DE"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 425.36M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.868446427160357,
+        "country": "US"
+      },
+      {
+        "name": "Beijing Tensyn Digital Marketing Technology JSC",
+        "market_cap": "USD 476.64M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300392 CH Equity",
+        "type": "supplier1",
+        "size": 7.982272046929246,
+        "country": "CN"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 160.85M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.895982811649308,
+        "country": "IT"
+      },
+      {
+        "name": "SSAB AB",
+        "market_cap": "USD 3.07B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SSABA SS Equity",
+        "type": "supplier1",
+        "size": 9.844943398545517,
+        "country": "SE"
+      },
+      {
+        "name": "Nucor Corp",
+        "market_cap": "USD 17.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NUE US Equity",
+        "type": "supplier1",
+        "size": 11.574550206134528,
+        "country": "US"
+      },
+      {
+        "name": "Veoneer Inc",
+        "market_cap": "USD 1.79B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VNE US Equity",
+        "type": "supplier1",
+        "size": 9.305481456799075,
+        "country": "SE"
+      },
+      {
+        "name": "Sunwoda Electronic Co Ltd",
+        "market_cap": "USD 2.74B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300207 CH Equity",
+        "type": "supplier1",
+        "size": 9.731223757346392,
+        "country": "CN"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 124.83M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.642463369627233,
+        "country": "KR"
+      },
+      {
+        "name": "Nippon Seiki Co Ltd",
+        "market_cap": "USD 1.04B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7287 JP Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "JP"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 602.64M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.216830561481714,
+        "country": "HK"
+      },
+      {
+        "name": "Tachi-S Co Ltd",
+        "market_cap": "USD 487.53M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7239 JP Equity",
+        "type": "supplier1",
+        "size": 8.004862384970302,
+        "country": "JP"
+      },
+      {
+        "name": "Autoneum Holding AG",
+        "market_cap": "USD 547.78M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AUTN SW Equity",
+        "type": "supplier1",
+        "size": 8.121384304451695,
+        "country": "CH"
+      },
+      {
+        "name": "Akzo Nobel NV",
+        "market_cap": "USD 18.96B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKZA NA Equity",
+        "type": "supplier1",
+        "size": 11.665597333773288,
+        "country": "NL"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 557.26M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.138542475336173,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.282881624881835,
+        "country": "US"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 105.89M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.477911377406638,
+        "country": "US"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.26B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.538630650230605,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Firstar Panel Technology Co Ltd",
+        "market_cap": "USD 484.04M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300256 CH Equity",
+        "type": "supplier1",
+        "size": 7.997678105894124,
+        "country": "CN"
+      },
+      {
+        "name": "Huizhou Speed Wireless Technology Co Ltd",
+        "market_cap": "USD 762.39M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300322 CH Equity",
+        "type": "supplier1",
+        "size": 8.451968793743951,
+        "country": "CN"
+      },
+      {
+        "name": "Geely Automobile Holdings Ltd",
+        "market_cap": "USD 18.17B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "175 HK Equity",
+        "type": "manufacturer",
+        "size": 11.623029760233056,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "175 HK Equity",
+        "relation": 144350000.0,
+        "source": "APTV US Equity",
+        "score": 2.757550294200165
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 79080000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.637194113782422
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 69640000.0,
+        "source": "LEA US Equity",
+        "score": 2.611769937444765
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 62230000.0,
+        "source": "204320 KS Equity",
+        "score": 2.5892695545229643
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 45580000.0,
+        "source": "CON GR Equity",
+        "score": 2.526995920744252
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 46010000.0,
+        "source": "GEST SM Equity",
+        "score": 2.5288738687732115
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 31240000.0,
+        "source": "ML FP Equity",
+        "score": 2.4514419829892007
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1290000.0,
+        "source": "KU2 GR Equity",
+        "score": 1.8140307103062705
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 25140000.0,
+        "source": "018880 KS Equity",
+        "score": 2.407994160180724
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 17640000.0,
+        "source": "ADNT US Equity",
+        "score": 2.337135933046452
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 16490000.0,
+        "source": "EO FP Equity",
+        "score": 2.3236529510357187
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 16240000.0,
+        "source": "BAS GR Equity",
+        "score": 2.320597590854832
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1050000.0,
+        "source": "DSY FP Equity",
+        "score": 1.7728603349028411
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15960000.0,
+        "source": "MG CN Equity",
+        "score": 2.3171192425285154
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 15050000.0,
+        "source": "ALV US Equity",
+        "score": 2.3053777231208676
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 14170000.0,
+        "source": "CPS US Equity",
+        "score": 2.2933275364476984
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 13140000.0,
+        "source": "300750 CH Equity",
+        "score": 2.278234329424847
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 13200000.0,
+        "source": "MRE CN Equity",
+        "score": 2.2791454926628347
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12800000.0,
+        "source": "TKA GR Equity",
+        "score": 2.272991161402968
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 11940000.0,
+        "source": "KOA NO Equity",
+        "score": 2.259080949936164
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12600000.0,
+        "source": "FR FP Equity",
+        "score": 2.269841490257357
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12330000.0,
+        "source": "7276 JP Equity",
+        "score": 2.265509191248705
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 12130000.0,
+        "source": "LEO GR Equity",
+        "score": 2.2622384726720925
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 10740000.0,
+        "source": "PYT AV Equity",
+        "score": 2.2378971480309717
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 9850000.0,
+        "source": "2105 TT Equity",
+        "score": 2.2205964229342223
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 8140000.000000001,
+        "source": "SKFB SS Equity",
+        "score": 2.1824601721657677
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6940000.0,
+        "source": "AKW FP Equity",
+        "score": 2.150562495315039
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5670000.0,
+        "source": "005930 KS Equity",
+        "score": 2.1101399704141524
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7930000.0,
+        "source": "SW1 GR Equity",
+        "score": 2.1772327439428856
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 7300000.0,
+        "source": "HLE GR Equity",
+        "score": 2.1606770086209823
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6150000.0,
+        "source": "000678 CH Equity",
+        "score": 2.1263925604768628
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6770000.0,
+        "source": "7259 JP Equity",
+        "score": 2.145602358519787
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6440000.0,
+        "source": "012330 KS Equity",
+        "score": 2.1356078506720055
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6290000.0,
+        "source": "6472 JP Equity",
+        "score": 2.1308943575318247
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 6200000.0,
+        "source": "MT NA Equity",
+        "score": 2.128012002261126
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 495020.0,
+        "source": "354 HK Equity",
+        "score": 1.6224710929786736
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 5110000.0,
+        "source": "3481 TT Equity",
+        "score": 2.0893420315749167
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4810000.0,
+        "source": "NEMAKA MM Equity",
+        "score": 2.077241569996426
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4840000.0,
+        "source": "BRE IM Equity",
+        "score": 2.078485097060873
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4670000.0,
+        "source": "GMM GR Equity",
+        "score": 2.071333968755564
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4200000.0,
+        "source": "TEN US Equity",
+        "score": 2.050119064269761
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 4530000.0,
+        "source": "SHLO US Equity",
+        "score": 2.065246543641949
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3940000.0,
+        "source": "DLPH US Equity",
+        "score": 2.0373383070162383
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3810000.0,
+        "source": "5334 JP Equity",
+        "score": 2.030628001914008
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3880000.0,
+        "source": "BWA US Equity",
+        "score": 2.0342691938662765
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3760000.0,
+        "source": "HON US Equity",
+        "score": 2.027985956264698
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3650000.0,
+        "source": "POM FP Equity",
+        "score": 2.022047599906248
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3620000.0,
+        "source": "CIE SM Equity",
+        "score": 2.020396972009002
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3490000.0,
+        "source": "ST US Equity",
+        "score": 2.013082516142304
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3360000.0,
+        "source": "VOE AV Equity",
+        "score": 2.0054903659116783
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 3330000.0,
+        "source": "TIFS LN Equity",
+        "score": 2.0036966324513763
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2650000.0,
+        "source": "300432 CH Equity",
+        "score": 1.9580141150641648
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2790000.0,
+        "source": "SEMC SS Equity",
+        "score": 1.9683105024440843
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2860000.0,
+        "source": "7278 JP Equity",
+        "score": 1.9732665064892645
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2760000.0,
+        "source": "AXL US Equity",
+        "score": 1.9661483200024215
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2520000.0,
+        "source": "DAN US Equity",
+        "score": 1.9479539712625846
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2600000.0,
+        "source": "GNTX US Equity",
+        "score": 1.954204477521404
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2100000.0,
+        "source": "SSABA SS Equity",
+        "score": 1.911489675776803
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2190000.0,
+        "source": "ZIL2 GR Equity",
+        "score": 1.9198825116827165
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 2050000.0,
+        "source": "TOWR US Equity",
+        "score": 1.90667016778387
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1560000.0,
+        "source": "300392 CH Equity",
+        "score": 1.852039404050231
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1740000.0,
+        "source": "300207 CH Equity",
+        "score": 1.873879249180638
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1770000.0,
+        "source": "7239 JP Equity",
+        "score": 1.8772981339043207
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1730000.0,
+        "source": "SO IM Equity",
+        "score": 1.8727265089016951
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 66090.0,
+        "source": "PRCP US Equity",
+        "score": 1.219757571846432
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1420000.0,
+        "source": "VNE US Equity",
+        "score": 1.8332336267605096
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1360000.0,
+        "source": "092200 KS Equity",
+        "score": 1.8245991986012164
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1260000.0,
+        "source": "7287 JP Equity",
+        "score": 1.8093246145156279
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 1200000.0,
+        "source": "NUE US Equity",
+        "score": 1.7995665896182431
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 932800.0,
+        "source": "VC US Equity",
+        "score": 1.7491894333237914
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 881880.0,
+        "source": "698 HK Equity",
+        "score": 1.73796248105028
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 876100.0,
+        "source": "WBC US Equity",
+        "score": 1.7366473320152034
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 594590.0,
+        "source": "300328 CH Equity",
+        "score": 1.6591258106411093
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 623900.0,
+        "source": "AUTN SW Equity",
+        "score": 1.6687493961837117
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 581730.0,
+        "source": "AKZA NA Equity",
+        "score": 1.654752684110767
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 224740.0,
+        "source": "STRT US Equity",
+        "score": 1.4645407814076363
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 193370.0,
+        "source": "600718 CH Equity",
+        "score": 1.434473180492854
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 131230.0,
+        "source": "300256 CH Equity",
+        "score": 1.3569428816140183
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 128640.0,
+        "source": "THRM US Equity",
+        "score": 1.3529561716028842
+      },
+      {
+        "target": "175 HK Equity",
+        "relation": 105890.0,
+        "source": "300322 CH Equity",
+        "score": 1.3140331084284607
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.35B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.6859582564222,
+        "country": "IE"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.49B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.862154837269667,
+        "country": "US"
+      },
+      {
+        "name": "Mando Corp",
+        "market_cap": "USD 1.23B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "204320 KS Equity",
+        "type": "supplier1",
+        "size": 8.930280006330737,
+        "country": "KR"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 29.55B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.109349580798519,
+        "country": "DE"
+      },
+      {
+        "name": "Gestamp Automocion SA",
+        "market_cap": "USD 3.41B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GEST SM Equity",
+        "type": "supplier1",
+        "size": 9.949978128241838,
+        "country": "ES"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.66B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.843867092546272,
+        "country": "FR"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.38B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.590366324629795,
+        "country": "DE"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.16B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.364202416439884,
+        "country": "KR"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.91B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "US"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.01B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.516690585493528,
+        "country": "FR"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 65.49B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.905163296176372,
+        "country": "DE"
+      },
+      {
+        "name": "Dassault Systemes SE",
+        "market_cap": "USD 39.57B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DSY FP Equity",
+        "type": "supplier1",
+        "size": 12.401337092343745,
+        "country": "FR"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.81B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.41856846522612,
+        "country": "CA"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.24B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.55424601932775,
+        "country": "SE"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 847.21M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.5574591557701,
+        "country": "US"
+      },
+      {
+        "name": "Contemporary Amperex Technology Co Ltd",
+        "market_cap": "USD 23.93B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300750 CH Equity",
+        "type": "supplier1",
+        "size": 11.898398738866693,
+        "country": "CN"
+      },
+      {
+        "name": "Martinrea International Inc",
+        "market_cap": "USD 666.29M",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MRE CN Equity",
+        "type": "supplier1",
+        "size": 8.3172355691656,
+        "country": "CA"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 8.83B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 10.901420851562278,
+        "country": "DE"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 404.09M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.817148183392593,
+        "country": "CH"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.64B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.75666344012484,
+        "country": "FR"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.49B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.862154837269667,
+        "country": "JP"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 563.74M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.150103710264634,
+        "country": "DE"
+      },
+      {
+        "name": "POLYTEC Holding AG",
+        "market_cap": "USD 240.28M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "PYT AV Equity",
+        "type": "supplier1",
+        "size": 7.297315467946234,
+        "country": "AT"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.06B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.124448810560054,
+        "country": "TW"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.5B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.738168857488677,
+        "country": "SE"
+      },
+      {
+        "name": "AKWEL",
+        "market_cap": "USD 479.58M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKW FP Equity",
+        "type": "supplier1",
+        "size": 7.9884212788302555,
+        "country": "FR"
+      },
+      {
+        "name": "Samsung Electronics Co Ltd",
+        "market_cap": "USD 213.59B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "005930 KS Equity",
+        "type": "supplier1",
+        "size": 14.087324126457126,
+        "country": "KR"
+      },
+      {
+        "name": "SHW AG",
+        "market_cap": "USD 141.76M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SW1 GR Equity",
+        "type": "supplier1",
+        "size": 6.7696460448210445,
+        "country": "DE"
+      },
+      {
+        "name": "Hella GmbH & Co KGaA",
+        "market_cap": "USD 5.67B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "HLE GR Equity",
+        "type": "supplier1",
+        "size": 10.458454954686072,
+        "country": "DE"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 584.69M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.186592350211889,
+        "country": "CN"
+      },
+      {
+        "name": "Aisin Seiki Co Ltd",
+        "market_cap": "USD 10.13B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7259 JP Equity",
+        "type": "supplier1",
+        "size": 11.038767155207005,
+        "country": "JP"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 17.07B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.560588373752761,
+        "country": "KR"
+      },
+      {
+        "name": "NTN Corp",
+        "market_cap": "USD 1.54B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6472 JP Equity",
+        "type": "supplier1",
+        "size": 9.155048253371948,
+        "country": "JP"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 17.38B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.578585956783659,
+        "country": "LU"
+      },
+      {
+        "name": "Chinasoft International Ltd",
+        "market_cap": "USD 1.28B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "354 HK Equity",
+        "type": "supplier1",
+        "size": 8.970125914877936,
+        "country": "CN"
+      },
+      {
+        "name": "Innolux Corp",
+        "market_cap": "USD 2.75B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "3481 TT Equity",
+        "type": "supplier1",
+        "size": 9.734866748624892,
+        "country": "TW"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.56B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.167951658207858,
+        "country": "MX"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.9B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.08424239008201,
+        "country": "IT"
+      },
+      {
+        "name": "Grammer AG",
+        "market_cap": "USD 491.77M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GMM GR Equity",
+        "type": "supplier1",
+        "size": 8.013521685479095,
+        "country": "DE"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.772056001115843,
+        "country": "US"
+      },
+      {
+        "name": "Shiloh Industries Inc",
+        "market_cap": "USD 125.89M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SHLO US Equity",
+        "type": "supplier1",
+        "size": 6.650919067742443,
+        "country": "US"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.299879201250405,
+        "country": "GB"
+      },
+      {
+        "name": "NGK Spark Plug Co Ltd",
+        "market_cap": "USD 3.7B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5334 JP Equity",
+        "type": "supplier1",
+        "size": 10.03159865659659,
+        "country": "JP"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.67B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.760582452325576,
+        "country": "US"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 123.37B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.538453807029786,
+        "country": "US"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.9B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.08424239008201,
+        "country": "FR"
+      },
+      {
+        "name": "CIE Automotive SA",
+        "market_cap": "USD 3.64B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CIE SM Equity",
+        "type": "supplier1",
+        "size": 10.01524951859506,
+        "country": "ES"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.52B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.740831974908161,
+        "country": "US"
+      },
+      {
+        "name": "voestalpine AG",
+        "market_cap": "USD 5.29B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOE AV Equity",
+        "type": "supplier1",
+        "size": 10.38908408281662,
+        "country": "AT"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.29B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 8.977908055319993,
+        "country": "GB"
+      },
+      {
+        "name": "Mianyang Fulin Precision Machining Co Ltd",
+        "market_cap": "USD 500.33M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300432 CH Equity",
+        "type": "supplier1",
+        "size": 8.030778438682251,
+        "country": "CN"
+      },
+      {
+        "name": "Semcon AB",
+        "market_cap": "USD 114.29M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SEMC SS Equity",
+        "type": "supplier1",
+        "size": 6.554249635873781,
+        "country": "SE"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 1000.0M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.72326583694641,
+        "country": "JP"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.34B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.015935450909232,
+        "country": "US"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.590366324629795,
+        "country": "US"
+      },
+      {
+        "name": "Gentex Corp",
+        "market_cap": "USD 5.65B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "GNTX US Equity",
+        "type": "supplier1",
+        "size": 10.45492138210476,
+        "country": "US"
+      },
+      {
+        "name": "SSAB AB",
+        "market_cap": "USD 3.15B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SSABA SS Equity",
+        "type": "supplier1",
+        "size": 9.870668289783953,
+        "country": "SE"
+      },
+      {
+        "name": "ElringKlinger AG",
+        "market_cap": "USD 422.57M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ZIL2 GR Equity",
+        "type": "supplier1",
+        "size": 7.8618656715113815,
+        "country": "DE"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 409.43M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.830276506474522,
+        "country": "US"
+      },
+      {
+        "name": "Beijing Tensyn Digital Marketing Technology JSC",
+        "market_cap": "USD 538.19M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300392 CH Equity",
+        "type": "supplier1",
+        "size": 8.103722215631098,
+        "country": "CN"
+      },
+      {
+        "name": "Sunwoda Electronic Co Ltd",
+        "market_cap": "USD 2.94B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300207 CH Equity",
+        "type": "supplier1",
+        "size": 9.801675418297002,
+        "country": "CN"
+      },
+      {
+        "name": "Tachi-S Co Ltd",
+        "market_cap": "USD 468.94M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7239 JP Equity",
+        "type": "supplier1",
+        "size": 7.965985386456865,
+        "country": "JP"
+      },
+      {
+        "name": "Sogefi SpA",
+        "market_cap": "USD 163.18M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SO IM Equity",
+        "type": "supplier1",
+        "size": 6.9103644439649266,
+        "country": "IT"
+      },
+      {
+        "name": "Perceptron Inc",
+        "market_cap": "USD 47.26M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PRCP US Equity",
+        "type": "supplier1",
+        "size": 5.671174829723036,
+        "country": "US"
+      },
+      {
+        "name": "Veoneer Inc",
+        "market_cap": "USD 1.74B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VNE US Equity",
+        "type": "supplier1",
+        "size": 9.27715095017285,
+        "country": "SE"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 124.44M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.639334229993711,
+        "country": "KR"
+      },
+      {
+        "name": "Nippon Seiki Co Ltd",
+        "market_cap": "USD 1.02B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7287 JP Equity",
+        "type": "supplier1",
+        "size": 8.74306846424259,
+        "country": "JP"
+      },
+      {
+        "name": "Nucor Corp",
+        "market_cap": "USD 16.72B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NUE US Equity",
+        "type": "supplier1",
+        "size": 11.539871444602966,
+        "country": "US"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.174341456306628,
+        "country": "US"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 577.86M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.1748421827651,
+        "country": "HK"
+      },
+      {
+        "name": "WABCO Holdings Inc",
+        "market_cap": "USD 6.71B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WBC US Equity",
+        "type": "supplier1",
+        "size": 10.626864787930003,
+        "country": "US"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 581.53M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.18117311930591,
+        "country": "CN"
+      },
+      {
+        "name": "Autoneum Holding AG",
+        "market_cap": "USD 574.03M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AUTN SW Equity",
+        "type": "supplier1",
+        "size": 8.168192217726446,
+        "country": "CH"
+      },
+      {
+        "name": "Akzo Nobel NV",
+        "market_cap": "USD 19.36B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "AKZA NA Equity",
+        "type": "supplier1",
+        "size": 11.686474918794843,
+        "country": "NL"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 102.66M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.4469331150964315,
+        "country": "US"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.27B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.543045668439724,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Firstar Panel Technology Co Ltd",
+        "market_cap": "USD 479.39M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300256 CH Equity",
+        "type": "supplier1",
+        "size": 7.988025020339403,
+        "country": "CN"
+      },
+      {
+        "name": "Gentherm Inc",
+        "market_cap": "USD 1.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "THRM US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "US"
+      },
+      {
+        "name": "Huizhou Speed Wireless Technology Co Ltd",
+        "market_cap": "USD 795.42M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300322 CH Equity",
+        "type": "supplier1",
+        "size": 8.494380835003088,
+        "country": "CN"
+      },
+      {
+        "name": "Geely Automobile Holdings Ltd",
+        "market_cap": "USD 18.17B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "175 HK Equity",
+        "type": "manufacturer",
+        "size": 11.623029760233056,
+        "country": "CN"
+      }
+    ]
+  }
+]

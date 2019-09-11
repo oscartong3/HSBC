@@ -1,0 +1,160 @@
+[
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "BAIC BluePark New Energy Technology Co Ltd",
+        "market_cap": "USD 4.48B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600733 CH Equity",
+        "type": "manufacturer",
+        "size": 10.221950943645329,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "BAIC BluePark New Energy Technology Co Ltd",
+        "market_cap": "USD 4.48B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600733 CH Equity",
+        "type": "manufacturer",
+        "size": 10.221950943645329,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1188 HK Equity",
+        "relation": 39940.0,
+        "source": "1471398D CH Equity",
+        "score": 1.119031728842541
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Anhui Tiankang HK New Energy Technology Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1471398D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "HYBRID KINETIC GROUP LTD",
+        "market_cap": "USD 93.4M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "1188 HK Equity",
+        "type": "manufacturer",
+        "size": 6.3524087154989495,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1188 HK Equity",
+        "relation": 311250.0,
+        "source": "1471398D CH Equity",
+        "score": 1.5296709879214596
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Anhui Tiankang HK New Energy Technology Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1471398D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "HYBRID KINETIC GROUP LTD",
+        "market_cap": "USD 93.4M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "1188 HK Equity",
+        "type": "manufacturer",
+        "size": 6.3524087154989495,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1188 HK Equity",
+        "relation": 39940.0,
+        "source": "1471398D CH Equity",
+        "score": 1.119031728842541
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Anhui Tiankang HK New Energy Technology Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1471398D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "HYBRID KINETIC GROUP LTD",
+        "market_cap": "USD 93.4M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "1188 HK Equity",
+        "type": "manufacturer",
+        "size": 6.3524087154989495,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1188 HK Equity",
+        "relation": 39940.0,
+        "source": "1471398D CH Equity",
+        "score": 1.119031728842541
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Anhui Tiankang HK New Energy Technology Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1471398D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "HYBRID KINETIC GROUP LTD",
+        "market_cap": "USD 93.4M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "1188 HK Equity",
+        "type": "manufacturer",
+        "size": 6.3524087154989495,
+        "country": "US"
+      }
+    ]
+  }
+]

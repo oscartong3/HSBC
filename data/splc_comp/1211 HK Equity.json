@@ -1,0 +1,4130 @@
+[
+  {
+    "links": [
+      {
+        "target": "1211 HK Equity",
+        "relation": 77700000.0,
+        "source": "002217 CH Equity",
+        "score": 2.6336731656415777
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 30520000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.446778559429186
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 16840000.0,
+        "source": "300115 CH Equity",
+        "score": 2.3278535252321753
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 14610000.0,
+        "source": "IFX GR Equity",
+        "score": 2.2994433704346298
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 14550000.0,
+        "source": "2018 HK Equity",
+        "score": 2.298620324062059
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 11650000.0,
+        "source": "EO FP Equity",
+        "score": 2.254163364762578
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 8890000.0,
+        "source": "300083 CH Equity",
+        "score": 2.200087543995204
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 682390.0,
+        "source": "6113 JP Equity",
+        "score": 1.6866716172654064
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 7730000.0,
+        "source": "BAS GR Equity",
+        "score": 2.1721239099859404
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 6330000.0,
+        "source": "FR FP Equity",
+        "score": 2.132162190419646
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5740000.0,
+        "source": "MG CN Equity",
+        "score": 2.1125939885023524
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4680000.0,
+        "source": "ADNT US Equity",
+        "score": 2.071761776313804
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5030000.0,
+        "source": "JMAT LN Equity",
+        "score": 2.086186148176612
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4540000.0,
+        "source": "APTV US Equity",
+        "score": 2.0656875580563647
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4240000.0,
+        "source": "BWA US Equity",
+        "score": 2.052014812611434
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4760000.0,
+        "source": "OMN US Equity",
+        "score": 2.0751516872583227
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3860000.0,
+        "source": "MRVL US Equity",
+        "score": 2.0332356001016674
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3650000.0,
+        "source": "PPG US Equity",
+        "score": 2.022047599906248
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 331150.0,
+        "source": "CMCO US Equity",
+        "score": 1.5420659487376245
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3980000.0,
+        "source": "7312 JP Equity",
+        "score": 2.039358525703374
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3200000.0,
+        "source": "698 HK Equity",
+        "score": 1.9957323360539814
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2650000.0,
+        "source": "MT NA Equity",
+        "score": 1.9580141150641648
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2630000.0,
+        "source": "002079 CH Equity",
+        "score": 1.9564989568764024
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1830000.0,
+        "source": "NXPI US Equity",
+        "score": 1.8839654142531086
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2090000.0,
+        "source": "000678 CH Equity",
+        "score": 1.910535020481956
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1530000.0,
+        "source": "ST US Equity",
+        "score": 1.848155789392635
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1780000.0,
+        "source": "300602 CH Equity",
+        "score": 1.878424896813173
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1270000.0,
+        "source": "6816 JP Equity",
+        "score": 1.810905649167208
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1070000.0,
+        "source": "SKFB SS Equity",
+        "score": 1.7766340282034183
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1140000.0,
+        "source": "POM FP Equity",
+        "score": 1.7893079395126552
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 817560.0,
+        "source": "002341 CH Equity",
+        "score": 1.722816159341357
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 585410.0,
+        "source": "PX US Equity",
+        "score": 1.6560138887267866
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 495480.0,
+        "source": "300227 CH Equity",
+        "score": 1.6226568573822067
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 583260.0,
+        "source": "603633 CH Equity",
+        "score": 1.6552780099085904
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 478270.0,
+        "source": "600718 CH Equity",
+        "score": 1.615586559285469
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 270540.0,
+        "source": "SYNA US Equity",
+        "score": 1.5016357873894868
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 255900.0,
+        "source": "NVDA US Equity",
+        "score": 1.4905091859833441
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 252320.0,
+        "source": "300328 CH Equity",
+        "score": 1.4876914730820636
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 235470.0,
+        "source": "VC US Equity",
+        "score": 1.47386860852109
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 189190.0,
+        "source": "AOSL US Equity",
+        "score": 1.4301024731516256
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 185540.0,
+        "source": "MXIM US Equity",
+        "score": 1.4262062321732247
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 38950.0,
+        "source": "MPWR US Equity",
+        "score": 1.114011944982055
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Holitech Technology Co Ltd",
+        "market_cap": "USD 2.58B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002217 CH Equity",
+        "type": "supplier1",
+        "size": 9.671055235879937,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Shenzhen Everwin Precision Technology Co Ltd",
+        "market_cap": "USD 1.51B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300115 CH Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "CN"
+      },
+      {
+        "name": "Infineon Technologies AG",
+        "market_cap": "USD 23.92B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "IFX GR Equity",
+        "type": "supplier1",
+        "size": 11.89798076602884,
+        "country": "DE"
+      },
+      {
+        "name": "AAC Technologies Holdings Inc",
+        "market_cap": "USD 7.25B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2018 HK Equity",
+        "type": "supplier1",
+        "size": 10.704267305812994,
+        "country": "CN"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.12B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.534827933470645,
+        "country": "FR"
+      },
+      {
+        "name": "Guangdong JANUS Intelligent Group Corp Ltd",
+        "market_cap": "USD 698.26M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300083 CH Equity",
+        "type": "supplier1",
+        "size": 8.36410208420509,
+        "country": "CN"
+      },
+      {
+        "name": "Amada Holdings Co Ltd",
+        "market_cap": "USD 3.89B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6113 JP Equity",
+        "type": "supplier1",
+        "size": 10.081674994576765,
+        "country": "JP"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 67.87B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.94085994766208,
+        "country": "DE"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.71B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.76578402452165,
+        "country": "FR"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 15.37B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.455683394496916,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "Johnson Matthey PLC",
+        "market_cap": "USD 7.96B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "JMAT LN Equity",
+        "type": "supplier1",
+        "size": 10.797694836802702,
+        "country": "GB"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.714487955022516,
+        "country": "IE"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.98B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.800204248408129,
+        "country": "US"
+      },
+      {
+        "name": "OMNOVA Solutions Inc",
+        "market_cap": "USD 331.85M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "OMN US Equity",
+        "type": "supplier1",
+        "size": 7.6201936175562075,
+        "country": "US"
+      },
+      {
+        "name": "Marvell Technology Group Ltd",
+        "market_cap": "USD 15.5B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MRVL US Equity",
+        "type": "supplier1",
+        "size": 11.464105860871612,
+        "country": "US"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.5B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 12.000410569938587,
+        "country": "US"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 868.33M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.58208238470467,
+        "country": "US"
+      },
+      {
+        "name": "TKJP Corp",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7312 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 602.65M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.216847154998625,
+        "country": "HK"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 18.5B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.641036569030689,
+        "country": "LU"
+      },
+      {
+        "name": "Suzhou Good-Ark Electronics Co Ltd",
+        "market_cap": "USD 724.33M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002079 CH Equity",
+        "type": "supplier1",
+        "size": 8.400757647609193,
+        "country": "CN"
+      },
+      {
+        "name": "NXP Semiconductors NV",
+        "market_cap": "USD 32.93B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "NXPI US Equity",
+        "type": "supplier1",
+        "size": 12.217649933334684,
+        "country": "NL"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 563.06M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.148896752361637,
+        "country": "CN"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.9B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.790128596419386,
+        "country": "US"
+      },
+      {
+        "name": "Shenzhen FRD Science & Technology Co Ltd",
+        "market_cap": "USD 1.11B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300602 CH Equity",
+        "type": "supplier1",
+        "size": 8.827625852270653,
+        "country": "CN"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.65B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.757971484784857,
+        "country": "SE"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.96B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.099509862212802,
+        "country": "FR"
+      },
+      {
+        "name": "Shenzhen Selen Science & Technology Co Ltd",
+        "market_cap": "USD 1.35B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002341 CH Equity",
+        "type": "supplier1",
+        "size": 9.02337042939675,
+        "country": "CN"
+      },
+      {
+        "name": "Praxair Inc",
+        "market_cap": "--",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PX US Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "US"
+      },
+      {
+        "name": "Shenzhen Sunshine Laser & Electronics Technology Co Ltd",
+        "market_cap": "USD 343.95M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300227 CH Equity",
+        "type": "supplier1",
+        "size": 7.6560068559362975,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Laimu Electronics Co Ltd",
+        "market_cap": "USD 264.58M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603633 CH Equity",
+        "type": "supplier1",
+        "size": 7.39365422099851,
+        "country": "CN"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.33B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.569134104524021,
+        "country": "CN"
+      },
+      {
+        "name": "Synaptics Inc",
+        "market_cap": "USD 1.22B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SYNA US Equity",
+        "type": "supplier1",
+        "size": 8.922116695691578,
+        "country": "US"
+      },
+      {
+        "name": "NVIDIA Corp",
+        "market_cap": "USD 102.73B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NVDA US Equity",
+        "type": "supplier1",
+        "size": 13.355370024174583,
+        "country": "US"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 563.2M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.149145362808106,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.282881624881835,
+        "country": "US"
+      },
+      {
+        "name": "Alpha & Omega Semiconductor Ltd",
+        "market_cap": "USD 257.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AOSL US Equity",
+        "type": "supplier1",
+        "size": 7.366491442362513,
+        "country": "US"
+      },
+      {
+        "name": "Maxim Integrated Products Inc",
+        "market_cap": "USD 15.52B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MXIM US Equity",
+        "type": "supplier1",
+        "size": 11.465395351701485,
+        "country": "US"
+      },
+      {
+        "name": "Monolithic Power Systems Inc",
+        "market_cap": "USD 5.86B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MPWR US Equity",
+        "type": "supplier1",
+        "size": 10.49141544053533,
+        "country": "US"
+      },
+      {
+        "name": "BYD Co Ltd",
+        "market_cap": "USD 21.57B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1211 HK Equity",
+        "type": "manufacturer",
+        "size": 11.794379947945693,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1211 HK Equity",
+        "relation": 16840000.0,
+        "source": "300115 CH Equity",
+        "score": 2.3278535252321753
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 14610000.0,
+        "source": "IFX GR Equity",
+        "score": 2.2994433704346298
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 14550000.0,
+        "source": "2018 HK Equity",
+        "score": 2.298620324062059
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 11330000.0,
+        "source": "EO FP Equity",
+        "score": 2.2485929442530876
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 8890000.0,
+        "source": "300083 CH Equity",
+        "score": 2.200087543995204
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 682390.0,
+        "source": "6113 JP Equity",
+        "score": 1.6866716172654064
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 7730000.0,
+        "source": "BAS GR Equity",
+        "score": 2.1721239099859404
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 6890000.0,
+        "source": "MG CN Equity",
+        "score": 2.1491163576255423
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 6390000.0,
+        "source": "ADNT US Equity",
+        "score": 2.1340489965696454
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 6330000.0,
+        "source": "FR FP Equity",
+        "score": 2.132162190419646
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5000000.0,
+        "source": "JMAT LN Equity",
+        "score": 2.084989734079671
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4360000.0,
+        "source": "698 HK Equity",
+        "score": 2.057596568936598
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4370000.0,
+        "source": "002079 CH Equity",
+        "score": 2.0580547591809397
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4760000.0,
+        "source": "OMN US Equity",
+        "score": 2.0751516872583227
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3860000.0,
+        "source": "MRVL US Equity",
+        "score": 2.0332356001016674
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3800000.0,
+        "source": "PPG US Equity",
+        "score": 2.030102377570895
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 331150.0,
+        "source": "CMCO US Equity",
+        "score": 1.5420659487376245
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4930000.0,
+        "source": "BWA US Equity",
+        "score": 2.082169949771722
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3980000.0,
+        "source": "7312 JP Equity",
+        "score": 2.039358525703374
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4570000.0,
+        "source": "APTV US Equity",
+        "score": 2.067004796337749
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2550000.0,
+        "source": "POM FP Equity",
+        "score": 1.950320861858279
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2310000.0,
+        "source": "SGL GR Equity",
+        "score": 1.9305517030796628
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1910000.0,
+        "source": "MT NA Equity",
+        "score": 1.892522864716577
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2090000.0,
+        "source": "000678 CH Equity",
+        "score": 1.910535020481956
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1530000.0,
+        "source": "ST US Equity",
+        "score": 1.848155789392635
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1410000.0,
+        "source": "TIFS LN Equity",
+        "score": 1.8318201943147914
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1430000.0,
+        "source": "SKFB SS Equity",
+        "score": 1.8346371403073087
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1230000.0,
+        "source": "6816 JP Equity",
+        "score": 1.8045051080712797
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 817560.0,
+        "source": "002341 CH Equity",
+        "score": 1.722816159341357
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 585410.0,
+        "source": "PX US Equity",
+        "score": 1.6560138887267866
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 495480.0,
+        "source": "300227 CH Equity",
+        "score": 1.6226568573822067
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 478270.0,
+        "source": "600718 CH Equity",
+        "score": 1.615586559285469
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 296600.0,
+        "source": "NVDA US Equity",
+        "score": 1.5200286160448906
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 252320.0,
+        "source": "300328 CH Equity",
+        "score": 1.4876914730820636
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 233350.0,
+        "source": "VC US Equity",
+        "score": 1.472059807355393
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 217350.0,
+        "source": "SLAB US Equity",
+        "score": 1.457853767456104
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 185540.0,
+        "source": "MXIM US Equity",
+        "score": 1.4262062321732247
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 158980.0,
+        "source": "AOSL US Equity",
+        "score": 1.3953079954413408
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 40960.0,
+        "source": "MPWR US Equity",
+        "score": 1.1240751346955742
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Shenzhen Everwin Precision Technology Co Ltd",
+        "market_cap": "USD 1.43B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300115 CH Equity",
+        "type": "supplier1",
+        "size": 9.080940281218226,
+        "country": "CN"
+      },
+      {
+        "name": "Infineon Technologies AG",
+        "market_cap": "USD 22.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "IFX GR Equity",
+        "type": "supplier1",
+        "size": 11.849148794965448,
+        "country": "DE"
+      },
+      {
+        "name": "AAC Technologies Holdings Inc",
+        "market_cap": "USD 7.01B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2018 HK Equity",
+        "type": "supplier1",
+        "size": 10.67060353799291,
+        "country": "CN"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "FR"
+      },
+      {
+        "name": "Guangdong JANUS Intelligent Group Corp Ltd",
+        "market_cap": "USD 668.86M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300083 CH Equity",
+        "type": "supplier1",
+        "size": 8.321085328629461,
+        "country": "CN"
+      },
+      {
+        "name": "Amada Holdings Co Ltd",
+        "market_cap": "USD 3.72B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6113 JP Equity",
+        "type": "supplier1",
+        "size": 10.036989505231467,
+        "country": "JP"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 65.09B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.899036764530706,
+        "country": "DE"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.71B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.411793371559757,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.94B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.385953810021647,
+        "country": "US"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.739501302722456,
+        "country": "FR"
+      },
+      {
+        "name": "Johnson Matthey PLC",
+        "market_cap": "USD 7.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "JMAT LN Equity",
+        "type": "supplier1",
+        "size": 10.774822175136713,
+        "country": "GB"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 577.8M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.17473834599641,
+        "country": "HK"
+      },
+      {
+        "name": "Suzhou Good-Ark Electronics Co Ltd",
+        "market_cap": "USD 757.93M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002079 CH Equity",
+        "type": "supplier1",
+        "size": 8.446101591057321,
+        "country": "CN"
+      },
+      {
+        "name": "OMNOVA Solutions Inc",
+        "market_cap": "USD 311.67M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "OMN US Equity",
+        "type": "supplier1",
+        "size": 7.557455493714823,
+        "country": "US"
+      },
+      {
+        "name": "Marvell Technology Group Ltd",
+        "market_cap": "USD 15.09B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MRVL US Equity",
+        "type": "supplier1",
+        "size": 11.437298109726168,
+        "country": "US"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.33B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.993974810454628,
+        "country": "US"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 824.89M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.530760602075944,
+        "country": "US"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.747458904395767,
+        "country": "US"
+      },
+      {
+        "name": "TKJP Corp",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7312 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.681815319372685,
+        "country": "IE"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.83B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.066130640138965,
+        "country": "FR"
+      },
+      {
+        "name": "SGL Carbon SE",
+        "market_cap": "USD 1.01B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SGL GR Equity",
+        "type": "supplier1",
+        "size": 8.73321616779958,
+        "country": "DE"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 17.47B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.583750961092377,
+        "country": "LU"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 555.49M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.135361165081743,
+        "country": "CN"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.44B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.730136685791411,
+        "country": "US"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.33B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 9.008444779180074,
+        "country": "GB"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.54B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.743488018966275,
+        "country": "SE"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Shenzhen Selen Science & Technology Co Ltd",
+        "market_cap": "USD 1.35B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002341 CH Equity",
+        "type": "supplier1",
+        "size": 9.02337042939675,
+        "country": "CN"
+      },
+      {
+        "name": "Praxair Inc",
+        "market_cap": "--",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PX US Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "US"
+      },
+      {
+        "name": "Shenzhen Sunshine Laser & Electronics Technology Co Ltd",
+        "market_cap": "USD 338.22M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300227 CH Equity",
+        "type": "supplier1",
+        "size": 7.639207129285811,
+        "country": "CN"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.25B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.534196053162741,
+        "country": "CN"
+      },
+      {
+        "name": "NVIDIA Corp",
+        "market_cap": "USD 98.6B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NVDA US Equity",
+        "type": "supplier1",
+        "size": 13.314337098555,
+        "country": "US"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 571.05M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.16298732946089,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.59B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.186999853178552,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.25B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.170184819882735,
+        "country": "US"
+      },
+      {
+        "name": "Maxim Integrated Products Inc",
+        "market_cap": "USD 14.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MXIM US Equity",
+        "type": "supplier1",
+        "size": 11.413830723707601,
+        "country": "US"
+      },
+      {
+        "name": "Alpha & Omega Semiconductor Ltd",
+        "market_cap": "USD 248.99M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AOSL US Equity",
+        "type": "supplier1",
+        "size": 7.332923292979952,
+        "country": "US"
+      },
+      {
+        "name": "Monolithic Power Systems Inc",
+        "market_cap": "USD 5.53B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MPWR US Equity",
+        "type": "supplier1",
+        "size": 10.433453652480654,
+        "country": "US"
+      },
+      {
+        "name": "BYD Co Ltd",
+        "market_cap": "USD 21.57B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1211 HK Equity",
+        "type": "manufacturer",
+        "size": 11.794379947945693,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1211 HK Equity",
+        "relation": 20800000.0,
+        "source": "2018 HK Equity",
+        "score": 2.3700927185496936
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 18880000.0,
+        "source": "IFX GR Equity",
+        "score": 2.3507227543295457
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 11330000.0,
+        "source": "EO FP Equity",
+        "score": 2.2485929442530876
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 12950000.0,
+        "source": "300115 CH Equity",
+        "score": 2.275321284665979
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 11540000.0,
+        "source": "300083 CH Equity",
+        "score": 2.2522659811398675
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 11020000.0,
+        "source": "BAS GR Equity",
+        "score": 2.2430444904866276
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 682390.0,
+        "source": "6113 JP Equity",
+        "score": 1.6866716172654064
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 6890000.0,
+        "source": "MG CN Equity",
+        "score": 2.1491163576255423
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 6390000.0,
+        "source": "ADNT US Equity",
+        "score": 2.1340489965696454
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 7140000.0,
+        "source": "FR FP Equity",
+        "score": 2.156244694874356
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5000000.0,
+        "source": "JMAT LN Equity",
+        "score": 2.084989734079671
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4370000.0,
+        "source": "002079 CH Equity",
+        "score": 2.0580547591809397
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4760000.0,
+        "source": "OMN US Equity",
+        "score": 2.0751516872583227
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5750000.0,
+        "source": "MRVL US Equity",
+        "score": 2.1129421173373126
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3800000.0,
+        "source": "PPG US Equity",
+        "score": 2.030102377570895
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4640000.0,
+        "source": "1760 HK Equity",
+        "score": 2.070045027943931
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4930000.0,
+        "source": "BWA US Equity",
+        "score": 2.082169949771722
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 498980.0,
+        "source": "CMCO US Equity",
+        "score": 1.624064659571287
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4780000.0,
+        "source": "698 HK Equity",
+        "score": 2.0759902627345275
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4570000.0,
+        "source": "APTV US Equity",
+        "score": 2.067004796337749
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3680000.0,
+        "source": "MT NA Equity",
+        "score": 2.023684716376841
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2550000.0,
+        "source": "POM FP Equity",
+        "score": 1.950320861858279
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2790000.0,
+        "source": "000678 CH Equity",
+        "score": 1.9683105024440843
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3070000.0,
+        "source": "1316 HK Equity",
+        "score": 1.9874376890592451
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2310000.0,
+        "source": "SGL GR Equity",
+        "score": 1.9305517030796628
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2210000.0,
+        "source": "ST US Equity",
+        "score": 1.9217007051965043
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2150000.0,
+        "source": "TIFS LN Equity",
+        "score": 1.9161957730440031
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1920000.0,
+        "source": "6816 JP Equity",
+        "score": 1.8935672529674323
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1850000.0,
+        "source": "SKFB SS Equity",
+        "score": 1.8861393475189803
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1160000.0,
+        "source": "002341 CH Equity",
+        "score": 1.7927862850302283
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1080000.0,
+        "source": "300227 CH Equity",
+        "score": 1.7784945050051801
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 296600.0,
+        "source": "NVDA US Equity",
+        "score": 1.5200286160448906
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 252320.0,
+        "source": "300328 CH Equity",
+        "score": 1.4876914730820636
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 217350.0,
+        "source": "SLAB US Equity",
+        "score": 1.457853767456104
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 185540.0,
+        "source": "MXIM US Equity",
+        "score": 1.4262062321732247
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 243600.0,
+        "source": "VC US Equity",
+        "score": 1.480657383979953
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 158980.0,
+        "source": "AOSL US Equity",
+        "score": 1.3953079954413408
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 89580.0,
+        "source": "600718 CH Equity",
+        "score": 1.2805797045810112
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 40960.0,
+        "source": "MPWR US Equity",
+        "score": 1.1240751346955742
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1560.0,
+        "source": "300073 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "AAC Technologies Holdings Inc",
+        "market_cap": "USD 6.65B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2018 HK Equity",
+        "type": "supplier1",
+        "size": 10.617882691614174,
+        "country": "CN"
+      },
+      {
+        "name": "Infineon Technologies AG",
+        "market_cap": "USD 22.64B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "IFX GR Equity",
+        "type": "supplier1",
+        "size": 11.842984090281394,
+        "country": "DE"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.76B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.474203311654211,
+        "country": "FR"
+      },
+      {
+        "name": "Shenzhen Everwin Precision Technology Co Ltd",
+        "market_cap": "USD 1.45B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300115 CH Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "CN"
+      },
+      {
+        "name": "Guangdong JANUS Intelligent Group Corp Ltd",
+        "market_cap": "USD 681.14M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300083 CH Equity",
+        "type": "supplier1",
+        "size": 8.339278423014477,
+        "country": "CN"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 64.95B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.896883580063019,
+        "country": "DE"
+      },
+      {
+        "name": "Amada Holdings Co Ltd",
+        "market_cap": "USD 3.72B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6113 JP Equity",
+        "type": "supplier1",
+        "size": 10.036989505231467,
+        "country": "JP"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.5B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.397414486372941,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.70702212849184,
+        "country": "FR"
+      },
+      {
+        "name": "Johnson Matthey PLC",
+        "market_cap": "USD 7.87B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "JMAT LN Equity",
+        "type": "supplier1",
+        "size": 10.786323899375724,
+        "country": "GB"
+      },
+      {
+        "name": "Suzhou Good-Ark Electronics Co Ltd",
+        "market_cap": "USD 748.87M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002079 CH Equity",
+        "type": "supplier1",
+        "size": 8.434075961664384,
+        "country": "CN"
+      },
+      {
+        "name": "OMNOVA Solutions Inc",
+        "market_cap": "USD 299.11M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "OMN US Equity",
+        "type": "supplier1",
+        "size": 7.516321956675522,
+        "country": "US"
+      },
+      {
+        "name": "Marvell Technology Group Ltd",
+        "market_cap": "USD 14.96B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MRVL US Equity",
+        "type": "supplier1",
+        "size": 11.428645809492743,
+        "country": "US"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.995871984235581,
+        "country": "US"
+      },
+      {
+        "name": "Intron Technology Holdings Ltd",
+        "market_cap": "USD 461.99M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "1760 HK Equity",
+        "type": "supplier1",
+        "size": 7.95105380379011,
+        "country": "HK"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.52B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.740831974908161,
+        "country": "US"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 821.86M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.527080622213283,
+        "country": "US"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 536.63M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.100819401959185,
+        "country": "HK"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 16.53B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.528442748779344,
+        "country": "LU"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.04502167692873,
+        "country": "FR"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 601.81M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.215452338838379,
+        "country": "CN"
+      },
+      {
+        "name": "Nexteer Automotive Group Ltd",
+        "market_cap": "USD 3.44B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "1316 HK Equity",
+        "type": "supplier1",
+        "size": 9.958737308331717,
+        "country": "US"
+      },
+      {
+        "name": "SGL Carbon SE",
+        "market_cap": "USD 1000.0M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SGL GR Equity",
+        "type": "supplier1",
+        "size": 8.72326583694641,
+        "country": "DE"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.7274448941257,
+        "country": "US"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 8.96228273741691,
+        "country": "GB"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.48B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.735498628932795,
+        "country": "SE"
+      },
+      {
+        "name": "Shenzhen Selen Science & Technology Co Ltd",
+        "market_cap": "USD 1.28B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002341 CH Equity",
+        "type": "supplier1",
+        "size": 8.970125914877936,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen Sunshine Laser & Electronics Technology Co Ltd",
+        "market_cap": "USD 335.41M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300227 CH Equity",
+        "type": "supplier1",
+        "size": 7.630864222055013,
+        "country": "CN"
+      },
+      {
+        "name": "NVIDIA Corp",
+        "market_cap": "USD 95.33B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NVDA US Equity",
+        "type": "supplier1",
+        "size": 13.280610393451898,
+        "country": "US"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 574.05M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.168227058504094,
+        "country": "CN"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.13B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.141543243919351,
+        "country": "US"
+      },
+      {
+        "name": "Maxim Integrated Products Inc",
+        "market_cap": "USD 14.6B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MXIM US Equity",
+        "type": "supplier1",
+        "size": 11.404287365660704,
+        "country": "US"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "US"
+      },
+      {
+        "name": "Alpha & Omega Semiconductor Ltd",
+        "market_cap": "USD 223.73M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AOSL US Equity",
+        "type": "supplier1",
+        "size": 7.22595052564926,
+        "country": "US"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.19B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.50716738077482,
+        "country": "CN"
+      },
+      {
+        "name": "Monolithic Power Systems Inc",
+        "market_cap": "USD 5.37B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MPWR US Equity",
+        "type": "supplier1",
+        "size": 10.404093745467186,
+        "country": "US"
+      },
+      {
+        "name": "Beijing Easpring Material Technology Co Ltd",
+        "market_cap": "USD 1.45B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300073 CH Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "CN"
+      },
+      {
+        "name": "BYD Co Ltd",
+        "market_cap": "USD 21.57B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1211 HK Equity",
+        "type": "manufacturer",
+        "size": 11.794379947945693,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1211 HK Equity",
+        "relation": 27150000.0,
+        "source": "2018 HK Equity",
+        "score": 2.4233775282353265
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 18330000.0,
+        "source": "IFX GR Equity",
+        "score": 2.3448099348742515
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1020000.0,
+        "source": "KMCACZ CH Equity",
+        "score": 1.7670628331304261
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 13250000.0,
+        "source": "300115 CH Equity",
+        "score": 2.27990163717364
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 12230000.0,
+        "source": "300083 CH Equity",
+        "score": 2.2638805178859003
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 11020000.0,
+        "source": "BAS GR Equity",
+        "score": 2.2430444904866276
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 682390.0,
+        "source": "6113 JP Equity",
+        "score": 1.6866716172654064
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 9560000.0,
+        "source": "MG CN Equity",
+        "score": 2.214619677926018
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 9020000.0,
+        "source": "ADNT US Equity",
+        "score": 2.2029910005807087
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 8710000.0,
+        "source": "JMAT LN Equity",
+        "score": 2.1959964927278484
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 7140000.0,
+        "source": "FR FP Equity",
+        "score": 2.156244694874356
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5620000.0,
+        "source": "002108 CH Equity",
+        "score": 2.10836847996116
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5970000.0,
+        "source": "EO FP Equity",
+        "score": 2.120451530574592
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4760000.0,
+        "source": "OMN US Equity",
+        "score": 2.0751516872583227
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5750000.0,
+        "source": "MRVL US Equity",
+        "score": 2.1129421173373126
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3800000.0,
+        "source": "PPG US Equity",
+        "score": 2.030102377570895
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5150000.0,
+        "source": "BWA US Equity",
+        "score": 2.0909014933629315
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4640000.0,
+        "source": "1760 HK Equity",
+        "score": 2.070045027943931
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4970000.0,
+        "source": "APTV US Equity",
+        "score": 2.083786119856007
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4420000.0,
+        "source": "002079 CH Equity",
+        "score": 2.06033009605964
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 347180.0,
+        "source": "CMCO US Equity",
+        "score": 1.5515203073537287
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3200000.0,
+        "source": "MT NA Equity",
+        "score": 1.9957323360539814
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2790000.0,
+        "source": "000678 CH Equity",
+        "score": 1.9683105024440843
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3070000.0,
+        "source": "1316 HK Equity",
+        "score": 1.9874376890592451
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2810000.0,
+        "source": "SGL GR Equity",
+        "score": 1.9697390794363505
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2590000.0,
+        "source": "698 HK Equity",
+        "score": 1.9534337639552062
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2060000.0,
+        "source": "POM FP Equity",
+        "score": 1.907643405240508
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2210000.0,
+        "source": "ST US Equity",
+        "score": 1.9217007051965043
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2150000.0,
+        "source": "TIFS LN Equity",
+        "score": 1.9161957730440031
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1920000.0,
+        "source": "6816 JP Equity",
+        "score": 1.8935672529674323
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1850000.0,
+        "source": "SKFB SS Equity",
+        "score": 1.8861393475189803
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1200000.0,
+        "source": "002341 CH Equity",
+        "score": 1.7995665896182431
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1070000.0,
+        "source": "7220 JP Equity",
+        "score": 1.7766340282034183
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 892050.0,
+        "source": "300227 CH Equity",
+        "score": 1.7402557169631234
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 296600.0,
+        "source": "NVDA US Equity",
+        "score": 1.5200286160448906
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 364470.0,
+        "source": "300328 CH Equity",
+        "score": 1.5612404532446353
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 185540.0,
+        "source": "MXIM US Equity",
+        "score": 1.4262062321732247
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 243600.0,
+        "source": "VC US Equity",
+        "score": 1.480657383979953
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 204840.0,
+        "source": "AOSL US Equity",
+        "score": 1.4459978694847164
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 183890.0,
+        "source": "SLAB US Equity",
+        "score": 1.4244196939507439
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 170440.0,
+        "source": "300073 CH Equity",
+        "score": 1.4092288949527938
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 137150.0,
+        "source": "600718 CH Equity",
+        "score": 1.3657675575252162
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 40960.0,
+        "source": "MPWR US Equity",
+        "score": 1.1240751346955742
+      }
+    ],
+    "nodes": [
+      {
+        "name": "AAC Technologies Holdings Inc",
+        "market_cap": "USD 6.65B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2018 HK Equity",
+        "type": "supplier1",
+        "size": 10.617882691614174,
+        "country": "CN"
+      },
+      {
+        "name": "Infineon Technologies AG",
+        "market_cap": "USD 22.65B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "IFX GR Equity",
+        "type": "supplier1",
+        "size": 11.843425688875453,
+        "country": "DE"
+      },
+      {
+        "name": "Huawei Investment & Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "KMCACZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenzhen Everwin Precision Technology Co Ltd",
+        "market_cap": "USD 1.45B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300115 CH Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "CN"
+      },
+      {
+        "name": "Guangdong JANUS Intelligent Group Corp Ltd",
+        "market_cap": "USD 680.96M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300083 CH Equity",
+        "type": "supplier1",
+        "size": 8.339014125237444,
+        "country": "CN"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 64.97B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.897191461838851,
+        "country": "DE"
+      },
+      {
+        "name": "Amada Holdings Co Ltd",
+        "market_cap": "USD 3.72B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6113 JP Equity",
+        "type": "supplier1",
+        "size": 10.036989505231467,
+        "country": "JP"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.48B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.396034223903982,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Johnson Matthey PLC",
+        "market_cap": "USD 7.87B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "JMAT LN Equity",
+        "type": "supplier1",
+        "size": 10.786323899375724,
+        "country": "GB"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.28B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.708396699155006,
+        "country": "FR"
+      },
+      {
+        "name": "Cangzhou Mingzhu Plastic Co Ltd",
+        "market_cap": "USD 861.4M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002108 CH Equity",
+        "type": "supplier1",
+        "size": 8.574069530584286,
+        "country": "CN"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.77B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.475937917466421,
+        "country": "FR"
+      },
+      {
+        "name": "OMNOVA Solutions Inc",
+        "market_cap": "USD 299.11M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "OMN US Equity",
+        "type": "supplier1",
+        "size": 7.516321956675522,
+        "country": "US"
+      },
+      {
+        "name": "Marvell Technology Group Ltd",
+        "market_cap": "USD 14.96B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MRVL US Equity",
+        "type": "supplier1",
+        "size": 11.428645809492743,
+        "country": "US"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.995871984235581,
+        "country": "US"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.52B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.740831974908161,
+        "country": "US"
+      },
+      {
+        "name": "Intron Technology Holdings Ltd",
+        "market_cap": "USD 461.95M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "1760 HK Equity",
+        "type": "supplier1",
+        "size": 7.950967218081029,
+        "country": "HK"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "Suzhou Good-Ark Electronics Co Ltd",
+        "market_cap": "USD 748.66M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002079 CH Equity",
+        "type": "supplier1",
+        "size": 8.433795499835405,
+        "country": "CN"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 821.86M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.527080622213283,
+        "country": "US"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 16.53B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.528442748779344,
+        "country": "LU"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 601.65M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.215186438848445,
+        "country": "CN"
+      },
+      {
+        "name": "Nexteer Automotive Group Ltd",
+        "market_cap": "USD 3.44B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "1316 HK Equity",
+        "type": "supplier1",
+        "size": 9.958737308331717,
+        "country": "US"
+      },
+      {
+        "name": "SGL Carbon SE",
+        "market_cap": "USD 1.01B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SGL GR Equity",
+        "type": "supplier1",
+        "size": 8.73321616779958,
+        "country": "DE"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 536.58M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.10072622355042,
+        "country": "HK"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.04502167692873,
+        "country": "FR"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.7274448941257,
+        "country": "US"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 8.96228273741691,
+        "country": "GB"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.48B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.735498628932795,
+        "country": "SE"
+      },
+      {
+        "name": "Shenzhen Selen Science & Technology Co Ltd",
+        "market_cap": "USD 1.28B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002341 CH Equity",
+        "type": "supplier1",
+        "size": 8.970125914877936,
+        "country": "CN"
+      },
+      {
+        "name": "Musashi Seimitsu Industry Co Ltd",
+        "market_cap": "USD 815.3M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7220 JP Equity",
+        "type": "supplier1",
+        "size": 8.51906670163314,
+        "country": "JP"
+      },
+      {
+        "name": "Shenzhen Sunshine Laser & Electronics Technology Co Ltd",
+        "market_cap": "USD 335.32M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300227 CH Equity",
+        "type": "supplier1",
+        "size": 7.63059585773393,
+        "country": "CN"
+      },
+      {
+        "name": "NVIDIA Corp",
+        "market_cap": "USD 95.33B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NVDA US Equity",
+        "type": "supplier1",
+        "size": 13.280610393451898,
+        "country": "US"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 573.9M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.167965723078591,
+        "country": "CN"
+      },
+      {
+        "name": "Maxim Integrated Products Inc",
+        "market_cap": "USD 14.6B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MXIM US Equity",
+        "type": "supplier1",
+        "size": 11.404287365660704,
+        "country": "US"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "US"
+      },
+      {
+        "name": "Alpha & Omega Semiconductor Ltd",
+        "market_cap": "USD 223.73M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AOSL US Equity",
+        "type": "supplier1",
+        "size": 7.22595052564926,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.13B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.141543243919351,
+        "country": "US"
+      },
+      {
+        "name": "Beijing Easpring Material Technology Co Ltd",
+        "market_cap": "USD 1.45B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300073 CH Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "CN"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.19B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.50716738077482,
+        "country": "CN"
+      },
+      {
+        "name": "Monolithic Power Systems Inc",
+        "market_cap": "USD 5.37B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MPWR US Equity",
+        "type": "supplier1",
+        "size": 10.404093745467186,
+        "country": "US"
+      },
+      {
+        "name": "BYD Co Ltd",
+        "market_cap": "USD 21.57B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1211 HK Equity",
+        "type": "manufacturer",
+        "size": 11.794379947945693,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1211 HK Equity",
+        "relation": 18330000.0,
+        "source": "IFX GR Equity",
+        "score": 2.3448099348742515
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1020000.0,
+        "source": "KMCACZ CH Equity",
+        "score": 1.7670628331304261
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 21560000.0,
+        "source": "2018 HK Equity",
+        "score": 2.3772700700774516
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 13110000.0,
+        "source": "BAS GR Equity",
+        "score": 2.277777186403506
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 13620000.0,
+        "source": "300115 CH Equity",
+        "score": 2.2854099864214157
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 9560000.0,
+        "source": "MG CN Equity",
+        "score": 2.214619677926018
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 9020000.0,
+        "source": "ADNT US Equity",
+        "score": 2.2029910005807087
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 8710000.0,
+        "source": "JMAT LN Equity",
+        "score": 2.1959964927278484
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 8640000.0,
+        "source": "300083 CH Equity",
+        "score": 2.1943826513041946
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 7090000.0,
+        "source": "FR FP Equity",
+        "score": 2.154839207910405
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5620000.0,
+        "source": "002108 CH Equity",
+        "score": 2.10836847996116
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5970000.0,
+        "source": "EO FP Equity",
+        "score": 2.120451530574592
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3800000.0,
+        "source": "PPG US Equity",
+        "score": 2.030102377570895
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5150000.0,
+        "source": "BWA US Equity",
+        "score": 2.0909014933629315
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 6150000.0,
+        "source": "MRVL US Equity",
+        "score": 2.1263925604768628
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4640000.0,
+        "source": "1760 HK Equity",
+        "score": 2.070045027943931
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4970000.0,
+        "source": "APTV US Equity",
+        "score": 2.083786119856007
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 347180.0,
+        "source": "CMCO US Equity",
+        "score": 1.5515203073537287
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3850000.0,
+        "source": "002079 CH Equity",
+        "score": 2.0327167932008385
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3200000.0,
+        "source": "MT NA Equity",
+        "score": 1.9957323360539814
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2790000.0,
+        "source": "000678 CH Equity",
+        "score": 1.9683105024440843
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2810000.0,
+        "source": "SGL GR Equity",
+        "score": 1.9697390794363505
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2980000.0,
+        "source": "698 HK Equity",
+        "score": 1.9814868388104
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2230000.0,
+        "source": "APH US Equity",
+        "score": 1.923502518373339
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2060000.0,
+        "source": "POM FP Equity",
+        "score": 1.907643405240508
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2210000.0,
+        "source": "ST US Equity",
+        "score": 1.9217007051965043
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2340000.0,
+        "source": "TIFS LN Equity",
+        "score": 1.933132382936844
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1920000.0,
+        "source": "6816 JP Equity",
+        "score": 1.8935672529674323
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1510000.0,
+        "source": "SKFB SS Equity",
+        "score": 1.8455241742085087
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1730000.0,
+        "source": "002341 CH Equity",
+        "score": 1.8727265089016951
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1070000.0,
+        "source": "7220 JP Equity",
+        "score": 1.7766340282034183
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 892050.0,
+        "source": "300227 CH Equity",
+        "score": 1.7402557169631234
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 296600.0,
+        "source": "NVDA US Equity",
+        "score": 1.5200286160448906
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 311650.0,
+        "source": "300328 CH Equity",
+        "score": 1.5299278501919176
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 243600.0,
+        "source": "VC US Equity",
+        "score": 1.480657383979953
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 204840.0,
+        "source": "AOSL US Equity",
+        "score": 1.4459978694847164
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 183890.0,
+        "source": "SLAB US Equity",
+        "score": 1.4244196939507439
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 170440.0,
+        "source": "300073 CH Equity",
+        "score": 1.4092288949527938
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 160830.0,
+        "source": "600718 CH Equity",
+        "score": 1.397621880643162
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 83340.0,
+        "source": "MPWR US Equity",
+        "score": 1.2661391807889069
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 59600.0,
+        "source": "300322 CH Equity",
+        "score": 1.1990855262872349
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Infineon Technologies AG",
+        "market_cap": "USD 22.39B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "IFX GR Equity",
+        "type": "supplier1",
+        "size": 11.831880267557075,
+        "country": "DE"
+      },
+      {
+        "name": "Huawei Investment & Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "KMCACZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "AAC Technologies Holdings Inc",
+        "market_cap": "USD 7.25B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2018 HK Equity",
+        "type": "supplier1",
+        "size": 10.704267305812994,
+        "country": "CN"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 65.35B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.903023277016644,
+        "country": "DE"
+      },
+      {
+        "name": "Shenzhen Everwin Precision Technology Co Ltd",
+        "market_cap": "USD 1.44B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300115 CH Equity",
+        "type": "supplier1",
+        "size": 9.08790895053432,
+        "country": "CN"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.75B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.414508919732238,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.3755910229861,
+        "country": "US"
+      },
+      {
+        "name": "Johnson Matthey PLC",
+        "market_cap": "USD 7.69B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "JMAT LN Equity",
+        "type": "supplier1",
+        "size": 10.763186620463962,
+        "country": "GB"
+      },
+      {
+        "name": "Guangdong JANUS Intelligent Group Corp Ltd",
+        "market_cap": "USD 680.87M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300083 CH Equity",
+        "type": "supplier1",
+        "size": 8.338881950149318,
+        "country": "CN"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.3B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.711140185100756,
+        "country": "FR"
+      },
+      {
+        "name": "Cangzhou Mingzhu Plastic Co Ltd",
+        "market_cap": "USD 891.32M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002108 CH Equity",
+        "type": "supplier1",
+        "size": 8.608214067983042,
+        "country": "CN"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.477669519630698,
+        "country": "FR"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.26B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.991312705821063,
+        "country": "US"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.59B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.75009742835395,
+        "country": "US"
+      },
+      {
+        "name": "Marvell Technology Group Ltd",
+        "market_cap": "USD 14.59B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MRVL US Equity",
+        "type": "supplier1",
+        "size": 11.403602199481107,
+        "country": "US"
+      },
+      {
+        "name": "Intron Technology Holdings Ltd",
+        "market_cap": "USD 461.97M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "1760 HK Equity",
+        "type": "supplier1",
+        "size": 7.951010511872706,
+        "country": "HK"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.9B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.662427759012008,
+        "country": "IE"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 822.33M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.527652332311021,
+        "country": "US"
+      },
+      {
+        "name": "Suzhou Good-Ark Electronics Co Ltd",
+        "market_cap": "USD 761.62M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002079 CH Equity",
+        "type": "supplier1",
+        "size": 8.450958301600831,
+        "country": "CN"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 17.54B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.587749823890448,
+        "country": "LU"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 557.77M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.139457248993502,
+        "country": "CN"
+      },
+      {
+        "name": "SGL Carbon SE",
+        "market_cap": "USD 991.46M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SGL GR Equity",
+        "type": "supplier1",
+        "size": 8.714689162195551,
+        "country": "DE"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 602.64M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.216830561481714,
+        "country": "HK"
+      },
+      {
+        "name": "Amphenol Corp",
+        "market_cap": "USD 27.53B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "APH US Equity",
+        "type": "supplier1",
+        "size": 12.038542156100927,
+        "country": "US"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.052989846577908,
+        "country": "FR"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.719325769687195,
+        "country": "US"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.32B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 9.000897573544691,
+        "country": "GB"
+      },
+      {
+        "name": "Alpine Electronics Inc",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6816 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.4B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.724745837156537,
+        "country": "SE"
+      },
+      {
+        "name": "Shenzhen Selen Science & Technology Co Ltd",
+        "market_cap": "USD 1.38B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002341 CH Equity",
+        "type": "supplier1",
+        "size": 9.045349336115525,
+        "country": "CN"
+      },
+      {
+        "name": "Musashi Seimitsu Industry Co Ltd",
+        "market_cap": "USD 774.44M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7220 JP Equity",
+        "type": "supplier1",
+        "size": 8.467650745485237,
+        "country": "JP"
+      },
+      {
+        "name": "Shenzhen Sunshine Laser & Electronics Technology Co Ltd",
+        "market_cap": "USD 337.97M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300227 CH Equity",
+        "type": "supplier1",
+        "size": 7.638467692111671,
+        "country": "CN"
+      },
+      {
+        "name": "NVIDIA Corp",
+        "market_cap": "USD 96.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NVDA US Equity",
+        "type": "supplier1",
+        "size": 13.29197948592389,
+        "country": "US"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 557.24M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.138506584802297,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.59B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.186999853178552,
+        "country": "US"
+      },
+      {
+        "name": "Alpha & Omega Semiconductor Ltd",
+        "market_cap": "USD 243.4M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AOSL US Equity",
+        "type": "supplier1",
+        "size": 7.310216738517703,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.16B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.148780911219582,
+        "country": "US"
+      },
+      {
+        "name": "Beijing Easpring Material Technology Co Ltd",
+        "market_cap": "USD 1.49B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300073 CH Equity",
+        "type": "supplier1",
+        "size": 9.122041956903779,
+        "country": "CN"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.26B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.538630650230605,
+        "country": "CN"
+      },
+      {
+        "name": "Monolithic Power Systems Inc",
+        "market_cap": "USD 5.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MPWR US Equity",
+        "type": "supplier1",
+        "size": 10.418881445621565,
+        "country": "US"
+      },
+      {
+        "name": "Huizhou Speed Wireless Technology Co Ltd",
+        "market_cap": "USD 762.36M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300322 CH Equity",
+        "type": "supplier1",
+        "size": 8.451929443030718,
+        "country": "CN"
+      },
+      {
+        "name": "BYD Co Ltd",
+        "market_cap": "USD 21.57B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1211 HK Equity",
+        "type": "manufacturer",
+        "size": 11.794379947945693,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1211 HK Equity",
+        "relation": 77810000.0,
+        "source": "002217 CH Equity",
+        "score": 2.6339561056889864
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 55630000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.5668466400054775
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 23200000.0,
+        "source": "IFX GR Equity",
+        "score": 2.3919325759479975
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1020000.0,
+        "source": "KMCACZ CH Equity",
+        "score": 1.7670628331304261
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 18200000.0,
+        "source": "2018 HK Equity",
+        "score": 2.3433864413984153
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 13110000.0,
+        "source": "BAS GR Equity",
+        "score": 2.277777186403506
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 12600000.0,
+        "source": "300115 CH Equity",
+        "score": 2.269841490257357
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 11920000.0,
+        "source": "ADNT US Equity",
+        "score": 2.2587456606988185
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 11600000.0,
+        "source": "EO FP Equity",
+        "score": 2.253303148456697
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 9560000.0,
+        "source": "MG CN Equity",
+        "score": 2.214619677926018
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 9490000.0,
+        "source": "JMAT LN Equity",
+        "score": 2.2131498551920368
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 7090000.0,
+        "source": "FR FP Equity",
+        "score": 2.154839207910405
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 8070000.0,
+        "source": "300083 CH Equity",
+        "score": 2.1807328328323723
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 7540000.0,
+        "source": "APTV US Equity",
+        "score": 2.167146574522025
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 5620000.0,
+        "source": "002108 CH Equity",
+        "score": 2.10836847996116
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3800000.0,
+        "source": "PPG US Equity",
+        "score": 2.030102377570895
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 6150000.0,
+        "source": "MRVL US Equity",
+        "score": 2.1263925604768628
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4640000.0,
+        "source": "1760 HK Equity",
+        "score": 2.070045027943931
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 763480.0,
+        "source": "CMCO US Equity",
+        "score": 1.709128703586995
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 4190000.0,
+        "source": "MT NA Equity",
+        "score": 2.0496423061123554
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3850000.0,
+        "source": "002079 CH Equity",
+        "score": 2.0327167932008385
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2790000.0,
+        "source": "000678 CH Equity",
+        "score": 1.9683105024440843
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 3470000.0,
+        "source": "1316 HK Equity",
+        "score": 2.011933088021488
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2980000.0,
+        "source": "698 HK Equity",
+        "score": 1.9814868388104
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2740000.0,
+        "source": "SGL GR Equity",
+        "score": 1.964693768665538
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2230000.0,
+        "source": "APH US Equity",
+        "score": 1.923502518373339
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2620000.0,
+        "source": "BWA US Equity",
+        "score": 1.955737051483319
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2060000.0,
+        "source": "POM FP Equity",
+        "score": 1.907643405240508
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2210000.0,
+        "source": "ST US Equity",
+        "score": 1.9217007051965043
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 2340000.0,
+        "source": "TIFS LN Equity",
+        "score": 1.933132382936844
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1980000.0,
+        "source": "7278 JP Equity",
+        "score": 1.8997215815442194
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1510000.0,
+        "source": "SKFB SS Equity",
+        "score": 1.8455241742085087
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1860000.0,
+        "source": "DAN US Equity",
+        "score": 1.8872175166647294
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1730000.0,
+        "source": "002341 CH Equity",
+        "score": 1.8727265089016951
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 1070000.0,
+        "source": "7220 JP Equity",
+        "score": 1.7766340282034183
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 892050.0,
+        "source": "300227 CH Equity",
+        "score": 1.7402557169631234
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 296600.0,
+        "source": "NVDA US Equity",
+        "score": 1.5200286160448906
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 435440.0,
+        "source": "CPS US Equity",
+        "score": 1.5968229179266187
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 429780.0,
+        "source": "300328 CH Equity",
+        "score": 1.5942062111211364
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 243600.0,
+        "source": "VC US Equity",
+        "score": 1.480657383979953
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 233680.0,
+        "source": "SLAB US Equity",
+        "score": 1.4723424432817702
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 170440.0,
+        "source": "300073 CH Equity",
+        "score": 1.4092288949527938
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 162520.0,
+        "source": "AOSL US Equity",
+        "score": 1.3997125006343167
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 139770.0,
+        "source": "600718 CH Equity",
+        "score": 1.369552129612901
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 83340.0,
+        "source": "MPWR US Equity",
+        "score": 1.2661391807889069
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 86960.0,
+        "source": "THRM US Equity",
+        "score": 1.274643004253798
+      },
+      {
+        "target": "1211 HK Equity",
+        "relation": 59600.0,
+        "source": "300322 CH Equity",
+        "score": 1.1990855262872349
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Holitech Technology Co Ltd",
+        "market_cap": "USD 2.51B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002217 CH Equity",
+        "type": "supplier1",
+        "size": 9.643548590090102,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Infineon Technologies AG",
+        "market_cap": "USD 23.21B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "IFX GR Equity",
+        "type": "supplier1",
+        "size": 11.867849057232757,
+        "country": "DE"
+      },
+      {
+        "name": "Huawei Investment & Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "KMCACZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "AAC Technologies Holdings Inc",
+        "market_cap": "USD 7.11B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2018 HK Equity",
+        "type": "supplier1",
+        "size": 10.684768080761561,
+        "country": "CN"
+      },
+      {
+        "name": "BASF SE",
+        "market_cap": "USD 65.49B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BAS GR Equity",
+        "type": "supplier1",
+        "size": 12.905163296176372,
+        "country": "DE"
+      },
+      {
+        "name": "Shenzhen Everwin Precision Technology Co Ltd",
+        "market_cap": "USD 1.46B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300115 CH Equity",
+        "type": "supplier1",
+        "size": 9.101702272666657,
+        "country": "CN"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.91B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "US"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.01B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.516690585493528,
+        "country": "FR"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.81B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.41856846522612,
+        "country": "CA"
+      },
+      {
+        "name": "Johnson Matthey PLC",
+        "market_cap": "USD 7.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "JMAT LN Equity",
+        "type": "supplier1",
+        "size": 10.774822175136713,
+        "country": "GB"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.64B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.75666344012484,
+        "country": "FR"
+      },
+      {
+        "name": "Guangdong JANUS Intelligent Group Corp Ltd",
+        "market_cap": "USD 676.13M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300083 CH Equity",
+        "type": "supplier1",
+        "size": 8.33189592321079,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.35B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.6859582564222,
+        "country": "IE"
+      },
+      {
+        "name": "Cangzhou Mingzhu Plastic Co Ltd",
+        "market_cap": "USD 894.68M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002108 CH Equity",
+        "type": "supplier1",
+        "size": 8.611976670406342,
+        "country": "CN"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.99738713604059,
+        "country": "US"
+      },
+      {
+        "name": "Marvell Technology Group Ltd",
+        "market_cap": "USD 15.23B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MRVL US Equity",
+        "type": "supplier1",
+        "size": 11.446533003853482,
+        "country": "US"
+      },
+      {
+        "name": "Intron Technology Holdings Ltd",
+        "market_cap": "USD 461.96M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "1760 HK Equity",
+        "type": "supplier1",
+        "size": 7.950988865211162,
+        "country": "HK"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 825.13M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.531051507642776,
+        "country": "US"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 17.38B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.578585956783659,
+        "country": "LU"
+      },
+      {
+        "name": "Suzhou Good-Ark Electronics Co Ltd",
+        "market_cap": "USD 769.44M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002079 CH Equity",
+        "type": "supplier1",
+        "size": 8.461173535493625,
+        "country": "CN"
+      },
+      {
+        "name": "Xiangyang Automobile Bearing Co Ltd",
+        "market_cap": "USD 584.69M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000678 CH Equity",
+        "type": "supplier1",
+        "size": 8.186592350211889,
+        "country": "CN"
+      },
+      {
+        "name": "Nexteer Automotive Group Ltd",
+        "market_cap": "USD 3.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "1316 HK Equity",
+        "type": "supplier1",
+        "size": 9.96164006798968,
+        "country": "US"
+      },
+      {
+        "name": "Tongda Group Holdings Ltd",
+        "market_cap": "USD 577.86M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "698 HK Equity",
+        "type": "supplier1",
+        "size": 8.1748421827651,
+        "country": "HK"
+      },
+      {
+        "name": "SGL Carbon SE",
+        "market_cap": "USD 1000.0M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SGL GR Equity",
+        "type": "supplier1",
+        "size": 8.72326583694641,
+        "country": "DE"
+      },
+      {
+        "name": "Amphenol Corp",
+        "market_cap": "USD 27.86B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "APH US Equity",
+        "type": "supplier1",
+        "size": 12.05045780529807,
+        "country": "US"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.67B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.760582452325576,
+        "country": "US"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.9B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.08424239008201,
+        "country": "FR"
+      },
+      {
+        "name": "Sensata Technologies Holding PLC",
+        "market_cap": "USD 7.52B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ST US Equity",
+        "type": "supplier1",
+        "size": 10.740831974908161,
+        "country": "US"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.29B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 8.977908055319993,
+        "country": "GB"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 1000.0M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.72326583694641,
+        "country": "JP"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.5B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.738168857488677,
+        "country": "SE"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.590366324629795,
+        "country": "US"
+      },
+      {
+        "name": "Shenzhen Selen Science & Technology Co Ltd",
+        "market_cap": "USD 1.36B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002341 CH Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "CN"
+      },
+      {
+        "name": "Musashi Seimitsu Industry Co Ltd",
+        "market_cap": "USD 789.35M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7220 JP Equity",
+        "type": "supplier1",
+        "size": 8.48672037994201,
+        "country": "JP"
+      },
+      {
+        "name": "Shenzhen Sunshine Laser & Electronics Technology Co Ltd",
+        "market_cap": "USD 346.09M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300227 CH Equity",
+        "type": "supplier1",
+        "size": 7.662209414804735,
+        "country": "CN"
+      },
+      {
+        "name": "NVIDIA Corp",
+        "market_cap": "USD 97.1B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NVDA US Equity",
+        "type": "supplier1",
+        "size": 13.29900721224369,
+        "country": "US"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 847.21M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.5574591557701,
+        "country": "US"
+      },
+      {
+        "name": "Dongguan Eontec Co Ltd",
+        "market_cap": "USD 581.53M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300328 CH Equity",
+        "type": "supplier1",
+        "size": 8.18117311930591,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.174341456306628,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.3B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.18188085964593,
+        "country": "US"
+      },
+      {
+        "name": "Beijing Easpring Material Technology Co Ltd",
+        "market_cap": "USD 1.49B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300073 CH Equity",
+        "type": "supplier1",
+        "size": 9.122041956903779,
+        "country": "CN"
+      },
+      {
+        "name": "Alpha & Omega Semiconductor Ltd",
+        "market_cap": "USD 243.16M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AOSL US Equity",
+        "type": "supplier1",
+        "size": 7.309230220844796,
+        "country": "US"
+      },
+      {
+        "name": "Neusoft Corp",
+        "market_cap": "USD 2.27B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600718 CH Equity",
+        "type": "supplier1",
+        "size": 9.543045668439724,
+        "country": "CN"
+      },
+      {
+        "name": "Monolithic Power Systems Inc",
+        "market_cap": "USD 5.56B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MPWR US Equity",
+        "type": "supplier1",
+        "size": 10.438863945208901,
+        "country": "US"
+      },
+      {
+        "name": "Gentherm Inc",
+        "market_cap": "USD 1.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "THRM US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "US"
+      },
+      {
+        "name": "Huizhou Speed Wireless Technology Co Ltd",
+        "market_cap": "USD 795.42M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300322 CH Equity",
+        "type": "supplier1",
+        "size": 8.494380835003088,
+        "country": "CN"
+      },
+      {
+        "name": "BYD Co Ltd",
+        "market_cap": "USD 21.57B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1211 HK Equity",
+        "type": "manufacturer",
+        "size": 11.794379947945693,
+        "country": "CN"
+      }
+    ]
+  }
+]

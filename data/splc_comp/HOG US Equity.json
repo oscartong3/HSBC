@@ -1,0 +1,2786 @@
+[
+  {
+    "links": [
+      {
+        "target": "HOG US Equity",
+        "relation": 59510000.0,
+        "source": "5108 JP Equity",
+        "score": 2.5803309880849867
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2990000.0,
+        "source": "CIX US Equity",
+        "score": 1.982156855962995
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1080000.0,
+        "source": "SSYS US Equity",
+        "score": 1.7784945050051801
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 10380000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.231078306408225
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 9850000.0,
+        "source": "ML FP Equity",
+        "score": 2.2205964229342223
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 8640000.0,
+        "source": "LEO GR Equity",
+        "score": 2.1943826513041946
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 7140000.0,
+        "source": "AXL US Equity",
+        "score": 2.156244694874356
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 6610000.0,
+        "source": "7274 JP Equity",
+        "score": 2.1408188726227575
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 5420000.0,
+        "source": "BRE IM Equity",
+        "score": 2.1011213115835314
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3620000.0,
+        "source": "6902 JP Equity",
+        "score": 2.020396972009002
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3400000.0,
+        "source": "7230 JP Equity",
+        "score": 2.007857256740799
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2880000.0,
+        "source": "GKN LN Equity",
+        "score": 1.974660239866858
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2990000.0,
+        "source": "NL US Equity",
+        "score": 1.982156855962995
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2990000.0,
+        "source": "VHI US Equity",
+        "score": 1.982156855962995
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3090000.0,
+        "source": "SHA GR Equity",
+        "score": 1.988736394499694
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2810000.0,
+        "source": "APTV US Equity",
+        "score": 1.9697390794363505
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2050000.0,
+        "source": "TEN US Equity",
+        "score": 1.90667016778387
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 432640.0,
+        "source": "PTC US Equity",
+        "score": 1.5955327127569086
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1070000.0,
+        "source": "PPG US Equity",
+        "score": 1.7766340282034183
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1030000.0,
+        "source": "RS US Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1070000.0,
+        "source": "TRELB SS Equity",
+        "score": 1.7766340282034183
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 695820.0,
+        "source": "092200 KS Equity",
+        "score": 1.6905695444662117
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 477920.0,
+        "source": "VFC US Equity",
+        "score": 1.6154401451696296
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 348320.0,
+        "source": "7247 JP Equity",
+        "score": 1.5521759494775087
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 328590.0,
+        "source": "VK FP Equity",
+        "score": 1.5405138190575038
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 303900.0,
+        "source": "GRMN US Equity",
+        "score": 1.5248914538911147
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 182890.0,
+        "source": "AKAM US Equity",
+        "score": 1.4233291251902367
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 60540.0,
+        "source": "SLAB US Equity",
+        "score": 1.2022152200887826
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 40550.0,
+        "source": "ANSS US Equity",
+        "score": 1.1220631440303874
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 38180.0,
+        "source": "ZBRA US Equity",
+        "score": 1.1100186577320317
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 35780.0,
+        "source": "NUAN US Equity",
+        "score": 1.0970344610493559
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Bridgestone Corp",
+        "market_cap": "USD 29.15B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5108 JP Equity",
+        "type": "supplier1",
+        "size": 12.095720749742913,
+        "country": "JP"
+      },
+      {
+        "name": "CompX International Inc",
+        "market_cap": "USD 185.66M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CIX US Equity",
+        "type": "supplier1",
+        "size": 7.039427601936062,
+        "country": "US"
+      },
+      {
+        "name": "Stratasys Ltd",
+        "market_cap": "USD 1.3B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SSYS US Equity",
+        "type": "supplier1",
+        "size": 8.985630101413904,
+        "country": "US"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.22B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.824258621157895,
+        "country": "FR"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 653.99M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.298602618784695,
+        "country": "DE"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "US"
+      },
+      {
+        "name": "Showa Corp",
+        "market_cap": "USD 1.04B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7274 JP Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "JP"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 4.07B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.126908836400915,
+        "country": "IT"
+      },
+      {
+        "name": "Denso Corp",
+        "market_cap": "USD 31.82B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6902 JP Equity",
+        "type": "supplier1",
+        "size": 12.183360859856052,
+        "country": "JP"
+      },
+      {
+        "name": "Nissin Kogyo Co Ltd",
+        "market_cap": "USD 875.44M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7230 JP Equity",
+        "type": "supplier1",
+        "size": 8.59023717507446,
+        "country": "JP"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "NL Industries Inc",
+        "market_cap": "USD 182.24M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NL US Equity",
+        "type": "supplier1",
+        "size": 7.020835057663145,
+        "country": "US"
+      },
+      {
+        "name": "Valhi Inc",
+        "market_cap": "USD 817.44M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VHI US Equity",
+        "type": "supplier1",
+        "size": 8.521688063546762,
+        "country": "US"
+      },
+      {
+        "name": "Schaeffler AG",
+        "market_cap": "USD 5.52B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SHA GR Equity",
+        "type": "supplier1",
+        "size": 10.431643697235415,
+        "country": "DE"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.714487955022516,
+        "country": "IE"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 10.07B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.032826543676883,
+        "country": "US"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.5B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 12.000410569938587,
+        "country": "US"
+      },
+      {
+        "name": "Reliance Steel & Aluminum Co",
+        "market_cap": "USD 6.14B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "RS US Equity",
+        "type": "supplier1",
+        "size": 10.53809057910546,
+        "country": "US"
+      },
+      {
+        "name": "Trelleborg AB",
+        "market_cap": "USD 3.97B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TRELB SS Equity",
+        "type": "supplier1",
+        "size": 10.10203193164551,
+        "country": "SE"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 124.58M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.640458637790275,
+        "country": "KR"
+      },
+      {
+        "name": "VF Corp",
+        "market_cap": "USD 36.76B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VFC US Equity",
+        "type": "supplier1",
+        "size": 12.327676134433897,
+        "country": "US"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 140.63M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.761642885846431,
+        "country": "JP"
+      },
+      {
+        "name": "Vallourec SA",
+        "market_cap": "USD 1.13B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VK FP Equity",
+        "type": "supplier1",
+        "size": 8.845483469670661,
+        "country": "FR"
+      },
+      {
+        "name": "Garmin Ltd",
+        "market_cap": "USD 15.06B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GRMN US Equity",
+        "type": "supplier1",
+        "size": 11.43530805931816,
+        "country": "CH"
+      },
+      {
+        "name": "Akamai Technologies Inc",
+        "market_cap": "USD 12.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AKAM US Equity",
+        "type": "supplier1",
+        "size": 11.254578859548566,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.4B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.204870377870627,
+        "country": "US"
+      },
+      {
+        "name": "ANSYS Inc",
+        "market_cap": "USD 16.1B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ANSS US Equity",
+        "type": "supplier1",
+        "size": 11.502085108936829,
+        "country": "US"
+      },
+      {
+        "name": "Zebra Technologies Corp",
+        "market_cap": "USD 10.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZBRA US Equity",
+        "type": "supplier1",
+        "size": 11.081285636828557,
+        "country": "US"
+      },
+      {
+        "name": "Nuance Communications Inc",
+        "market_cap": "USD 5.24B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NUAN US Equity",
+        "type": "supplier1",
+        "size": 10.37958733527936,
+        "country": "US"
+      },
+      {
+        "name": "Harley-Davidson Inc",
+        "market_cap": "USD 5.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HOG US Equity",
+        "type": "manufacturer",
+        "size": 10.501130736842732,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "HOG US Equity",
+        "relation": 827050.0,
+        "source": "SSYS US Equity",
+        "score": 1.7251243281572752
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 10630000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.2358381688783004
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 9850000.0,
+        "source": "ML FP Equity",
+        "score": 2.2205964229342223
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 8440000.0,
+        "source": "LEO GR Equity",
+        "score": 2.189698597011109
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 6710000.0,
+        "source": "7274 JP Equity",
+        "score": 2.14382193159583
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 6130000.0,
+        "source": "AXL US Equity",
+        "score": 2.1257410942089034
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 5810000.0,
+        "source": "BRE IM Equity",
+        "score": 2.1150182601890237
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3690000.0,
+        "source": "7230 JP Equity",
+        "score": 2.0242274574038768
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3620000.0,
+        "source": "6902 JP Equity",
+        "score": 2.020396972009002
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2990000.0,
+        "source": "NL US Equity",
+        "score": 1.982156855962995
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2990000.0,
+        "source": "VHI US Equity",
+        "score": 1.982156855962995
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3090000.0,
+        "source": "SHA GR Equity",
+        "score": 1.988736394499694
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2430000.0,
+        "source": "GKN LN Equity",
+        "score": 1.9406804453678559
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1870000.0,
+        "source": "APTV US Equity",
+        "score": 1.8882899047179968
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1500000.0,
+        "source": "TEN US Equity",
+        "score": 1.8441952665477763
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 421300.0,
+        "source": "PTC US Equity",
+        "score": 1.5902205643139595
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1130000.0,
+        "source": "VFC US Equity",
+        "score": 1.7875458151287766
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1070000.0,
+        "source": "PPG US Equity",
+        "score": 1.7766340282034183
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1030000.0,
+        "source": "RS US Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 989350.0,
+        "source": "092200 KS Equity",
+        "score": 1.7609608903169436
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 889670.0,
+        "source": "TRELB SS Equity",
+        "score": 1.7397214020889589
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 321830.0,
+        "source": "7247 JP Equity",
+        "score": 1.5363563684053694
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 303480.0,
+        "source": "GRMN US Equity",
+        "score": 1.5246148569113278
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 328590.0,
+        "source": "VK FP Equity",
+        "score": 1.5405138190575038
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 178000.0,
+        "source": "AKAM US Equity",
+        "score": 1.4179088894471938
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 66860.0,
+        "source": "SLAB US Equity",
+        "score": 1.222074223297605
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 42730.0,
+        "source": "ZBRA US Equity",
+        "score": 1.1325359862251512
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 40550.0,
+        "source": "ANSS US Equity",
+        "score": 1.1220631440303874
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Stratasys Ltd",
+        "market_cap": "USD 1.26B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SSYS US Equity",
+        "type": "supplier1",
+        "size": 8.954377557909798,
+        "country": "US"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.02B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.815216968240946,
+        "country": "FR"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 622.59M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.249398754165952,
+        "country": "DE"
+      },
+      {
+        "name": "Showa Corp",
+        "market_cap": "USD 992.89M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7274 JP Equity",
+        "type": "supplier1",
+        "size": 8.7161304404454,
+        "country": "JP"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.34B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.015935450909232,
+        "country": "US"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.87B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.0765203439881,
+        "country": "IT"
+      },
+      {
+        "name": "Nissin Kogyo Co Ltd",
+        "market_cap": "USD 864.42M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7230 JP Equity",
+        "type": "supplier1",
+        "size": 8.577569319765711,
+        "country": "JP"
+      },
+      {
+        "name": "Denso Corp",
+        "market_cap": "USD 31.33B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6902 JP Equity",
+        "type": "supplier1",
+        "size": 12.167841941910513,
+        "country": "JP"
+      },
+      {
+        "name": "NL Industries Inc",
+        "market_cap": "USD 177.37M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "NL US Equity",
+        "type": "supplier1",
+        "size": 6.99374850418177,
+        "country": "US"
+      },
+      {
+        "name": "Valhi Inc",
+        "market_cap": "USD 766.56M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VHI US Equity",
+        "type": "supplier1",
+        "size": 8.457423531099085,
+        "country": "US"
+      },
+      {
+        "name": "Schaeffler AG",
+        "market_cap": "USD 5.3B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SHA GR Equity",
+        "type": "supplier1",
+        "size": 10.390972657504488,
+        "country": "DE"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.681815319372685,
+        "country": "IE"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.06B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.781534745070388,
+        "country": "US"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 9.83B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.008704771105485,
+        "country": "US"
+      },
+      {
+        "name": "VF Corp",
+        "market_cap": "USD 35.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VFC US Equity",
+        "type": "supplier1",
+        "size": 12.299536346677694,
+        "country": "US"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.33B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.993974810454628,
+        "country": "US"
+      },
+      {
+        "name": "Reliance Steel & Aluminum Co",
+        "market_cap": "USD 5.98B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "RS US Equity",
+        "type": "supplier1",
+        "size": 10.51168640490895,
+        "country": "US"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 124.71M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.64150159989693,
+        "country": "KR"
+      },
+      {
+        "name": "Trelleborg AB",
+        "market_cap": "USD 3.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TRELB SS Equity",
+        "type": "supplier1",
+        "size": 10.086803210943685,
+        "country": "SE"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 119.87M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.601918380183282,
+        "country": "JP"
+      },
+      {
+        "name": "Garmin Ltd",
+        "market_cap": "USD 14.81B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GRMN US Equity",
+        "type": "supplier1",
+        "size": 11.41856846522612,
+        "country": "CH"
+      },
+      {
+        "name": "Vallourec SA",
+        "market_cap": "USD 1.16B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VK FP Equity",
+        "type": "supplier1",
+        "size": 8.871685842064686,
+        "country": "FR"
+      },
+      {
+        "name": "Akamai Technologies Inc",
+        "market_cap": "USD 12.43B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AKAM US Equity",
+        "type": "supplier1",
+        "size": 11.24337874246903,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.25B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.170184819882735,
+        "country": "US"
+      },
+      {
+        "name": "Zebra Technologies Corp",
+        "market_cap": "USD 10.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZBRA US Equity",
+        "type": "supplier1",
+        "size": 11.033819099589635,
+        "country": "US"
+      },
+      {
+        "name": "ANSYS Inc",
+        "market_cap": "USD 15.61B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ANSS US Equity",
+        "type": "supplier1",
+        "size": 11.471177571473753,
+        "country": "US"
+      },
+      {
+        "name": "Harley-Davidson Inc",
+        "market_cap": "USD 5.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HOG US Equity",
+        "type": "manufacturer",
+        "size": 10.501130736842732,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "HOG US Equity",
+        "relation": 11770000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.256212912839645
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 10550000.0,
+        "source": "ML FP Equity",
+        "score": 2.234327302534615
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 8480000.0,
+        "source": "7274 JP Equity",
+        "score": 2.1906442251385214
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 8090000.0,
+        "source": "AXL US Equity",
+        "score": 2.181227882528812
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 8440000.0,
+        "source": "LEO GR Equity",
+        "score": 2.189698597011109
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 6700000.0,
+        "source": "BRE IM Equity",
+        "score": 2.143523646722983
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3860000.0,
+        "source": "7230 JP Equity",
+        "score": 2.0332356001016674
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3250000.0,
+        "source": "6902 JP Equity",
+        "score": 1.9988331723996362
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2750000.0,
+        "source": "GKN LN Equity",
+        "score": 1.9654223666558104
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2660000.0,
+        "source": "SHA GR Equity",
+        "score": 1.9587674113395321
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1870000.0,
+        "source": "APTV US Equity",
+        "score": 1.8882899047179968
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1610000.0,
+        "source": "TEN US Equity",
+        "score": 1.858349071615693
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 409200.0,
+        "source": "PTC US Equity",
+        "score": 1.5843923513698774
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1130000.0,
+        "source": "VFC US Equity",
+        "score": 1.7875458151287766
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1030000.0,
+        "source": "RS US Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 889670.0,
+        "source": "TRELB SS Equity",
+        "score": 1.7397214020889589
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 423700.0,
+        "source": "092200 KS Equity",
+        "score": 1.5913566593544712
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 415730.0,
+        "source": "VK FP Equity",
+        "score": 1.5875587390939363
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 357580.0,
+        "source": "7247 JP Equity",
+        "score": 1.5574234377757779
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 303480.0,
+        "source": "GRMN US Equity",
+        "score": 1.5246148569113278
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 178000.0,
+        "source": "AKAM US Equity",
+        "score": 1.4179088894471938
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 66860.0,
+        "source": "SLAB US Equity",
+        "score": 1.222074223297605
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 42730.0,
+        "source": "ZBRA US Equity",
+        "score": 1.1325359862251512
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 30520.0,
+        "source": "ANSS US Equity",
+        "score": 1.0652340500522715
+      }
+    ],
+    "nodes": [
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.07B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.817485057215055,
+        "country": "FR"
+      },
+      {
+        "name": "Showa Corp",
+        "market_cap": "USD 1.01B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7274 JP Equity",
+        "type": "supplier1",
+        "size": 8.73321616779958,
+        "country": "JP"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 8.99329297415947,
+        "country": "US"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 537.01M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.101527274273682,
+        "country": "DE"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.8B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.058266903678753,
+        "country": "IT"
+      },
+      {
+        "name": "Nissin Kogyo Co Ltd",
+        "market_cap": "USD 857.44M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7230 JP Equity",
+        "type": "supplier1",
+        "size": 8.569461763710816,
+        "country": "JP"
+      },
+      {
+        "name": "Denso Corp",
+        "market_cap": "USD 30.87B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6902 JP Equity",
+        "type": "supplier1",
+        "size": 12.15305067546048,
+        "country": "JP"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Schaeffler AG",
+        "market_cap": "USD 5.26B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SHA GR Equity",
+        "type": "supplier1",
+        "size": 10.383396863696028,
+        "country": "DE"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 9.99B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.024850429606872,
+        "country": "US"
+      },
+      {
+        "name": "VF Corp",
+        "market_cap": "USD 35.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VFC US Equity",
+        "type": "supplier1",
+        "size": 12.304560080380408,
+        "country": "US"
+      },
+      {
+        "name": "Reliance Steel & Aluminum Co",
+        "market_cap": "USD 5.9B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "RS US Equity",
+        "type": "supplier1",
+        "size": 10.498218187858086,
+        "country": "US"
+      },
+      {
+        "name": "Trelleborg AB",
+        "market_cap": "USD 3.88B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TRELB SS Equity",
+        "type": "supplier1",
+        "size": 10.079100990581594,
+        "country": "SE"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 112.54M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.538819271969405,
+        "country": "KR"
+      },
+      {
+        "name": "Vallourec SA",
+        "market_cap": "USD 1.25B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VK FP Equity",
+        "type": "supplier1",
+        "size": 8.94640938826062,
+        "country": "FR"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 119.32M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.597319517610821,
+        "country": "JP"
+      },
+      {
+        "name": "Garmin Ltd",
+        "market_cap": "USD 14.83B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GRMN US Equity",
+        "type": "supplier1",
+        "size": 11.419917993096252,
+        "country": "CH"
+      },
+      {
+        "name": "Akamai Technologies Inc",
+        "market_cap": "USD 12.73B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AKAM US Equity",
+        "type": "supplier1",
+        "size": 11.267227249515727,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.13B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.141543243919351,
+        "country": "US"
+      },
+      {
+        "name": "Zebra Technologies Corp",
+        "market_cap": "USD 9.67B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZBRA US Equity",
+        "type": "supplier1",
+        "size": 10.992294146411613,
+        "country": "US"
+      },
+      {
+        "name": "ANSYS Inc",
+        "market_cap": "USD 15.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ANSS US Equity",
+        "type": "supplier1",
+        "size": 11.479471079935667,
+        "country": "US"
+      },
+      {
+        "name": "Harley-Davidson Inc",
+        "market_cap": "USD 5.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HOG US Equity",
+        "type": "manufacturer",
+        "size": 10.501130736842732,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "HOG US Equity",
+        "relation": 11770000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.256212912839645
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 10560000.0,
+        "source": "7296 JP Equity",
+        "score": 2.2345167861878705
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 10550000.0,
+        "source": "ML FP Equity",
+        "score": 2.234327302534615
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 9700000.0,
+        "source": "LEO GR Equity",
+        "score": 2.217527309313278
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 8090000.0,
+        "source": "AXL US Equity",
+        "score": 2.181227882528812
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 6700000.0,
+        "source": "BRE IM Equity",
+        "score": 2.143523646722983
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3860000.0,
+        "source": "7230 JP Equity",
+        "score": 2.0332356001016674
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3250000.0,
+        "source": "6902 JP Equity",
+        "score": 1.9988331723996362
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3070000.0,
+        "source": "SHA GR Equity",
+        "score": 1.9874376890592451
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2790000.0,
+        "source": "7274 JP Equity",
+        "score": 1.9683105024440843
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2750000.0,
+        "source": "GKN LN Equity",
+        "score": 1.9654223666558104
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1940000.0,
+        "source": "APTV US Equity",
+        "score": 1.895639809300659
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1610000.0,
+        "source": "TEN US Equity",
+        "score": 1.858349071615693
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 409200.0,
+        "source": "PTC US Equity",
+        "score": 1.5843923513698774
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1100000.0,
+        "source": "TRELB SS Equity",
+        "score": 1.782164329371819
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1130000.0,
+        "source": "VFC US Equity",
+        "score": 1.7875458151287766
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1130000.0,
+        "source": "VFC US Equity",
+        "score": 1.7875458151287766
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1030000.0,
+        "source": "RS US Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 588310.0,
+        "source": "5184 JP Equity",
+        "score": 1.657002199724194
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 423700.0,
+        "source": "092200 KS Equity",
+        "score": 1.5913566593544712
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 411860.0,
+        "source": "VK FP Equity",
+        "score": 1.5856882385531819
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 357580.0,
+        "source": "7247 JP Equity",
+        "score": 1.5574234377757779
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 306560.0,
+        "source": "GRMN US Equity",
+        "score": 1.5266344071526978
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 245180.0,
+        "source": "7287 JP Equity",
+        "score": 1.4819503984553544
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 133120.0,
+        "source": "AKAM US Equity",
+        "score": 1.3598027536092103
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 57930.0,
+        "source": "7313 JP Equity",
+        "score": 1.193401585230939
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 42730.0,
+        "source": "ZBRA US Equity",
+        "score": 1.1325359862251512
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 42360.0,
+        "source": "SLAB US Equity",
+        "score": 1.1307966813226562
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 30520.0,
+        "source": "ANSS US Equity",
+        "score": 1.0652340500522715
+      }
+    ],
+    "nodes": [
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "FCC Co Ltd",
+        "market_cap": "USD 1.14B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7296 JP Equity",
+        "type": "supplier1",
+        "size": 8.854294099352817,
+        "country": "JP"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.08B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.817938058355306,
+        "country": "FR"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 537.26M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.101992706622184,
+        "country": "DE"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 8.99329297415947,
+        "country": "US"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.8B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.058266903678753,
+        "country": "IT"
+      },
+      {
+        "name": "Nissin Kogyo Co Ltd",
+        "market_cap": "USD 857.37M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7230 JP Equity",
+        "type": "supplier1",
+        "size": 8.569380122012856,
+        "country": "JP"
+      },
+      {
+        "name": "Denso Corp",
+        "market_cap": "USD 30.87B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6902 JP Equity",
+        "type": "supplier1",
+        "size": 12.15305067546048,
+        "country": "JP"
+      },
+      {
+        "name": "Schaeffler AG",
+        "market_cap": "USD 5.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SHA GR Equity",
+        "type": "supplier1",
+        "size": 10.385296199499681,
+        "country": "DE"
+      },
+      {
+        "name": "Showa Corp",
+        "market_cap": "USD 1.01B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7274 JP Equity",
+        "type": "supplier1",
+        "size": 8.73321616779958,
+        "country": "JP"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 9.99B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.024850429606872,
+        "country": "US"
+      },
+      {
+        "name": "Trelleborg AB",
+        "market_cap": "USD 3.88B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TRELB SS Equity",
+        "type": "supplier1",
+        "size": 10.079100990581594,
+        "country": "SE"
+      },
+      {
+        "name": "VF Corp",
+        "market_cap": "USD 35.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VFC US Equity",
+        "type": "supplier1",
+        "size": 12.304560080380408,
+        "country": "US"
+      },
+      {
+        "name": "VF Corp",
+        "market_cap": "USD 35.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VFC US Equity",
+        "type": "supplier1",
+        "size": 12.304560080380408,
+        "country": "US"
+      },
+      {
+        "name": "Reliance Steel & Aluminum Co",
+        "market_cap": "USD 5.9B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "RS US Equity",
+        "type": "supplier1",
+        "size": 10.498218187858086,
+        "country": "US"
+      },
+      {
+        "name": "Nichirin Co Ltd",
+        "market_cap": "USD 208.61M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5184 JP Equity",
+        "type": "supplier1",
+        "size": 7.15597703802047,
+        "country": "JP"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 112.53M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.538730410726181,
+        "country": "KR"
+      },
+      {
+        "name": "Vallourec SA",
+        "market_cap": "USD 1.25B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VK FP Equity",
+        "type": "supplier1",
+        "size": 8.94640938826062,
+        "country": "FR"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 119.31M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.597235705851983,
+        "country": "JP"
+      },
+      {
+        "name": "Garmin Ltd",
+        "market_cap": "USD 14.83B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GRMN US Equity",
+        "type": "supplier1",
+        "size": 11.419917993096252,
+        "country": "CH"
+      },
+      {
+        "name": "Nippon Seiki Co Ltd",
+        "market_cap": "USD 1.02B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7287 JP Equity",
+        "type": "supplier1",
+        "size": 8.74306846424259,
+        "country": "JP"
+      },
+      {
+        "name": "Akamai Technologies Inc",
+        "market_cap": "USD 12.73B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AKAM US Equity",
+        "type": "supplier1",
+        "size": 11.267227249515727,
+        "country": "US"
+      },
+      {
+        "name": "TS Tech Co Ltd",
+        "market_cap": "USD 1.75B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7313 JP Equity",
+        "type": "supplier1",
+        "size": 9.282881624881835,
+        "country": "JP"
+      },
+      {
+        "name": "Zebra Technologies Corp",
+        "market_cap": "USD 9.67B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZBRA US Equity",
+        "type": "supplier1",
+        "size": 10.992294146411613,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.13B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.141543243919351,
+        "country": "US"
+      },
+      {
+        "name": "ANSYS Inc",
+        "market_cap": "USD 15.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ANSS US Equity",
+        "type": "supplier1",
+        "size": 11.479471079935667,
+        "country": "US"
+      },
+      {
+        "name": "Harley-Davidson Inc",
+        "market_cap": "USD 5.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HOG US Equity",
+        "type": "manufacturer",
+        "size": 10.501130736842732,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "HOG US Equity",
+        "relation": 64610000.0,
+        "source": "5108 JP Equity",
+        "score": 2.5967759542023656
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 827050.0,
+        "source": "SSYS US Equity",
+        "score": 1.7251243281572752
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 10560000.0,
+        "source": "7296 JP Equity",
+        "score": 2.2345167861878705
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 10380000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.231078306408225
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 9700000.0,
+        "source": "LEO GR Equity",
+        "score": 2.217527309313278
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 9040000.0,
+        "source": "ML FP Equity",
+        "score": 2.2034339685975644
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 7200000.0,
+        "source": "AXL US Equity",
+        "score": 2.1579183445750325
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 6130000.0,
+        "source": "BRE IM Equity",
+        "score": 2.1257410942089034
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3860000.0,
+        "source": "7230 JP Equity",
+        "score": 2.0332356001016674
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3070000.0,
+        "source": "SHA GR Equity",
+        "score": 1.9874376890592451
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2790000.0,
+        "source": "7274 JP Equity",
+        "score": 1.9683105024440843
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1940000.0,
+        "source": "APTV US Equity",
+        "score": 1.895639809300659
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1740000.0,
+        "source": "6902 JP Equity",
+        "score": 1.873879249180638
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1610000.0,
+        "source": "TEN US Equity",
+        "score": 1.858349071615693
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 409200.0,
+        "source": "PTC US Equity",
+        "score": 1.5843923513698774
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1100000.0,
+        "source": "TRELB SS Equity",
+        "score": 1.782164329371819
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1130000.0,
+        "source": "VFC US Equity",
+        "score": 1.7875458151287766
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1030000.0,
+        "source": "RS US Equity",
+        "score": 1.769014066215827
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 588310.0,
+        "source": "5184 JP Equity",
+        "score": 1.657002199724194
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 423700.0,
+        "source": "092200 KS Equity",
+        "score": 1.5913566593544712
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 357580.0,
+        "source": "7247 JP Equity",
+        "score": 1.5574234377757779
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 352520.0,
+        "source": "VK FP Equity",
+        "score": 1.5545730947856113
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 306560.0,
+        "source": "GRMN US Equity",
+        "score": 1.5266344071526978
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 245180.0,
+        "source": "7287 JP Equity",
+        "score": 1.4819503984553544
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 133120.0,
+        "source": "AKAM US Equity",
+        "score": 1.3598027536092103
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 57930.0,
+        "source": "7313 JP Equity",
+        "score": 1.193401585230939
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 42730.0,
+        "source": "ZBRA US Equity",
+        "score": 1.1325359862251512
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 42360.0,
+        "source": "SLAB US Equity",
+        "score": 1.1307966813226562
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 30520.0,
+        "source": "ANSS US Equity",
+        "score": 1.0652340500522715
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Bridgestone Corp",
+        "market_cap": "USD 29.16B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5108 JP Equity",
+        "type": "supplier1",
+        "size": 12.09606374408687,
+        "country": "JP"
+      },
+      {
+        "name": "Stratasys Ltd",
+        "market_cap": "USD 1.3B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SSYS US Equity",
+        "type": "supplier1",
+        "size": 8.985630101413904,
+        "country": "US"
+      },
+      {
+        "name": "FCC Co Ltd",
+        "market_cap": "USD 1.12B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7296 JP Equity",
+        "type": "supplier1",
+        "size": 8.836594522253414,
+        "country": "JP"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 631.25M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.263212538553844,
+        "country": "DE"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 21.5B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.791318772080029,
+        "country": "FR"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "US"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.85B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.071338985246104,
+        "country": "IT"
+      },
+      {
+        "name": "Nissin Kogyo Co Ltd",
+        "market_cap": "USD 894.08M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7230 JP Equity",
+        "type": "supplier1",
+        "size": 8.611305814592818,
+        "country": "JP"
+      },
+      {
+        "name": "Schaeffler AG",
+        "market_cap": "USD 5.31B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SHA GR Equity",
+        "type": "supplier1",
+        "size": 10.392857672200257,
+        "country": "DE"
+      },
+      {
+        "name": "Showa Corp",
+        "market_cap": "USD 1.02B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7274 JP Equity",
+        "type": "supplier1",
+        "size": 8.74306846424259,
+        "country": "JP"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.714487955022516,
+        "country": "IE"
+      },
+      {
+        "name": "Denso Corp",
+        "market_cap": "USD 31.74B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6902 JP Equity",
+        "type": "supplier1",
+        "size": 12.180843552044674,
+        "country": "JP"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 10.07B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.032826543676883,
+        "country": "US"
+      },
+      {
+        "name": "Trelleborg AB",
+        "market_cap": "USD 3.88B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TRELB SS Equity",
+        "type": "supplier1",
+        "size": 10.079100990581594,
+        "country": "SE"
+      },
+      {
+        "name": "VF Corp",
+        "market_cap": "USD 36.76B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VFC US Equity",
+        "type": "supplier1",
+        "size": 12.327676134433897,
+        "country": "US"
+      },
+      {
+        "name": "Reliance Steel & Aluminum Co",
+        "market_cap": "USD 6.14B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "RS US Equity",
+        "type": "supplier1",
+        "size": 10.53809057910546,
+        "country": "US"
+      },
+      {
+        "name": "Nichirin Co Ltd",
+        "market_cap": "USD 212.18M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5184 JP Equity",
+        "type": "supplier1",
+        "size": 7.172945528995399,
+        "country": "JP"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 124.83M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.642463369627233,
+        "country": "KR"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 127.39M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.662763805085969,
+        "country": "JP"
+      },
+      {
+        "name": "Vallourec SA",
+        "market_cap": "USD 1.12B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VK FP Equity",
+        "type": "supplier1",
+        "size": 8.836594522253414,
+        "country": "FR"
+      },
+      {
+        "name": "Garmin Ltd",
+        "market_cap": "USD 15.06B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GRMN US Equity",
+        "type": "supplier1",
+        "size": 11.43530805931816,
+        "country": "CH"
+      },
+      {
+        "name": "Nippon Seiki Co Ltd",
+        "market_cap": "USD 1.04B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7287 JP Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "JP"
+      },
+      {
+        "name": "Akamai Technologies Inc",
+        "market_cap": "USD 12.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AKAM US Equity",
+        "type": "supplier1",
+        "size": 11.254578859548566,
+        "country": "US"
+      },
+      {
+        "name": "TS Tech Co Ltd",
+        "market_cap": "USD 1.78B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7313 JP Equity",
+        "type": "supplier1",
+        "size": 9.299879201250405,
+        "country": "JP"
+      },
+      {
+        "name": "Zebra Technologies Corp",
+        "market_cap": "USD 10.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZBRA US Equity",
+        "type": "supplier1",
+        "size": 11.081285636828557,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.4B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.204870377870627,
+        "country": "US"
+      },
+      {
+        "name": "ANSYS Inc",
+        "market_cap": "USD 16.1B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ANSS US Equity",
+        "type": "supplier1",
+        "size": 11.502085108936829,
+        "country": "US"
+      },
+      {
+        "name": "Harley-Davidson Inc",
+        "market_cap": "USD 5.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HOG US Equity",
+        "type": "manufacturer",
+        "size": 10.501130736842732,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "HOG US Equity",
+        "relation": 64610000.0,
+        "source": "5108 JP Equity",
+        "score": 2.5967759542023656
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 827050.0,
+        "source": "SSYS US Equity",
+        "score": 1.7251243281572752
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 10560000.0,
+        "source": "7296 JP Equity",
+        "score": 2.2345167861878705
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 10380000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.231078306408225
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 9700000.0,
+        "source": "LEO GR Equity",
+        "score": 2.217527309313278
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 9040000.0,
+        "source": "ML FP Equity",
+        "score": 2.2034339685975644
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 6130000.0,
+        "source": "BRE IM Equity",
+        "score": 2.1257410942089034
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 4490000.0,
+        "source": "TEN US Equity",
+        "score": 2.0634726964871124
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3860000.0,
+        "source": "7230 JP Equity",
+        "score": 2.0332356001016674
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 3070000.0,
+        "source": "SHA GR Equity",
+        "score": 1.9874376890592451
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 2790000.0,
+        "source": "7274 JP Equity",
+        "score": 1.9683105024440843
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1940000.0,
+        "source": "APTV US Equity",
+        "score": 1.895639809300659
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1740000.0,
+        "source": "6902 JP Equity",
+        "score": 1.873879249180638
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 409200.0,
+        "source": "PTC US Equity",
+        "score": 1.5843923513698774
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 1020000.0,
+        "source": "TRELB SS Equity",
+        "score": 1.7670628331304261
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 588310.0,
+        "source": "5184 JP Equity",
+        "score": 1.657002199724194
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 482840.0,
+        "source": "AXL US Equity",
+        "score": 1.617488537178473
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 423700.0,
+        "source": "092200 KS Equity",
+        "score": 1.5913566593544712
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 357580.0,
+        "source": "7247 JP Equity",
+        "score": 1.5574234377757779
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 352520.0,
+        "source": "VK FP Equity",
+        "score": 1.5545730947856113
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 245180.0,
+        "source": "7287 JP Equity",
+        "score": 1.4819503984553544
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 156610.0,
+        "source": "GRMN US Equity",
+        "score": 1.392304060545678
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 133120.0,
+        "source": "AKAM US Equity",
+        "score": 1.3598027536092103
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 57930.0,
+        "source": "7313 JP Equity",
+        "score": 1.193401585230939
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 45590.0,
+        "source": "ZBRA US Equity",
+        "score": 1.1454931215203432
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 41190.0,
+        "source": "SLAB US Equity",
+        "score": 1.1251950129745483
+      },
+      {
+        "target": "HOG US Equity",
+        "relation": 30520.0,
+        "source": "ANSS US Equity",
+        "score": 1.0652340500522715
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Bridgestone Corp",
+        "market_cap": "USD 28.31B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5108 JP Equity",
+        "type": "supplier1",
+        "size": 12.06648093607022,
+        "country": "JP"
+      },
+      {
+        "name": "Stratasys Ltd",
+        "market_cap": "USD 1.27B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SSYS US Equity",
+        "type": "supplier1",
+        "size": 8.96228273741691,
+        "country": "US"
+      },
+      {
+        "name": "FCC Co Ltd",
+        "market_cap": "USD 1.15B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7296 JP Equity",
+        "type": "supplier1",
+        "size": 8.86302777932157,
+        "country": "JP"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Leoni AG",
+        "market_cap": "USD 563.74M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "LEO GR Equity",
+        "type": "supplier1",
+        "size": 8.150103710264634,
+        "country": "DE"
+      },
+      {
+        "name": "Cie Generale des Etablissements Michelin SCA",
+        "market_cap": "USD 22.66B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ML FP Equity",
+        "type": "supplier1",
+        "size": 11.843867092546272,
+        "country": "FR"
+      },
+      {
+        "name": "Brembo SpA",
+        "market_cap": "USD 3.9B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "BRE IM Equity",
+        "type": "supplier1",
+        "size": 10.08424239008201,
+        "country": "IT"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.772056001115843,
+        "country": "US"
+      },
+      {
+        "name": "Nissin Kogyo Co Ltd",
+        "market_cap": "USD 875.09M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7230 JP Equity",
+        "type": "supplier1",
+        "size": 8.589837296175311,
+        "country": "JP"
+      },
+      {
+        "name": "Schaeffler AG",
+        "market_cap": "USD 5.35B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SHA GR Equity",
+        "type": "supplier1",
+        "size": 10.400362397854327,
+        "country": "DE"
+      },
+      {
+        "name": "Showa Corp",
+        "market_cap": "USD 1000.0M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7274 JP Equity",
+        "type": "supplier1",
+        "size": 8.72326583694641,
+        "country": "JP"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.35B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.6859582564222,
+        "country": "IE"
+      },
+      {
+        "name": "Denso Corp",
+        "market_cap": "USD 31.52B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6902 JP Equity",
+        "type": "supplier1",
+        "size": 12.17388810193609,
+        "country": "JP"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 10.02B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.027848932603131,
+        "country": "US"
+      },
+      {
+        "name": "Trelleborg AB",
+        "market_cap": "USD 3.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TRELB SS Equity",
+        "type": "supplier1",
+        "size": 10.086803210943685,
+        "country": "SE"
+      },
+      {
+        "name": "Nichirin Co Ltd",
+        "market_cap": "USD 209.86M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5184 JP Equity",
+        "type": "supplier1",
+        "size": 7.1619511996940375,
+        "country": "JP"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.34B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.015935450909232,
+        "country": "US"
+      },
+      {
+        "name": "Dae-Il Corp",
+        "market_cap": "USD 124.44M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "092200 KS Equity",
+        "type": "supplier1",
+        "size": 6.639334229993711,
+        "country": "KR"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 121.27M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.613530022632975,
+        "country": "JP"
+      },
+      {
+        "name": "Vallourec SA",
+        "market_cap": "USD 1.15B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VK FP Equity",
+        "type": "supplier1",
+        "size": 8.86302777932157,
+        "country": "FR"
+      },
+      {
+        "name": "Nippon Seiki Co Ltd",
+        "market_cap": "USD 1.02B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7287 JP Equity",
+        "type": "supplier1",
+        "size": 8.74306846424259,
+        "country": "JP"
+      },
+      {
+        "name": "Garmin Ltd",
+        "market_cap": "USD 15.0B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GRMN US Equity",
+        "type": "supplier1",
+        "size": 11.431316038048621,
+        "country": "CH"
+      },
+      {
+        "name": "Akamai Technologies Inc",
+        "market_cap": "USD 12.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AKAM US Equity",
+        "type": "supplier1",
+        "size": 11.254578859548566,
+        "country": "US"
+      },
+      {
+        "name": "TS Tech Co Ltd",
+        "market_cap": "USD 1.8B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7313 JP Equity",
+        "type": "supplier1",
+        "size": 9.311052501848529,
+        "country": "JP"
+      },
+      {
+        "name": "Zebra Technologies Corp",
+        "market_cap": "USD 10.0B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZBRA US Equity",
+        "type": "supplier1",
+        "size": 11.025850929940457,
+        "country": "US"
+      },
+      {
+        "name": "Silicon Laboratories Inc",
+        "market_cap": "USD 4.3B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SLAB US Equity",
+        "type": "supplier1",
+        "size": 10.18188085964593,
+        "country": "US"
+      },
+      {
+        "name": "ANSYS Inc",
+        "market_cap": "USD 15.69B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ANSS US Equity",
+        "type": "supplier1",
+        "size": 11.476289403691354,
+        "country": "US"
+      },
+      {
+        "name": "Harley-Davidson Inc",
+        "market_cap": "USD 5.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HOG US Equity",
+        "type": "manufacturer",
+        "size": 10.501130736842732,
+        "country": "US"
+      }
+    ]
+  }
+]

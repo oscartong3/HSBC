@@ -1,0 +1,370 @@
+[
+  {
+    "links": [
+      {
+        "target": "WGO US Equity",
+        "relation": 604770.0,
+        "source": "ALSN US Equity",
+        "score": 1.662521030592477
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 150530.0,
+        "source": "POL US Equity",
+        "score": 1.3843848644053063
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 70320.0,
+        "source": "ATU US Equity",
+        "score": 1.2321651505926585
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "US"
+      },
+      {
+        "name": "PolyOne Corp",
+        "market_cap": "USD 2.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "POL US Equity",
+        "type": "supplier1",
+        "size": 9.455633730659638,
+        "country": "US"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.51B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "US"
+      },
+      {
+        "name": "WINNEBAGO INDUSTRIES",
+        "market_cap": "USD 1.17B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WGO US Equity",
+        "type": "manufacturer",
+        "size": 8.876786960930684,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "WGO US Equity",
+        "relation": 658970.0,
+        "source": "ALSN US Equity",
+        "score": 1.6796869612893093
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 150530.0,
+        "source": "POL US Equity",
+        "score": 1.3843848644053063
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 71450.0,
+        "source": "ATU US Equity",
+        "score": 1.2353534358122666
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.53B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.433453652480654,
+        "country": "US"
+      },
+      {
+        "name": "PolyOne Corp",
+        "market_cap": "USD 2.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "POL US Equity",
+        "type": "supplier1",
+        "size": 9.441105630096729,
+        "country": "US"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.49B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.122041956903779,
+        "country": "US"
+      },
+      {
+        "name": "WINNEBAGO INDUSTRIES",
+        "market_cap": "USD 1.17B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WGO US Equity",
+        "type": "manufacturer",
+        "size": 8.876786960930684,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "WGO US Equity",
+        "relation": 726140.0,
+        "source": "ALSN US Equity",
+        "score": 1.69909989796514
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 71450.0,
+        "source": "ATU US Equity",
+        "score": 1.2353534358122666
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.47B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.4225444533803,
+        "country": "US"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.48B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.115307924722433,
+        "country": "US"
+      },
+      {
+        "name": "WINNEBAGO INDUSTRIES",
+        "market_cap": "USD 1.17B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WGO US Equity",
+        "type": "manufacturer",
+        "size": 8.876786960930684,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "WGO US Equity",
+        "relation": 726140.0,
+        "source": "ALSN US Equity",
+        "score": 1.69909989796514
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 65910.0,
+        "source": "POL US Equity",
+        "score": 1.219212125227238
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 66160.0,
+        "source": "ATU US Equity",
+        "score": 1.2199692888912756
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.47B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.4225444533803,
+        "country": "US"
+      },
+      {
+        "name": "PolyOne Corp",
+        "market_cap": "USD 2.03B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "POL US Equity",
+        "type": "supplier1",
+        "size": 9.431301630000107,
+        "country": "US"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.48B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.115307924722433,
+        "country": "US"
+      },
+      {
+        "name": "WINNEBAGO INDUSTRIES",
+        "market_cap": "USD 1.17B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WGO US Equity",
+        "type": "manufacturer",
+        "size": 8.876786960930684,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "WGO US Equity",
+        "relation": 726140.0,
+        "source": "ALSN US Equity",
+        "score": 1.69909989796514
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 65910.0,
+        "source": "POL US Equity",
+        "score": 1.219212125227238
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 66160.0,
+        "source": "ATU US Equity",
+        "score": 1.2199692888912756
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "US"
+      },
+      {
+        "name": "PolyOne Corp",
+        "market_cap": "USD 2.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "POL US Equity",
+        "type": "supplier1",
+        "size": 9.455633730659638,
+        "country": "US"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.51B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "US"
+      },
+      {
+        "name": "WINNEBAGO INDUSTRIES",
+        "market_cap": "USD 1.17B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WGO US Equity",
+        "type": "manufacturer",
+        "size": 8.876786960930684,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "WGO US Equity",
+        "relation": 586870.0,
+        "source": "ALSN US Equity",
+        "score": 1.6565120626319976
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 81610.0,
+        "source": "POL US Equity",
+        "score": 1.261943867157707
+      },
+      {
+        "target": "WGO US Equity",
+        "relation": 66160.0,
+        "source": "ATU US Equity",
+        "score": 1.2199692888912756
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.56B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.438863945208901,
+        "country": "US"
+      },
+      {
+        "name": "PolyOne Corp",
+        "market_cap": "USD 2.07B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "POL US Equity",
+        "type": "supplier1",
+        "size": 9.450814444223688,
+        "country": "US"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.5B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.128730945054574,
+        "country": "US"
+      },
+      {
+        "name": "WINNEBAGO INDUSTRIES",
+        "market_cap": "USD 1.17B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WGO US Equity",
+        "type": "manufacturer",
+        "size": 8.876786960930684,
+        "country": "US"
+      }
+    ]
+  }
+]

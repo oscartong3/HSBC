@@ -1,0 +1,1186 @@
+[
+  {
+    "links": [
+      {
+        "target": "600609 CH Equity",
+        "relation": 6850000.0,
+        "source": "Mianyang ... Equity",
+        "score": 2.14795187124476
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 5780000.0,
+        "source": "Mianyang ... Equity",
+        "score": 2.1139828827317855
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 453960.0,
+        "source": "TEN US Equity",
+        "score": 1.6051533140499807
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 215760.0,
+        "source": "ADJVBZ CH Equity",
+        "score": 1.456385318516451
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 113520.0,
+        "source": "Shenyang ... Equity",
+        "score": 1.3279486241631124
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 60370.0,
+        "source": "DAN US Equity",
+        "score": 1.2016528272344162
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 45110.0,
+        "source": "SJHASZ CH Equity",
+        "score": 1.143376279638086
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 6430.0,
+        "source": "600653 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 5680.0,
+        "source": "AGHZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3970.0,
+        "source": "Brillianc... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3620.0,
+        "source": "Shenyang2... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 6850000.0,
+        "source": "Mianyang ... Equity",
+        "score": 2.14795187124476
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 5780000.0,
+        "source": "Mianyang ... Equity",
+        "score": 2.1139828827317855
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 453960.0,
+        "source": "TEN US Equity",
+        "score": 1.6051533140499807
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 215760.0,
+        "source": "ADJVBZ CH Equity",
+        "score": 1.456385318516451
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 113520.0,
+        "source": "Shenyang ... Equity",
+        "score": 1.3279486241631124
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 60370.0,
+        "source": "DAN US Equity",
+        "score": 1.2016528272344162
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 45110.0,
+        "source": "SJHASZ CH Equity",
+        "score": 1.143376279638086
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 6430.0,
+        "source": "600653 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 5680.0,
+        "source": "AGHZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3970.0,
+        "source": "Brillianc... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3620.0,
+        "source": "Shenyang2... Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Mianyang Huarui Auto Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Mianyang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mianyang Huaxiang Machinery Manufacturing Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Mianyang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Jinheng Automotive Safety Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADJVBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Huachen Jinbei Automobiles Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.46B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.623427186890684,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Henglong Auto Steering System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "SJHASZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Shenhua Holdings Co Ltd",
+        "market_cap": "USD 678.83M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600653 CH Equity",
+        "type": "supplier1",
+        "size": 8.33588128598711,
+        "country": "CN"
+      },
+      {
+        "name": "Huachen Automotive Group Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AGHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Brilliance Shenyang Jindong Development Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Brillianc... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Hengrui Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mianyang Huarui Auto Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Mianyang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mianyang Huaxiang Machinery Manufacturing Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Mianyang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Jinheng Automotive Safety Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADJVBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Huachen Jinbei Automobiles Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.46B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.623427186890684,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Henglong Auto Steering System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "SJHASZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Shenhua Holdings Co Ltd",
+        "market_cap": "USD 674.02M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600653 CH Equity",
+        "type": "supplier1",
+        "size": 8.328770342026832,
+        "country": "CN"
+      },
+      {
+        "name": "Huachen Automotive Group Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AGHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Brilliance Shenyang Jindong Development Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Brillianc... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Hengrui Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Jinbei Automotive Co Ltd",
+        "market_cap": "USD 754.58M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600609 CH Equity",
+        "type": "manufacturer",
+        "size": 8.441671887688177,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600609 CH Equity",
+        "relation": 6850000.0,
+        "source": "Mianyang ... Equity",
+        "score": 2.14795187124476
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 5780000.0,
+        "source": "Mianyang ... Equity",
+        "score": 2.1139828827317855
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 335700.0,
+        "source": "TEN US Equity",
+        "score": 1.5447952323627705
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 113520.0,
+        "source": "Shenyang ... Equity",
+        "score": 1.3279486241631124
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 58770.0,
+        "source": "DAN US Equity",
+        "score": 1.196280762989205
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 45110.0,
+        "source": "SJHASZ CH Equity",
+        "score": 1.143376279638086
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 6430.0,
+        "source": "600653 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3970.0,
+        "source": "Brillianc... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 5680.0,
+        "source": "AGHZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3620.0,
+        "source": "Shenyang2... Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Mianyang Huarui Auto Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Mianyang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mianyang Huaxiang Machinery Manufacturing Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Mianyang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.06B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.781534745070388,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Huachen Jinbei Automobiles Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang ... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.590366324629795,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Henglong Auto Steering System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "SJHASZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Shenhua Holdings Co Ltd",
+        "market_cap": "USD 671.71M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600653 CH Equity",
+        "type": "supplier1",
+        "size": 8.325337257724904,
+        "country": "CN"
+      },
+      {
+        "name": "Brilliance Shenyang Jindong Development Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Brillianc... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Huachen Automotive Group Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AGHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Hengrui Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Jinbei Automotive Co Ltd",
+        "market_cap": "USD 754.58M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600609 CH Equity",
+        "type": "manufacturer",
+        "size": 8.441671887688177,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600609 CH Equity",
+        "relation": 11550000.0,
+        "source": "AGHZ CH Equity",
+        "score": 2.252439216302432
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 415790.0,
+        "source": "1148 HK Equity",
+        "score": 1.5875876018300294
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 394210.0,
+        "source": "TEN US Equity",
+        "score": 1.576928315585675
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 108570.0,
+        "source": "ADJVBZ CH Equity",
+        "score": 1.3190319231661976
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 68780.0,
+        "source": "DAN US Equity",
+        "score": 1.2277365645981542
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 54780.0,
+        "source": "SJHASZ CH Equity",
+        "score": 1.1822197394975964
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 19170.0,
+        "source": "Shenyang1... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3700.0,
+        "source": "Brillianc... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3480.0,
+        "source": "Shenyang2... Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Huachen Automotive Group Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AGHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xinchen China Power Holdings Ltd",
+        "market_cap": "USD 58.81M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "1148 HK Equity",
+        "type": "supplier1",
+        "size": 5.88982246643614,
+        "country": "HK"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Jinheng Automotive Safety Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADJVBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Henglong Auto Steering System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "SJHASZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Xinguang Huachen Auto Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Brilliance Shenyang Jindong Development Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Brillianc... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Hengrui Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Jinbei Automotive Co Ltd",
+        "market_cap": "USD 754.58M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600609 CH Equity",
+        "type": "manufacturer",
+        "size": 8.441671887688177,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600609 CH Equity",
+        "relation": 11550000.0,
+        "source": "AGHZ CH Equity",
+        "score": 2.252439216302432
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 415790.0,
+        "source": "1148 HK Equity",
+        "score": 1.5875876018300294
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 394210.0,
+        "source": "TEN US Equity",
+        "score": 1.576928315585675
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 108570.0,
+        "source": "ADJVBZ CH Equity",
+        "score": 1.3190319231661976
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 68780.0,
+        "source": "DAN US Equity",
+        "score": 1.2277365645981542
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 54780.0,
+        "source": "SJHASZ CH Equity",
+        "score": 1.1822197394975964
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 19170.0,
+        "source": "Shenyang1... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3700.0,
+        "source": "Brillianc... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3480.0,
+        "source": "Shenyang2... Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Huachen Automotive Group Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AGHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xinchen China Power Holdings Ltd",
+        "market_cap": "USD 58.81M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "1148 HK Equity",
+        "type": "supplier1",
+        "size": 5.88982246643614,
+        "country": "HK"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Jinheng Automotive Safety Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADJVBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Henglong Auto Steering System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "SJHASZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Xinguang Huachen Auto Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Brilliance Shenyang Jindong Development Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Brillianc... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Hengrui Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Jinbei Automotive Co Ltd",
+        "market_cap": "USD 754.58M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600609 CH Equity",
+        "type": "manufacturer",
+        "size": 8.441671887688177,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600609 CH Equity",
+        "relation": 11550000.0,
+        "source": "AGHZ CH Equity",
+        "score": 2.252439216302432
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 415790.0,
+        "source": "1148 HK Equity",
+        "score": 1.5875876018300294
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 394210.0,
+        "source": "TEN US Equity",
+        "score": 1.576928315585675
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 108570.0,
+        "source": "ADJVBZ CH Equity",
+        "score": 1.3190319231661976
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 68780.0,
+        "source": "DAN US Equity",
+        "score": 1.2277365645981542
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 54780.0,
+        "source": "SJHASZ CH Equity",
+        "score": 1.1822197394975964
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 19170.0,
+        "source": "Shenyang1... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3700.0,
+        "source": "Brillianc... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3480.0,
+        "source": "Shenyang2... Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Huachen Automotive Group Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AGHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xinchen China Power Holdings Ltd",
+        "market_cap": "USD 62.89M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "1148 HK Equity",
+        "type": "supplier1",
+        "size": 5.956897726519685,
+        "country": "HK"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Jinheng Automotive Safety Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADJVBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.46B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.623427186890684,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Henglong Auto Steering System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "SJHASZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Xinguang Huachen Auto Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Brilliance Shenyang Jindong Development Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Brillianc... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Hengrui Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Jinbei Automotive Co Ltd",
+        "market_cap": "USD 754.58M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600609 CH Equity",
+        "type": "manufacturer",
+        "size": 8.441671887688177,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600609 CH Equity",
+        "relation": 11550000.0,
+        "source": "AGHZ CH Equity",
+        "score": 2.252439216302432
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 415790.0,
+        "source": "1148 HK Equity",
+        "score": 1.5875876018300294
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 394210.0,
+        "source": "TEN US Equity",
+        "score": 1.576928315585675
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 108570.0,
+        "source": "ADJVBZ CH Equity",
+        "score": 1.3190319231661976
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 68780.0,
+        "source": "DAN US Equity",
+        "score": 1.2277365645981542
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 54780.0,
+        "source": "SJHASZ CH Equity",
+        "score": 1.1822197394975964
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 19170.0,
+        "source": "Shenyang1... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3700.0,
+        "source": "Brillianc... Equity",
+        "score": 1
+      },
+      {
+        "target": "600609 CH Equity",
+        "relation": 3480.0,
+        "source": "Shenyang2... Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Huachen Automotive Group Holding Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AGHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Xinchen China Power Holdings Ltd",
+        "market_cap": "USD 58.81M",
+        "region": "Hong Kong",
+        "score": 1.0,
+        "ticker": "1148 HK Equity",
+        "type": "supplier1",
+        "size": 5.88982246643614,
+        "country": "HK"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.772056001115843,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Jinheng Automotive Safety Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADJVBZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.590366324629795,
+        "country": "US"
+      },
+      {
+        "name": "Shenyang Jinbei Henglong Auto Steering System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "SJHASZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Xinguang Huachen Auto Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Brilliance Shenyang Jindong Development Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Brillianc... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Hengrui Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Shenyang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shenyang Jinbei Automotive Co Ltd",
+        "market_cap": "USD 754.58M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600609 CH Equity",
+        "type": "manufacturer",
+        "size": 8.441671887688177,
+        "country": "CN"
+      }
+    ]
+  }
+]

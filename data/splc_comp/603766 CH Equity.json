@@ -1,0 +1,642 @@
+[
+  {
+    "links": [
+      {
+        "target": "603766 CH Equity",
+        "relation": 10460000.0,
+        "source": "Dezhou Fu... Equity",
+        "score": 2.232613822440668
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 1820000.0,
+        "source": "CMI US Equity",
+        "score": 1.8828695217006755
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 98470.0,
+        "source": "TSHUNZ CH Equity",
+        "score": 1.2995034735135111
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 35780.0,
+        "source": "600615 CH Equity",
+        "score": 1.0970344610493559
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dezhou Fulu Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dezhou Fu... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 26.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.983283605145786,
+        "country": "US"
+      },
+      {
+        "name": "Tsinghua University",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "TSHUNZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Fenghwa Group Co Ltd",
+        "market_cap": "USD 252.93M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600615 CH Equity",
+        "type": "supplier1",
+        "size": 7.348623328566969,
+        "country": "CN"
+      },
+      {
+        "name": "Loncin Motor Co Ltd",
+        "market_cap": "USD 1.46B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603766 CH Equity",
+        "type": "manufacturer",
+        "size": 9.104364962596222,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "603766 CH Equity",
+        "relation": 10460000.0,
+        "source": "Dezhou Fu... Equity",
+        "score": 2.232613822440668
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 1880000.0,
+        "source": "CMI US Equity",
+        "score": 1.8893565733441768
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 98470.0,
+        "source": "TSHUNZ CH Equity",
+        "score": 1.2995034735135111
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dezhou Fulu Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dezhou Fu... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.32B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.954860434222386,
+        "country": "US"
+      },
+      {
+        "name": "Tsinghua University",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "TSHUNZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Loncin Motor Co Ltd",
+        "market_cap": "USD 1.46B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603766 CH Equity",
+        "type": "manufacturer",
+        "size": 9.104364962596222,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "603766 CH Equity",
+        "relation": 8369999.999999999,
+        "source": "NEMAKA MM Equity",
+        "score": 2.188032912387993
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 9570000.0,
+        "source": "Dezhou Fu... Equity",
+        "score": 2.2148287735844674
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 381150.0,
+        "source": "TSHUNZ CH Equity",
+        "score": 1.570190180210393
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 2460000.0,
+        "source": "CMI US Equity",
+        "score": 1.9431344628825054
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 232700.0,
+        "source": "Chongqing4... Equity",
+        "score": 1.4715019293319496
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 51520.0,
+        "source": "600615 CH Equity",
+        "score": 1.1699489541055508
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.52B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.141976171804597,
+        "country": "MX"
+      },
+      {
+        "name": "Dezhou Fulu Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dezhou Fu... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tsinghua University",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "TSHUNZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.94533655271113,
+        "country": "US"
+      },
+      {
+        "name": "Chongqing Best Way Steel Building Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing4... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Fenghwa Group Co Ltd",
+        "market_cap": "USD 223.03M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600615 CH Equity",
+        "type": "supplier1",
+        "size": 7.22281684952414,
+        "country": "CN"
+      },
+      {
+        "name": "Loncin Motor Co Ltd",
+        "market_cap": "USD 1.46B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603766 CH Equity",
+        "type": "manufacturer",
+        "size": 9.104364962596222,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "603766 CH Equity",
+        "relation": 8369999.999999999,
+        "source": "NEMAKA MM Equity",
+        "score": 2.188032912387993
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 9570000.0,
+        "source": "Dezhou Fu... Equity",
+        "score": 2.2148287735844674
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 381150.0,
+        "source": "TSHUNZ CH Equity",
+        "score": 1.570190180210393
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 2460000.0,
+        "source": "CMI US Equity",
+        "score": 1.9431344628825054
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 232700.0,
+        "source": "Chongqing4... Equity",
+        "score": 1.4715019293319496
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 51520.0,
+        "source": "600615 CH Equity",
+        "score": 1.1699489541055508
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.51B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "MX"
+      },
+      {
+        "name": "Dezhou Fulu Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dezhou Fu... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tsinghua University",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "TSHUNZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.94533655271113,
+        "country": "US"
+      },
+      {
+        "name": "Chongqing Best Way Steel Building Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing4... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Fenghwa Group Co Ltd",
+        "market_cap": "USD 223.01M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600615 CH Equity",
+        "type": "supplier1",
+        "size": 7.2227271714683,
+        "country": "CN"
+      },
+      {
+        "name": "Loncin Motor Co Ltd",
+        "market_cap": "USD 1.46B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603766 CH Equity",
+        "type": "manufacturer",
+        "size": 9.104364962596222,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "603766 CH Equity",
+        "relation": 9570000.0,
+        "source": "Dezhou Fu... Equity",
+        "score": 2.2148287735844674
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 232700.0,
+        "source": "Chongqing4... Equity",
+        "score": 1.4715019293319496
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 381150.0,
+        "source": "TSHUNZ CH Equity",
+        "score": 1.570190180210393
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 8369999.999999999,
+        "source": "NEMAKA MM Equity",
+        "score": 2.188032912387993
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 9570000.0,
+        "source": "Dezhou Fu... Equity",
+        "score": 2.2148287735844674
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 380000.0,
+        "source": "TSHUNZ CH Equity",
+        "score": 1.5695858326556107
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 2460000.0,
+        "source": "CMI US Equity",
+        "score": 1.9431344628825054
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 230000.0,
+        "source": "Chongqing4... Equity",
+        "score": 1.4691677871443938
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 50000.0,
+        "source": "600615 CH Equity",
+        "score": 1.1639596568420574
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Dezhou Fulu Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dezhou Fu... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Best Way Steel Building Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing4... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tsinghua University",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "TSHUNZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.51B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "MX"
+      },
+      {
+        "name": "Dezhou Fulu Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dezhou Fu... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tsinghua University",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "TSHUNZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.94533655271113,
+        "country": "US"
+      },
+      {
+        "name": "Chongqing Best Way Steel Building Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing4... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Fenghwa Group Co Ltd",
+        "market_cap": "USD 222.84M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600615 CH Equity",
+        "type": "supplier1",
+        "size": 7.22196458311689,
+        "country": "CN"
+      },
+      {
+        "name": "Loncin Motor Co Ltd",
+        "market_cap": "USD 1.46B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603766 CH Equity",
+        "type": "manufacturer",
+        "size": 9.104364962596222,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "603766 CH Equity",
+        "relation": 8369999.999999999,
+        "source": "NEMAKA MM Equity",
+        "score": 2.188032912387993
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 9570000.0,
+        "source": "Dezhou Fu... Equity",
+        "score": 2.2148287735844674
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 381150.0,
+        "source": "TSHUNZ CH Equity",
+        "score": 1.570190180210393
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 1510000.0,
+        "source": "CMI US Equity",
+        "score": 1.8455241742085087
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 232700.0,
+        "source": "Chongqing4... Equity",
+        "score": 1.4715019293319496
+      },
+      {
+        "target": "603766 CH Equity",
+        "relation": 51520.0,
+        "source": "600615 CH Equity",
+        "score": 1.1699489541055508
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.56B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.167951658207858,
+        "country": "MX"
+      },
+      {
+        "name": "Dezhou Fulu Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Dezhou Fu... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tsinghua University",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "TSHUNZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.958802102707718,
+        "country": "US"
+      },
+      {
+        "name": "Chongqing Best Way Steel Building Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing4... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Shanghai Fenghwa Group Co Ltd",
+        "market_cap": "USD 227.97M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600615 CH Equity",
+        "type": "supplier1",
+        "size": 7.244724599314079,
+        "country": "CN"
+      },
+      {
+        "name": "Loncin Motor Co Ltd",
+        "market_cap": "USD 1.46B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603766 CH Equity",
+        "type": "manufacturer",
+        "size": 9.104364962596222,
+        "country": "CN"
+      }
+    ]
+  }
+]

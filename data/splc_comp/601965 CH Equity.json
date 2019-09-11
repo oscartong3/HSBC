@@ -1,0 +1,306 @@
+[
+  {
+    "links": [
+      {
+        "target": "601965 CH Equity",
+        "relation": 33060.0,
+        "source": "Guangdong... Equity",
+        "score": 1.0812219237902863
+      },
+      {
+        "target": "601965 CH Equity",
+        "relation": 75780.0,
+        "source": "0180577D CH Equity",
+        "score": 1.247120576115896
+      },
+      {
+        "target": "601965 CH Equity",
+        "relation": 3600.0,
+        "source": "ABNWSZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "601965 CH Equity",
+        "relation": 7610.0,
+        "source": "INSTRZ CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Guangdong Automotive Test Center Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Guangdong... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China National Instruments Import & Export Group Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0180577D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Genertec International Logistics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABNWSZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Instrimpex International Tendering Co",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "INSTRZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Automotive Engineering Research Institute Co Ltd",
+        "market_cap": "USD 1.13B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601965 CH Equity",
+        "type": "manufacturer",
+        "size": 8.843822810390183,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601965 CH Equity",
+        "relation": 33060.0,
+        "source": "Guangdong... Equity",
+        "score": 1.0812219237902863
+      },
+      {
+        "target": "601965 CH Equity",
+        "relation": 75780.0,
+        "source": "0180577D CH Equity",
+        "score": 1.247120576115896
+      },
+      {
+        "target": "601965 CH Equity",
+        "relation": 3600.0,
+        "source": "ABNWSZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "601965 CH Equity",
+        "relation": 7610.0,
+        "source": "INSTRZ CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Guangdong Automotive Test Center Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Guangdong... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China National Instruments Import & Export Group Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0180577D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Genertec International Logistics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABNWSZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Instrimpex International Tendering Co",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "INSTRZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Automotive Engineering Research Institute Co Ltd",
+        "market_cap": "USD 1.13B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601965 CH Equity",
+        "type": "manufacturer",
+        "size": 8.843822810390183,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601965 CH Equity",
+        "relation": 31820.0,
+        "source": "Guangdong... Equity",
+        "score": 1.073576345634716
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Guangdong Automotive Test Center Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Guangdong... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Automotive Engineering Research Institute Co Ltd",
+        "market_cap": "USD 1.13B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601965 CH Equity",
+        "type": "manufacturer",
+        "size": 8.843822810390183,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601965 CH Equity",
+        "relation": 31820.0,
+        "source": "Guangdong... Equity",
+        "score": 1.073576345634716
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Guangdong Automotive Test Center Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Guangdong... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Automotive Engineering Research Institute Co Ltd",
+        "market_cap": "USD 1.13B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601965 CH Equity",
+        "type": "manufacturer",
+        "size": 8.843822810390183,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601965 CH Equity",
+        "relation": 31820.0,
+        "source": "Guangdong... Equity",
+        "score": 1.073576345634716
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Guangdong Automotive Test Center Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Guangdong... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Automotive Engineering Research Institute Co Ltd",
+        "market_cap": "USD 1.13B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601965 CH Equity",
+        "type": "manufacturer",
+        "size": 8.843822810390183,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601965 CH Equity",
+        "relation": 31820.0,
+        "source": "Guangdong... Equity",
+        "score": 1.073576345634716
+      },
+      {
+        "target": "601965 CH Equity",
+        "relation": 10720.0,
+        "source": "601127 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Guangdong Automotive Test Center Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Guangdong... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Sokon Industry Group Co Ltd",
+        "market_cap": "USD 1.86B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601127 CH Equity",
+        "type": "supplier1",
+        "size": 9.34384232467152,
+        "country": "CN"
+      },
+      {
+        "name": "China Automotive Engineering Research Institute Co Ltd",
+        "market_cap": "USD 1.13B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601965 CH Equity",
+        "type": "manufacturer",
+        "size": 8.843822810390183,
+        "country": "CN"
+      }
+    ]
+  }
+]

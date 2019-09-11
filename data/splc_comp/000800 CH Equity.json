@@ -1,0 +1,5730 @@
+[
+  {
+    "links": [
+      {
+        "target": "000800 CH Equity",
+        "relation": 306940000.0,
+        "source": "CHFAWZ CH Equity",
+        "score": 2.9084325699938374
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 122210000.0,
+        "source": "0180583D CH Equity",
+        "score": 2.7242502885193636
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 85990000.0,
+        "source": "TEN US Equity",
+        "score": 2.6539483160032673
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 11790000.0,
+        "source": "Faw Lujie... Equity",
+        "score": 2.256552471466238
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 39360000.0,
+        "source": "600742 CH Equity",
+        "score": 2.4976521311109665
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 21500000.0,
+        "source": "200030 CH Equity",
+        "score": 2.3767127079219037
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 19240000.0,
+        "source": "FAWERZ CH Equity",
+        "score": 2.354500411035377
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 17120000.0,
+        "source": "Changchun ffjca... Equity",
+        "score": 2.3311515974178163
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 17220000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.3323164230071733
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 227190.0,
+        "source": "6301 JP Equity",
+        "score": 1.4667092704736948
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 13860000.0,
+        "source": "Changchun bsmt... Equity",
+        "score": 2.2889035247752205
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 13240000.0,
+        "source": "7950518Z CH Equity",
+        "score": 2.2797506368003666
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 10530000.0,
+        "source": "1573026D CH Equity",
+        "score": 2.233947795815383
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 10220000.0,
+        "source": "CON GR Equity",
+        "score": 2.2279714481174375
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9310000.0,
+        "source": "002048 CH Equity",
+        "score": 2.209319951332926
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 8520000.0,
+        "source": "CMI US Equity",
+        "score": 2.191585403235277
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1350000.0,
+        "source": "Changchun fil... Equity",
+        "score": 1.8231231782310156
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 110470.0,
+        "source": "KU2 GR Equity",
+        "score": 1.322501664411345
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 5800000.0,
+        "source": "FAWFFZ CH Equity",
+        "score": 2.114673729586085
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 5040000.0,
+        "source": "6473 JP Equity",
+        "score": 2.0865833676920458
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 860440.0,
+        "source": "1477057D CH Equity",
+        "score": 1.7330400654990288
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 4410000.0,
+        "source": "Faw Mould... Equity",
+        "score": 2.0598770948360743
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3980000.0,
+        "source": "TKA GR Equity",
+        "score": 2.039358525703374
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3470000.0,
+        "source": "FR FP Equity",
+        "score": 2.011933088021488
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3150000.0,
+        "source": "MG CN Equity",
+        "score": 1.9925826656524164
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3190000.0,
+        "source": "EO FP Equity",
+        "score": 1.9951063576481203
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2830000.0,
+        "source": "7276 JP Equity",
+        "score": 1.9711575245952497
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2640000.0,
+        "source": "WBC US Equity",
+        "score": 1.9572579707820612
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2330000.0,
+        "source": "APTV US Equity",
+        "score": 1.9322758509452678
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2310000.0,
+        "source": "BWA US Equity",
+        "score": 1.9305517030796628
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2250000.0,
+        "source": "LEA US Equity",
+        "score": 1.9252882437249896
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2140000.0,
+        "source": "2105 TT Equity",
+        "score": 1.915263370857529
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1960000.0,
+        "source": "Changchun fbspd... Equity",
+        "score": 1.8976911082821304
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1390000.0,
+        "source": "HON US Equity",
+        "score": 1.8289630049062149
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1690000.0,
+        "source": "XVWJIZ CH Equity",
+        "score": 1.8680479357230118
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 27340.0,
+        "source": "CMCO US Equity",
+        "score": 1.0432285372107617
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1770000.0,
+        "source": "012330 KS Equity",
+        "score": 1.8772981339043207
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 302350.0,
+        "source": "Changchun1... Equity",
+        "score": 1.5238687746242117
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 298500.0,
+        "source": "7934605Z CH Equity",
+        "score": 1.5213057123785871
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1580000.0,
+        "source": "FAW Autom... Equity",
+        "score": 1.8545872075828682
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1580000.0,
+        "source": "FAWVOZ CH Equity",
+        "score": 1.8545872075828682
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1660000.0,
+        "source": "0180917D CH Equity",
+        "score": 1.8644657525484365
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1470000.0,
+        "source": "TOWR US Equity",
+        "score": 1.8401547278053592
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1460000.0,
+        "source": "7312 JP Equity",
+        "score": 1.838789535723158
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 260090.0,
+        "source": "PTC US Equity",
+        "score": 1.4937573697523905
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1160000.0,
+        "source": "INTC US Equity",
+        "score": 1.7927862850302283
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 205500.0,
+        "source": "Hainan Tr... Equity",
+        "score": 1.446641235817327
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1090000.0,
+        "source": "ADJRZZ CH Equity",
+        "score": 1.7803378343272196
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1200000.0,
+        "source": "ORCL US Equity",
+        "score": 1.7995665896182431
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 952300.0,
+        "source": "ALSN US Equity",
+        "score": 1.7533272880541686
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 962000.0,
+        "source": "3116 JP Equity",
+        "score": 1.7553541538296686
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 587700.0,
+        "source": "SKFB SS Equity",
+        "score": 1.6567947188295404
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 11860.0,
+        "source": "7722 JP Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 818250.0,
+        "source": "NEMAKA MM Equity",
+        "score": 1.7229848828966121
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 30360.0,
+        "source": "Changchun4... Equity",
+        "score": 1.0641828338087072
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 629590.0,
+        "source": "MOD US Equity",
+        "score": 1.670565136238563
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 622780.0,
+        "source": "ALV US Equity",
+        "score": 1.6683900422181241
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 583950.0,
+        "source": "POM FP Equity",
+        "score": 1.6555144708361258
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 531320.0,
+        "source": "DAN US Equity",
+        "score": 1.636624327469923
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 481870.0,
+        "source": "AXL US Equity",
+        "score": 1.6170863444714731
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 470840.0,
+        "source": "6444 JP Equity",
+        "score": 1.6124551472775788
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 420000.0,
+        "source": "8106906Z CH Equity",
+        "score": 1.5896024742418193
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 390410.0,
+        "source": "FAWJIZ CH Equity",
+        "score": 1.574991061870728
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 401940.0,
+        "source": "1512 TT Equity",
+        "score": 1.580812118132159
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 390490.0,
+        "source": "7247 JP Equity",
+        "score": 1.5750320401242246
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 56490.0,
+        "source": "ABPEKZ CH Equity",
+        "score": 1.1883673224821623
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 311330.0,
+        "source": "KOA NO Equity",
+        "score": 1.5297223867736207
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 302720.0,
+        "source": "002232 CH Equity",
+        "score": 1.5241133736445716
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 275540.0,
+        "source": "6985 JP Equity",
+        "score": 1.5052983433658276
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 11000.0,
+        "source": "0466363D CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 244790.0,
+        "source": "000927 CH Equity",
+        "score": 1.4816320128477174
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 227870.0,
+        "source": "ADNT US Equity",
+        "score": 1.467306991668726
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 221440.0,
+        "source": "ATU US Equity",
+        "score": 1.4615822934594398
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 175670.0,
+        "source": "STAJMZ CH Equity",
+        "score": 1.415273641296566
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 152140.0,
+        "source": "CPS US Equity",
+        "score": 1.3865126002846155
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 129090.0,
+        "source": "VC US Equity",
+        "score": 1.3536545722008357
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 93140.0,
+        "source": "0388362D CH Equity",
+        "score": 1.2883739506008784
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 11890.0,
+        "source": "002009 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 54150.0,
+        "source": "STRT US Equity",
+        "score": 1.1799063438958606
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 29950.0,
+        "source": "Changchun3... Equity",
+        "score": 1.0614635983935665
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1300.0,
+        "source": "0478818D CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 11280.0,
+        "source": "TFYMCZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 10960.0,
+        "source": "VOW GR Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China FAW Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CHFAWZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Faw Group Import & Export Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0180583D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Faw Lujie logistics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Faw Lujie... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faway Automobile Components Co Ltd",
+        "market_cap": "USD 886.0M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600742 CH Equity",
+        "type": "supplier1",
+        "size": 8.602227508569356,
+        "country": "CN"
+      },
+      {
+        "name": "FAWER Automotive Parts Co Ltd",
+        "market_cap": "USD 1.36B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200030 CH Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "CN"
+      },
+      {
+        "name": "FAWER Automotive Parts Ltd Co/Old",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWERZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun FAW Fuwei Johnson Controls Automotive Metal Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun ffjca... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Komatsu Ltd",
+        "market_cap": "USD 21.46B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6301 JP Equity",
+        "type": "supplier1",
+        "size": 11.789456574148964,
+        "country": "JP"
+      },
+      {
+        "name": "Changchun Baosteel Steel Material Trading Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun bsmt... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faway-Johnson Controls Automotive Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7950518Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Fawsn Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1573026D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 30.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.14132033567499,
+        "country": "DE"
+      },
+      {
+        "name": "Ningbo Huaxiang Electronic Co Ltd",
+        "market_cap": "USD 1.12B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002048 CH Equity",
+        "type": "supplier1",
+        "size": 8.836594522253414,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 26.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.983283605145786,
+        "country": "US"
+      },
+      {
+        "name": "Changchun FAW International Logistics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun fil... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.47B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.627483987586299,
+        "country": "DE"
+      },
+      {
+        "name": "Faw Foundry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWFFZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "JTEKT Corp",
+        "market_cap": "USD 3.98B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6473 JP Equity",
+        "type": "supplier1",
+        "size": 10.104547656242758,
+        "country": "JP"
+      },
+      {
+        "name": "Sanguard Automobile Insurance Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1477057D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Faw Mould Manufacturing Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Faw Mould... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 9.84B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 11.009721548010575,
+        "country": "DE"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.71B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.76578402452165,
+        "country": "FR"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 15.37B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.455683394496916,
+        "country": "CA"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.12B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.534827933470645,
+        "country": "FR"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.71B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.887737627810822,
+        "country": "JP"
+      },
+      {
+        "name": "WABCO Holdings Inc",
+        "market_cap": "USD 6.77B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WBC US Equity",
+        "type": "supplier1",
+        "size": 10.635766923870595,
+        "country": "US"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.714487955022516,
+        "country": "IE"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.98B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.800204248408129,
+        "country": "US"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.891176026613856,
+        "country": "US"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.16B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.148780911219582,
+        "country": "TW"
+      },
+      {
+        "name": "Changchun Faw Baoyou Steel Processing & Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun fbspd... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 125.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.551659571048884,
+        "country": "US"
+      },
+      {
+        "name": "FAW Jilin Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "XVWJIZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 868.33M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.58208238470467,
+        "country": "US"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 18.09B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.618625136353614,
+        "country": "KR"
+      },
+      {
+        "name": "Changchun Automobile Economic & Technology Development Zone Sanitation Cleaning",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Faw Group Corp R&D Center",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7934605Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "FAW Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAW Autom... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "FAW Volkswagen Automotive Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWVOZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun FAW United Die-Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0180917D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 425.36M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.868446427160357,
+        "country": "US"
+      },
+      {
+        "name": "TKJP Corp",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7312 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 10.07B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.032826543676883,
+        "country": "US"
+      },
+      {
+        "name": "Intel Corp",
+        "market_cap": "USD 206.84B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "INTC US Equity",
+        "type": "supplier1",
+        "size": 14.055211384474433,
+        "country": "US"
+      },
+      {
+        "name": "Hainan Tropical Automobile Test Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Hainan Tr... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faway High New Automotive Accessories Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADJRZZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Oracle Corp",
+        "market_cap": "USD 186.77B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ORCL US Equity",
+        "type": "supplier1",
+        "size": 13.953143750271927,
+        "country": "US"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "US"
+      },
+      {
+        "name": "Toyota Boshoku Corp",
+        "market_cap": "USD 2.46B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "3116 JP Equity",
+        "type": "supplier1",
+        "size": 9.623427186890684,
+        "country": "JP"
+      },
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.65B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.757971484784857,
+        "country": "SE"
+      },
+      {
+        "name": "Kokusai Co Ltd",
+        "market_cap": "USD 94.64M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7722 JP Equity",
+        "type": "supplier1",
+        "size": 6.365590777634406,
+        "country": "JP"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.52B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.141976171804597,
+        "country": "MX"
+      },
+      {
+        "name": "Changchun FAW Communication Science & Technology Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun4... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Modine Manufacturing Co",
+        "market_cap": "USD 674.37M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MOD US Equity",
+        "type": "supplier1",
+        "size": 8.329289479676714,
+        "country": "US"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.596605293166888,
+        "country": "SE"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.96B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.099509862212802,
+        "country": "FR"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.46B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.623427186890684,
+        "country": "US"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "US"
+      },
+      {
+        "name": "Sanden Holdings Corp",
+        "market_cap": "USD 164.79M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6444 JP Equity",
+        "type": "supplier1",
+        "size": 6.920182493986914,
+        "country": "JP"
+      },
+      {
+        "name": "Changchun Mekra-Lang Automobile Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "8106906Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Faw Jiefang Automotive Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWJIZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 33.48M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.326458803585549,
+        "country": "TW"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 140.63M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.761642885846431,
+        "country": "JP"
+      },
+      {
+        "name": "Changchun FAW Comprehensive Utilization Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPEKZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 397.85M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.801585607787818,
+        "country": "CH"
+      },
+      {
+        "name": "Qiming Information Technology Co Ltd",
+        "market_cap": "USD 499.9M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002232 CH Equity",
+        "type": "supplier1",
+        "size": 8.029918636383798,
+        "country": "CN"
+      },
+      {
+        "name": "U-Shin Ltd",
+        "market_cap": "USD 303.16M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6985 JP Equity",
+        "type": "supplier1",
+        "size": 7.529771276908104,
+        "country": "JP"
+      },
+      {
+        "name": "Mi Ninth Design & Research Institute Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0466363D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tianjin Faw Xiali Automobile Co Ltd",
+        "market_cap": "USD 1.07B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000927 CH Equity",
+        "type": "supplier1",
+        "size": 8.790924485420227,
+        "country": "CN"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.51B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "US"
+      },
+      {
+        "name": "Sichuan FAW Toyota Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "STAJMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 920.63M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.640568776259428,
+        "country": "US"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.282881624881835,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Visteon Faway Automotive Electronics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0388362D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Miracle Automation Engineering Co Ltd",
+        "market_cap": "USD 498.48M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002009 CH Equity",
+        "type": "supplier1",
+        "size": 8.02707402620024,
+        "country": "CN"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 105.89M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.477911377406638,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Faw Anjin Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun FAW Landi Automatic Engineering Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0478818D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tianjin FAW Toyota Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "TFYMCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Volkswagen AG",
+        "market_cap": "USD 86.12B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOW GR Equity",
+        "type": "supplier1",
+        "size": 13.179007509442574,
+        "country": "DE"
+      },
+      {
+        "name": "FAW CAR Co Ltd",
+        "market_cap": "USD 2.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000800 CH Equity",
+        "type": "manufacturer",
+        "size": 9.455826019863192,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000800 CH Equity",
+        "relation": 200530000.0,
+        "source": "CHFAWZ CH Equity",
+        "score": 2.823294884888
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 122210000.0,
+        "source": "0180583D CH Equity",
+        "score": 2.7242502885193636
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 99700000.0,
+        "source": "TEN US Equity",
+        "score": 2.683535248992431
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 11790000.0,
+        "source": "Faw Lujie... Equity",
+        "score": 2.256552471466238
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 932140.0,
+        "source": "1477057D CH Equity",
+        "score": 1.7490478739557136
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 41280000.0,
+        "source": "600742 CH Equity",
+        "score": 2.5071777406724776
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 22760000.0,
+        "source": "200030 CH Equity",
+        "score": 2.388103042231827
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 19240000.0,
+        "source": "FAWERZ CH Equity",
+        "score": 2.354500411035377
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 21740000.0,
+        "source": "7950518Z CH Equity",
+        "score": 2.3789328971310995
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 19070000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.352725406002997
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 227190.0,
+        "source": "6301 JP Equity",
+        "score": 1.4667092704736948
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 13860000.0,
+        "source": "Changchun bsmt... Equity",
+        "score": 2.2889035247752205
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 10360000.0,
+        "source": "1573026D CH Equity",
+        "score": 2.230692578264141
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9310000.0,
+        "source": "002048 CH Equity",
+        "score": 2.209319951332926
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 8800000.0,
+        "source": "CMI US Equity",
+        "score": 2.1980524786169586
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9170000.0,
+        "source": "CON GR Equity",
+        "score": 2.206289590656779
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1350000.0,
+        "source": "Changchun fil... Equity",
+        "score": 1.8231231782310156
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 5800000.0,
+        "source": "FAWFFZ CH Equity",
+        "score": 2.114673729586085
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 87520.0,
+        "source": "KU2 GR Equity",
+        "score": 1.2759268087100626
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 4820000.0,
+        "source": "6473 JP Equity",
+        "score": 2.0776569386991284
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 4410000.0,
+        "source": "Faw Mould... Equity",
+        "score": 2.0598770948360743
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3780000.0,
+        "source": "MG CN Equity",
+        "score": 2.0290469664292
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3470000.0,
+        "source": "FR FP Equity",
+        "score": 2.011933088021488
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3600000.0,
+        "source": "TKA GR Equity",
+        "score": 2.0192889362408155
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3110000.0,
+        "source": "EO FP Equity",
+        "score": 1.9900267211397549
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2870000.0,
+        "source": "7276 JP Equity",
+        "score": 1.9739645872335596
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2670000.0,
+        "source": "WBC US Equity",
+        "score": 1.9595178809816396
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2290000.0,
+        "source": "HON US Equity",
+        "score": 1.9288125624423098
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2130000.0,
+        "source": "2105 TT Equity",
+        "score": 1.914326601433813
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 389800.0,
+        "source": "ABPEKZ CH Equity",
+        "score": 1.574678326294094
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1960000.0,
+        "source": "Changchun fbspd... Equity",
+        "score": 1.8976911082821304
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2280000.0,
+        "source": "BWA US Equity",
+        "score": 1.9279372879054035
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2030000.0,
+        "source": "1074506D CH Equity",
+        "score": 1.9047093687257375
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1690000.0,
+        "source": "XVWJIZ CH Equity",
+        "score": 1.8680479357230118
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 27340.0,
+        "source": "CMCO US Equity",
+        "score": 1.0432285372107617
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1900000.0,
+        "source": "600019 CH Equity",
+        "score": 1.891472994090464
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 298500.0,
+        "source": "7934605Z CH Equity",
+        "score": 1.5213057123785871
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1580000.0,
+        "source": "FAW Autom... Equity",
+        "score": 1.8545872075828682
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1580000.0,
+        "source": "FAWVOZ CH Equity",
+        "score": 1.8545872075828682
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1680000.0,
+        "source": "012330 KS Equity",
+        "score": 1.866860989323472
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1950000.0,
+        "source": "APTV US Equity",
+        "score": 1.8966680886720622
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 288120.0,
+        "source": "Changchun1... Equity",
+        "score": 1.5142271619546683
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1640000.0,
+        "source": "0180917D CH Equity",
+        "score": 1.8620414819112585
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1460000.0,
+        "source": "7312 JP Equity",
+        "score": 1.838789535723158
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1280000.0,
+        "source": "ALV US Equity",
+        "score": 1.8124742834290988
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1280000.0,
+        "source": "LEA US Equity",
+        "score": 1.8124742834290988
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1310000.0,
+        "source": "POM FP Equity",
+        "score": 1.8171076917071645
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 255980.0,
+        "source": "PTC US Equity",
+        "score": 1.4905717003914702
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1160000.0,
+        "source": "INTC US Equity",
+        "score": 1.7927862850302283
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1170000.0,
+        "source": "002232 CH Equity",
+        "score": 1.7945030322948856
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1040000.0,
+        "source": "ALSN US Equity",
+        "score": 1.770946446531111
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 987440.0,
+        "source": "NEMAKA MM Equity",
+        "score": 1.7605744054274117
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 956700.0,
+        "source": "3116 JP Equity",
+        "score": 1.7542492373850918
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 898120.0,
+        "source": "ORCL US Equity",
+        "score": 1.7416120164164948
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 10720.0,
+        "source": "7722 JP Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 687650.0,
+        "source": "TOWR US Equity",
+        "score": 1.688207344153993
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 684700.0,
+        "source": "TIFS LN Equity",
+        "score": 1.6873475051203473
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 30360.0,
+        "source": "Changchun4... Equity",
+        "score": 1.0641828338087072
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 702830.0,
+        "source": "AADPQZ CH Equity",
+        "score": 1.6925743487198939
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 630310.0,
+        "source": "MOD US Equity",
+        "score": 1.6707937254711793
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 517150.0,
+        "source": "DAN US Equity",
+        "score": 1.631218036095806
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 463920.0,
+        "source": "6444 JP Equity",
+        "score": 1.609493911618412
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 455900.0,
+        "source": "AXL US Equity",
+        "score": 1.6060061919325213
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 420000.0,
+        "source": "8106906Z CH Equity",
+        "score": 1.5896024742418193
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 390410.0,
+        "source": "FAWJIZ CH Equity",
+        "score": 1.574991061870728
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 398030.0,
+        "source": "7247 JP Equity",
+        "score": 1.5788570341361172
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 401940.0,
+        "source": "1512 TT Equity",
+        "score": 1.580812118132159
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 374860.0,
+        "source": "CPS US Equity",
+        "score": 1.5668621139144023
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 310930.0,
+        "source": "ADNT US Equity",
+        "score": 1.5294652603187866
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 303950.0,
+        "source": "KOA NO Equity",
+        "score": 1.5249243566372526
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 275540.0,
+        "source": "6985 JP Equity",
+        "score": 1.5052983433658276
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 11000.0,
+        "source": "0466363D CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 270240.0,
+        "source": "Changchun2... Equity",
+        "score": 1.5014138864898454
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 225010.0,
+        "source": "ATU US Equity",
+        "score": 1.4647809137760843
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 175670.0,
+        "source": "STAJMZ CH Equity",
+        "score": 1.415273641296566
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 127920.0,
+        "source": "VC US Equity",
+        "score": 1.351833632972629
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 133790.0,
+        "source": "000927 CH Equity",
+        "score": 1.3608068319679822
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 93140.0,
+        "source": "0388362D CH Equity",
+        "score": 1.2883739506008784
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 16030.0,
+        "source": "5801 JP Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 14630.0,
+        "source": "002009 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 52470.0,
+        "source": "STRT US Equity",
+        "score": 1.1736031830017541
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1300.0,
+        "source": "0478818D CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 21540.0,
+        "source": "Changchun3... Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 11280.0,
+        "source": "TFYMCZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 19710.0,
+        "source": "VOW GR Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China FAW Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CHFAWZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Faw Group Import & Export Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0180583D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.06B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.781534745070388,
+        "country": "US"
+      },
+      {
+        "name": "Faw Lujie logistics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Faw Lujie... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Sanguard Automobile Insurance Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1477057D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faway Automobile Components Co Ltd",
+        "market_cap": "USD 859.28M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600742 CH Equity",
+        "type": "supplier1",
+        "size": 8.571605387254067,
+        "country": "CN"
+      },
+      {
+        "name": "FAWER Automotive Parts Co Ltd",
+        "market_cap": "USD 1.32B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200030 CH Equity",
+        "type": "supplier1",
+        "size": 9.000897573544691,
+        "country": "CN"
+      },
+      {
+        "name": "FAWER Automotive Parts Ltd Co/Old",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWERZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faway-Johnson Controls Automotive Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7950518Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Komatsu Ltd",
+        "market_cap": "USD 21.16B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6301 JP Equity",
+        "type": "supplier1",
+        "size": 11.77537844393651,
+        "country": "JP"
+      },
+      {
+        "name": "Changchun Baosteel Steel Material Trading Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun bsmt... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Fawsn Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1573026D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Ningbo Huaxiang Electronic Co Ltd",
+        "market_cap": "USD 1.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002048 CH Equity",
+        "type": "supplier1",
+        "size": 8.80022687808254,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.32B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.954860434222386,
+        "country": "US"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 28.84B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.085029149363159,
+        "country": "DE"
+      },
+      {
+        "name": "Changchun FAW International Logistics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun fil... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Faw Foundry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWFFZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.39B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.59455920288983,
+        "country": "DE"
+      },
+      {
+        "name": "JTEKT Corp",
+        "market_cap": "USD 3.83B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6473 JP Equity",
+        "type": "supplier1",
+        "size": 10.066130640138965,
+        "country": "JP"
+      },
+      {
+        "name": "Faw Mould Manufacturing Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Faw Mould... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.71B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.411793371559757,
+        "country": "CA"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.739501302722456,
+        "country": "FR"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 8.87B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 10.9059406332679,
+        "country": "DE"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "FR"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.28B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.83710880534358,
+        "country": "JP"
+      },
+      {
+        "name": "WABCO Holdings Inc",
+        "market_cap": "USD 6.71B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WBC US Equity",
+        "type": "supplier1",
+        "size": 10.626864787930003,
+        "country": "US"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 122.48B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.531213588295838,
+        "country": "US"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.03B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.117032212905002,
+        "country": "TW"
+      },
+      {
+        "name": "Changchun FAW Comprehensive Utilization Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPEKZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faw Baoyou Steel Processing & Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun fbspd... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.747458904395767,
+        "country": "US"
+      },
+      {
+        "name": "Yanfeng Visteon Investment Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1074506D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "FAW Jilin Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "XVWJIZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 824.89M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.530760602075944,
+        "country": "US"
+      },
+      {
+        "name": "Baoshan Iron & Steel Co Ltd",
+        "market_cap": "USD 21.61B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600019 CH Equity",
+        "type": "supplier1",
+        "size": 11.796422007465207,
+        "country": "CN"
+      },
+      {
+        "name": "China Faw Group Corp R&D Center",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7934605Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "FAW Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAW Autom... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "FAW Volkswagen Automotive Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWVOZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 17.38B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.578585956783659,
+        "country": "KR"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.681815319372685,
+        "country": "IE"
+      },
+      {
+        "name": "Changchun Automobile Economic & Technology Development Zone Sanitation Cleaning",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun FAW United Die-Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0180917D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "TKJP Corp",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7312 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.26B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.557446022058418,
+        "country": "SE"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.49B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.862154837269667,
+        "country": "US"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.84B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.068738203546047,
+        "country": "FR"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 9.83B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.008704771105485,
+        "country": "US"
+      },
+      {
+        "name": "Intel Corp",
+        "market_cap": "USD 202.23B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "INTC US Equity",
+        "type": "supplier1",
+        "size": 14.032671500479868,
+        "country": "US"
+      },
+      {
+        "name": "Qiming Information Technology Co Ltd",
+        "market_cap": "USD 488.94M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002232 CH Equity",
+        "type": "supplier1",
+        "size": 8.007750340524456,
+        "country": "CN"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.53B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.433453652480654,
+        "country": "US"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.54B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.155048253371948,
+        "country": "MX"
+      },
+      {
+        "name": "Toyota Boshoku Corp",
+        "market_cap": "USD 2.43B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "3116 JP Equity",
+        "type": "supplier1",
+        "size": 9.611157094298868,
+        "country": "JP"
+      },
+      {
+        "name": "Oracle Corp",
+        "market_cap": "USD 185.0B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ORCL US Equity",
+        "type": "supplier1",
+        "size": 13.943621662024736,
+        "country": "US"
+      },
+      {
+        "name": "Kokusai Co Ltd",
+        "market_cap": "USD 93.48M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7722 JP Equity",
+        "type": "supplier1",
+        "size": 6.353258067634933,
+        "country": "JP"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 410.05M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.831789661446695,
+        "country": "US"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.33B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 9.008444779180074,
+        "country": "GB"
+      },
+      {
+        "name": "Changchun FAW Communication Science & Technology Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun4... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Mann Hummel Fawer Filter Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AADPQZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Modine Manufacturing Co",
+        "market_cap": "USD 681.96M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MOD US Equity",
+        "type": "supplier1",
+        "size": 8.340481563061303,
+        "country": "US"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.590366324629795,
+        "country": "US"
+      },
+      {
+        "name": "Sanden Holdings Corp",
+        "market_cap": "USD 160.46M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6444 JP Equity",
+        "type": "supplier1",
+        "size": 6.893555248289783,
+        "country": "JP"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.34B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.015935450909232,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Mekra-Lang Automobile Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "8106906Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Faw Jiefang Automotive Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "FAWJIZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 119.84M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.6016680777331835,
+        "country": "JP"
+      },
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 31.83M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.275919799258276,
+        "country": "TW"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 864.73M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.577927877442399,
+        "country": "US"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.94B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.385953810021647,
+        "country": "US"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 384.0M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.7661531105520005,
+        "country": "CH"
+      },
+      {
+        "name": "U-Shin Ltd",
+        "market_cap": "USD 302.88M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6985 JP Equity",
+        "type": "supplier1",
+        "size": 7.528847245425286,
+        "country": "JP"
+      },
+      {
+        "name": "Mi Ninth Design & Research Institute Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0466363D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Fawer Meikelang Auto Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.49B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.122041956903779,
+        "country": "US"
+      },
+      {
+        "name": "Sichuan FAW Toyota Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "STAJMZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.59B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.186999853178552,
+        "country": "US"
+      },
+      {
+        "name": "Tianjin Faw Xiali Automobile Co Ltd",
+        "market_cap": "USD 1.04B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000927 CH Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Visteon Faway Automotive Electronics Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0388362D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Furukawa Electric Co Ltd",
+        "market_cap": "USD 1.67B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5801 JP Equity",
+        "type": "supplier1",
+        "size": 9.236089463375073,
+        "country": "JP"
+      },
+      {
+        "name": "Miracle Automation Engineering Co Ltd",
+        "market_cap": "USD 479.03M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002009 CH Equity",
+        "type": "supplier1",
+        "size": 7.98727378389415,
+        "country": "CN"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 102.17M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.442148650567606,
+        "country": "US"
+      },
+      {
+        "name": "Changchun FAW Landi Automatic Engineering Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0478818D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faw Anjin Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tianjin FAW Toyota Motor Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "TFYMCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Volkswagen AG",
+        "market_cap": "USD 84.22B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOW GR Equity",
+        "type": "supplier1",
+        "size": 13.156698259680194,
+        "country": "DE"
+      },
+      {
+        "name": "FAW CAR Co Ltd",
+        "market_cap": "USD 2.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000800 CH Equity",
+        "type": "manufacturer",
+        "size": 9.455826019863192,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000800 CH Equity",
+        "relation": 200530000.0,
+        "source": "CHFAWZ CH Equity",
+        "score": 2.823294884888
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 99700000.0,
+        "source": "TEN US Equity",
+        "score": 2.683535248992431
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 932140.0,
+        "source": "1477057D CH Equity",
+        "score": 1.7490478739557136
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 41280000.0,
+        "source": "600742 CH Equity",
+        "score": 2.5071777406724776
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 23260000.0,
+        "source": "200030 CH Equity",
+        "score": 2.3924491496094107
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 21740000.0,
+        "source": "7950518Z CH Equity",
+        "score": 2.3789328971310995
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 23120000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.3912417290042094
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 227190.0,
+        "source": "6301 JP Equity",
+        "score": 1.4667092704736948
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 10360000.0,
+        "source": "1573026D CH Equity",
+        "score": 2.230692578264141
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9170000.0,
+        "source": "CON GR Equity",
+        "score": 2.206289590656779
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9610000.0,
+        "source": "CMI US Equity",
+        "score": 2.2156629770009486
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 6280000.0,
+        "source": "300392 CH Equity",
+        "score": 2.1305761395360077
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 87520.0,
+        "source": "KU2 GR Equity",
+        "score": 1.2759268087100626
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 5350000.0,
+        "source": "6473 JP Equity",
+        "score": 2.098521461157612
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3780000.0,
+        "source": "MG CN Equity",
+        "score": 2.0290469664292
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3600000.0,
+        "source": "TKA GR Equity",
+        "score": 2.0192889362408155
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3810000.0,
+        "source": "WBC US Equity",
+        "score": 2.030628001914008
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3110000.0,
+        "source": "EO FP Equity",
+        "score": 1.9900267211397549
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3050000.0,
+        "source": "FR FP Equity",
+        "score": 1.9861304952904786
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2980000.0,
+        "source": "7276 JP Equity",
+        "score": 1.9814868388104
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2670000.0,
+        "source": "2105 TT Equity",
+        "score": 1.9595178809816396
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 389800.0,
+        "source": "ABPEKZ CH Equity",
+        "score": 1.574678326294094
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1960000.0,
+        "source": "Changchun fbspd... Equity",
+        "score": 1.8976911082821304
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2290000.0,
+        "source": "HON US Equity",
+        "score": 1.9288125624423098
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2280000.0,
+        "source": "BWA US Equity",
+        "score": 1.9279372879054035
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2030000.0,
+        "source": "1074506D CH Equity",
+        "score": 1.9047093687257375
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1900000.0,
+        "source": "600019 CH Equity",
+        "score": 1.891472994090464
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1950000.0,
+        "source": "APTV US Equity",
+        "score": 1.8966680886720622
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1980000.0,
+        "source": "012330 KS Equity",
+        "score": 1.8997215815442194
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 35890.0,
+        "source": "CMCO US Equity",
+        "score": 1.09764836933359
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 288120.0,
+        "source": "Changchun1... Equity",
+        "score": 1.5142271619546683
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1640000.0,
+        "source": "0180917D CH Equity",
+        "score": 1.8620414819112585
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1550000.0,
+        "source": "LEA US Equity",
+        "score": 1.8507532268113023
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1520000.0,
+        "source": "INTC US Equity",
+        "score": 1.8468443101433958
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1470000.0,
+        "source": "ALSN US Equity",
+        "score": 1.8401547278053592
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1310000.0,
+        "source": "POM FP Equity",
+        "score": 1.8171076917071645
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1320000.0,
+        "source": "ALV US Equity",
+        "score": 1.8186286104276048
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 259400.0,
+        "source": "PTC US Equity",
+        "score": 1.493226081181433
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1090000.0,
+        "source": "ADJRZZ CH Equity",
+        "score": 1.7803378343272196
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1170000.0,
+        "source": "002232 CH Equity",
+        "score": 1.7945030322948856
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 987440.0,
+        "source": "NEMAKA MM Equity",
+        "score": 1.7605744054274117
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1140000.0,
+        "source": "3116 JP Equity",
+        "score": 1.7893079395126552
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 898120.0,
+        "source": "ORCL US Equity",
+        "score": 1.7416120164164948
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 10720.0,
+        "source": "7722 JP Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 794930.0,
+        "source": "TOWR US Equity",
+        "score": 1.7172021194833915
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 702830.0,
+        "source": "AADPQZ CH Equity",
+        "score": 1.6925743487198939
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 630310.0,
+        "source": "MOD US Equity",
+        "score": 1.6707937254711793
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 750410.0,
+        "source": "TIFS LN Equity",
+        "score": 1.7056752670830653
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 726520.0,
+        "source": "AXL US Equity",
+        "score": 1.6992045334574066
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 628980.0,
+        "source": "DAN US Equity",
+        "score": 1.6703712657098162
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 463920.0,
+        "source": "6444 JP Equity",
+        "score": 1.609493911618412
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 551270.0,
+        "source": "1512 TT Equity",
+        "score": 1.6439963600511365
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 420000.0,
+        "source": "8106906Z CH Equity",
+        "score": 1.5896024742418193
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 480960.0,
+        "source": "7247 JP Equity",
+        "score": 1.6167082929439136
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 374860.0,
+        "source": "CPS US Equity",
+        "score": 1.5668621139144023
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 310930.0,
+        "source": "ADNT US Equity",
+        "score": 1.5294652603187866
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 323900.0,
+        "source": "6985 JP Equity",
+        "score": 1.5376386385054603
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 270240.0,
+        "source": "Changchun2... Equity",
+        "score": 1.5014138864898454
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 298870.0,
+        "source": "KOA NO Equity",
+        "score": 1.5215534642299056
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 225010.0,
+        "source": "ATU US Equity",
+        "score": 1.4647809137760843
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 133790.0,
+        "source": "000927 CH Equity",
+        "score": 1.3608068319679822
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 105880.0,
+        "source": "VC US Equity",
+        "score": 1.3140142201901526
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 16030.0,
+        "source": "5801 JP Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 14630.0,
+        "source": "002009 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 52470.0,
+        "source": "STRT US Equity",
+        "score": 1.1736031830017541
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 21540.0,
+        "source": "Changchun3... Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 19710.0,
+        "source": "VOW GR Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China FAW Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CHFAWZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "Sanguard Automobile Insurance Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1477057D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faway Automobile Components Co Ltd",
+        "market_cap": "USD 829.14M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600742 CH Equity",
+        "type": "supplier1",
+        "size": 8.535899577007722,
+        "country": "CN"
+      },
+      {
+        "name": "FAWER Automotive Parts Co Ltd",
+        "market_cap": "USD 1.3B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200030 CH Equity",
+        "type": "supplier1",
+        "size": 8.985630101413904,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faway-Johnson Controls Automotive Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7950518Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Komatsu Ltd",
+        "market_cap": "USD 21.15B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6301 JP Equity",
+        "type": "supplier1",
+        "size": 11.774905742438698,
+        "country": "JP"
+      },
+      {
+        "name": "Changchun Fawsn Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1573026D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 28.63B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.077720956056435,
+        "country": "DE"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.94533655271113,
+        "country": "US"
+      },
+      {
+        "name": "Beijing Tensyn Digital Marketing Technology JSC",
+        "market_cap": "USD 530.6M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300392 CH Equity",
+        "type": "supplier1",
+        "size": 8.089518999667913,
+        "country": "CN"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.31B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "DE"
+      },
+      {
+        "name": "JTEKT Corp",
+        "market_cap": "USD 3.79B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6473 JP Equity",
+        "type": "supplier1",
+        "size": 10.055631856040748,
+        "country": "JP"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.47B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.395343377589803,
+        "country": "CA"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 8.7B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 10.88658886260695,
+        "country": "DE"
+      },
+      {
+        "name": "WABCO Holdings Inc",
+        "market_cap": "USD 6.69B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WBC US Equity",
+        "type": "supplier1",
+        "size": 10.623879711086548,
+        "country": "US"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.77B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.475937917466421,
+        "country": "FR"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.28B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.708396699155006,
+        "country": "FR"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.13B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.81882676050613,
+        "country": "JP"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.0B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.109560198066301,
+        "country": "TW"
+      },
+      {
+        "name": "Changchun FAW Comprehensive Utilization Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPEKZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faw Baoyou Steel Processing & Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun fbspd... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 123.79B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.54185241849013,
+        "country": "US"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.52B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.740831974908161,
+        "country": "US"
+      },
+      {
+        "name": "Yanfeng Visteon Investment Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1074506D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Baoshan Iron & Steel Co Ltd",
+        "market_cap": "USD 21.77B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600019 CH Equity",
+        "type": "supplier1",
+        "size": 11.803798712192869,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 16.91B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.5511709998569,
+        "country": "KR"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 821.86M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.527080622213283,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Automobile Economic & Technology Development Zone Sanitation Cleaning",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun FAW United Die-Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0180917D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.35B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.845527375809176,
+        "country": "US"
+      },
+      {
+        "name": "Intel Corp",
+        "market_cap": "USD 200.97B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "INTC US Equity",
+        "type": "supplier1",
+        "size": 14.026421480134697,
+        "country": "US"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.47B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.4225444533803,
+        "country": "US"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.76B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.047684794348214,
+        "country": "FR"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 5.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.51335724907377,
+        "country": "SE"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 9.99B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.024850429606872,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Faway High New Automotive Accessories Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ADJRZZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Qiming Information Technology Co Ltd",
+        "market_cap": "USD 477.72M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002232 CH Equity",
+        "type": "supplier1",
+        "size": 7.984535344764499,
+        "country": "CN"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.51B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "MX"
+      },
+      {
+        "name": "Toyota Boshoku Corp",
+        "market_cap": "USD 2.47B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "3116 JP Equity",
+        "type": "supplier1",
+        "size": 9.627483987586299,
+        "country": "JP"
+      },
+      {
+        "name": "Oracle Corp",
+        "market_cap": "USD 186.26B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ORCL US Equity",
+        "type": "supplier1",
+        "size": 13.950409384039922,
+        "country": "US"
+      },
+      {
+        "name": "Kokusai Co Ltd",
+        "market_cap": "USD 94.92M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7722 JP Equity",
+        "type": "supplier1",
+        "size": 6.368544989531838,
+        "country": "JP"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 405.91M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.821642018115654,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Mann Hummel Fawer Filter Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AADPQZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Modine Manufacturing Co",
+        "market_cap": "USD 654.63M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MOD US Equity",
+        "type": "supplier1",
+        "size": 8.299580748495423,
+        "country": "US"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 8.96228273741691,
+        "country": "GB"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 8.99329297415947,
+        "country": "US"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "US"
+      },
+      {
+        "name": "Sanden Holdings Corp",
+        "market_cap": "USD 143.97M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6444 JP Equity",
+        "type": "supplier1",
+        "size": 6.7851155025025385,
+        "country": "JP"
+      },
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 29.1M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.1862487321417206,
+        "country": "TW"
+      },
+      {
+        "name": "Changchun Mekra-Lang Automobile Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "8106906Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 119.54M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.599161601360382,
+        "country": "JP"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 795.87M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.494946413888137,
+        "country": "US"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "U-Shin Ltd",
+        "market_cap": "USD 302.11M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6985 JP Equity",
+        "type": "supplier1",
+        "size": 7.5263017474310345,
+        "country": "JP"
+      },
+      {
+        "name": "Changchun Fawer Meikelang Auto Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 391.18M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.784678370073646,
+        "country": "CH"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.48B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.115307924722433,
+        "country": "US"
+      },
+      {
+        "name": "Tianjin Faw Xiali Automobile Co Ltd",
+        "market_cap": "USD 1.01B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000927 CH Equity",
+        "type": "supplier1",
+        "size": 8.73321616779958,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "US"
+      },
+      {
+        "name": "Furukawa Electric Co Ltd",
+        "market_cap": "USD 1.82B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5801 JP Equity",
+        "type": "supplier1",
+        "size": 9.322102338035116,
+        "country": "JP"
+      },
+      {
+        "name": "Miracle Automation Engineering Co Ltd",
+        "market_cap": "USD 466.49M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002009 CH Equity",
+        "type": "supplier1",
+        "size": 7.960747141794691,
+        "country": "CN"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 102.17M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.442148650567606,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Faw Anjin Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Volkswagen AG",
+        "market_cap": "USD 82.86B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOW GR Equity",
+        "type": "supplier1",
+        "size": 13.140418273595667,
+        "country": "DE"
+      },
+      {
+        "name": "FAW CAR Co Ltd",
+        "market_cap": "USD 2.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000800 CH Equity",
+        "type": "manufacturer",
+        "size": 9.455826019863192,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000800 CH Equity",
+        "relation": 199090000.0,
+        "source": "CHFAWZ CH Equity",
+        "score": 2.821853509355767
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 41100000.0,
+        "source": "600742 CH Equity",
+        "score": 2.506303740759473
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 23120000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.3912417290042094
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9350000.0,
+        "source": "CON GR Equity",
+        "score": 2.2101774016433473
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9610000.0,
+        "source": "CMI US Equity",
+        "score": 2.2156629770009486
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 87520.0,
+        "source": "KU2 GR Equity",
+        "score": 1.2759268087100626
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 4680000.0,
+        "source": "TKA GR Equity",
+        "score": 2.071761776313804
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3810000.0,
+        "source": "WBC US Equity",
+        "score": 2.030628001914008
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3050000.0,
+        "source": "FR FP Equity",
+        "score": 1.9861304952904786
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2670000.0,
+        "source": "2105 TT Equity",
+        "score": 1.9595178809816396
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1960000.0,
+        "source": "Changchun fbspd... Equity",
+        "score": 1.8976911082821304
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2020000.0,
+        "source": "APTV US Equity",
+        "score": 1.9037217128853543
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1980000.0,
+        "source": "012330 KS Equity",
+        "score": 1.8997215815442194
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1570000.0,
+        "source": "HON US Equity",
+        "score": 1.8533173628533928
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1550000.0,
+        "source": "LEA US Equity",
+        "score": 1.8507532268113023
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1440000.0,
+        "source": "0180917D CH Equity",
+        "score": 1.8360308731992774
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1300000.0,
+        "source": "NEMAKA MM Equity",
+        "score": 1.8155751183324478
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 259400.0,
+        "source": "PTC US Equity",
+        "score": 1.493226081181433
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1300000.0,
+        "source": "EO FP Equity",
+        "score": 1.8155751183324478
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1140000.0,
+        "source": "3116 JP Equity",
+        "score": 1.7893079395126552
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 898120.0,
+        "source": "ORCL US Equity",
+        "score": 1.7416120164164948
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 794930.0,
+        "source": "TOWR US Equity",
+        "score": 1.7172021194833915
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 726520.0,
+        "source": "AXL US Equity",
+        "score": 1.6992045334574066
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 628980.0,
+        "source": "DAN US Equity",
+        "score": 1.6703712657098162
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 523380.0,
+        "source": "6444 JP Equity",
+        "score": 1.6336129934622283
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 473500.0,
+        "source": "CPS US Equity",
+        "score": 1.6135818607076917
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 407720.0,
+        "source": "AADPQZ CH Equity",
+        "score": 1.5836676791885869
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 323900.0,
+        "source": "6985 JP Equity",
+        "score": 1.5376386385054603
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 298870.0,
+        "source": "KOA NO Equity",
+        "score": 1.5215534642299056
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 187170.0,
+        "source": "AAXVPZ CH Equity",
+        "score": 1.427955583299044
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9280.0,
+        "source": "ABPEKZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 21540.0,
+        "source": "Changchun3... Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 17640.0,
+        "source": "VOW GR Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2030.0,
+        "source": "5801 JP Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China FAW Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CHFAWZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faway Automobile Components Co Ltd",
+        "market_cap": "USD 829.85M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600742 CH Equity",
+        "type": "supplier1",
+        "size": 8.536755519531003,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 28.62B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.077371611074717,
+        "country": "DE"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.94533655271113,
+        "country": "US"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.31B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "DE"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 8.69B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 10.885438776223712,
+        "country": "DE"
+      },
+      {
+        "name": "WABCO Holdings Inc",
+        "market_cap": "USD 6.69B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WBC US Equity",
+        "type": "supplier1",
+        "size": 10.623879711086548,
+        "country": "US"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.28B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.708396699155006,
+        "country": "FR"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 3.99B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.107057067848181,
+        "country": "TW"
+      },
+      {
+        "name": "Changchun Faw Baoyou Steel Processing & Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun fbspd... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 16.93B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.552353033091457,
+        "country": "KR"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 123.79B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.54185241849013,
+        "country": "US"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.35B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.845527375809176,
+        "country": "US"
+      },
+      {
+        "name": "Changchun FAW United Die-Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0180917D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.52B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.141976171804597,
+        "country": "MX"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 9.99B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.024850429606872,
+        "country": "US"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.77B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.475937917466421,
+        "country": "FR"
+      },
+      {
+        "name": "Toyota Boshoku Corp",
+        "market_cap": "USD 2.46B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "3116 JP Equity",
+        "type": "supplier1",
+        "size": 9.623427186890684,
+        "country": "JP"
+      },
+      {
+        "name": "Oracle Corp",
+        "market_cap": "USD 186.26B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ORCL US Equity",
+        "type": "supplier1",
+        "size": 13.950409384039922,
+        "country": "US"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 405.91M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.821642018115654,
+        "country": "US"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 8.99329297415947,
+        "country": "US"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.31B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "US"
+      },
+      {
+        "name": "Sanden Holdings Corp",
+        "market_cap": "USD 143.69M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6444 JP Equity",
+        "type": "supplier1",
+        "size": 6.783168759205388,
+        "country": "JP"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 795.87M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.494946413888137,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Mann Hummel Fawer Filter Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AADPQZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "U-Shin Ltd",
+        "market_cap": "USD 301.54M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6985 JP Equity",
+        "type": "supplier1",
+        "size": 7.524413235315045,
+        "country": "JP"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 391.56M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.785649318357503,
+        "country": "CH"
+      },
+      {
+        "name": "Changchun Mekra Lang Faway Vehicle Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AAXVPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun FAW Comprehensive Utilization Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ABPEKZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changchun Faw Anjin Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Volkswagen AG",
+        "market_cap": "USD 82.81B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOW GR Equity",
+        "type": "supplier1",
+        "size": 13.13981466399202,
+        "country": "DE"
+      },
+      {
+        "name": "Furukawa Electric Co Ltd",
+        "market_cap": "USD 1.82B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5801 JP Equity",
+        "type": "supplier1",
+        "size": 9.322102338035116,
+        "country": "JP"
+      },
+      {
+        "name": "FAW CAR Co Ltd",
+        "market_cap": "USD 2.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000800 CH Equity",
+        "type": "manufacturer",
+        "size": 9.455826019863192,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000800 CH Equity",
+        "relation": 199090000.0,
+        "source": "CHFAWZ CH Equity",
+        "score": 2.821853509355767
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 99700000.0,
+        "source": "TEN US Equity",
+        "score": 2.683535248992431
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 41100000.0,
+        "source": "600742 CH Equity",
+        "score": 2.506303740759473
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 26340000.0,
+        "source": "200030 CH Equity",
+        "score": 2.417319858448896
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 16030000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.3179945173937533
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 10150000.0,
+        "source": "1573026D CH Equity",
+        "score": 2.226596872394847
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9350000.0,
+        "source": "CON GR Equity",
+        "score": 2.2101774016433473
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9360000.0,
+        "source": "7950518Z CH Equity",
+        "score": 2.2103911910582754
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9610000.0,
+        "source": "CMI US Equity",
+        "score": 2.2156629770009486
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 6280000.0,
+        "source": "300392 CH Equity",
+        "score": 2.1305761395360077
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 87520.0,
+        "source": "KU2 GR Equity",
+        "score": 1.2759268087100626
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 5350000.0,
+        "source": "6473 JP Equity",
+        "score": 2.098521461157612
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 4150000.0,
+        "source": "MG CN Equity",
+        "score": 2.0477238266341415
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3810000.0,
+        "source": "WBC US Equity",
+        "score": 2.030628001914008
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3560000.0,
+        "source": "TKA GR Equity",
+        "score": 2.01705427674541
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3140000.0,
+        "source": "FR FP Equity",
+        "score": 1.9919467352711449
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 492160.0,
+        "source": "002232 CH Equity",
+        "score": 1.6213122355433711
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2980000.0,
+        "source": "7276 JP Equity",
+        "score": 1.9814868388104
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2670000.0,
+        "source": "2105 TT Equity",
+        "score": 1.9595178809816396
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2340000.0,
+        "source": "1074506D CH Equity",
+        "score": 1.933132382936844
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2250000.0,
+        "source": "BWA US Equity",
+        "score": 1.9252882437249896
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2020000.0,
+        "source": "APTV US Equity",
+        "score": 1.9037217128853543
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1890000.0,
+        "source": "600019 CH Equity",
+        "score": 1.8904175832272427
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 51920.0,
+        "source": "CMCO US Equity",
+        "score": 1.171495722318622
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1570000.0,
+        "source": "HON US Equity",
+        "score": 1.8533173628533928
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1150000.0,
+        "source": "7259 JP Equity",
+        "score": 1.7910546739808546
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 242530.0,
+        "source": "Changchun1... Equity",
+        "score": 1.4797769632482032
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1550000.0,
+        "source": "LEA US Equity",
+        "score": 1.8507532268113023
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1170000.0,
+        "source": "012330 KS Equity",
+        "score": 1.7945030322948856
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1520000.0,
+        "source": "INTC US Equity",
+        "score": 1.8468443101433958
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1440000.0,
+        "source": "0180917D CH Equity",
+        "score": 1.8360308731992774
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1470000.0,
+        "source": "ALSN US Equity",
+        "score": 1.8401547278053592
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1300000.0,
+        "source": "NEMAKA MM Equity",
+        "score": 1.8155751183324478
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1320000.0,
+        "source": "ALV US Equity",
+        "score": 1.8186286104276048
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 259400.0,
+        "source": "PTC US Equity",
+        "score": 1.493226081181433
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1300000.0,
+        "source": "EO FP Equity",
+        "score": 1.8155751183324478
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 192540.0,
+        "source": "1477057D CH Equity",
+        "score": 1.4336128794088898
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1140000.0,
+        "source": "3116 JP Equity",
+        "score": 1.7893079395126552
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 21110.0,
+        "source": "7722 JP Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 898120.0,
+        "source": "ORCL US Equity",
+        "score": 1.7416120164164948
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 835880.0,
+        "source": "POM FP Equity",
+        "score": 1.727248307487458
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 794930.0,
+        "source": "TOWR US Equity",
+        "score": 1.7172021194833915
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 723820.0,
+        "source": "TIFS LN Equity",
+        "score": 1.6984598806461095
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 504070.0,
+        "source": "AXL US Equity",
+        "score": 1.6260944820295413
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 671180.0,
+        "source": "MOD US Equity",
+        "score": 1.6833588252451057
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 628980.0,
+        "source": "DAN US Equity",
+        "score": 1.6703712657098162
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 523380.0,
+        "source": "6444 JP Equity",
+        "score": 1.6336129934622283
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 473500.0,
+        "source": "CPS US Equity",
+        "score": 1.6135818607076917
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 443100.0,
+        "source": "1512 TT Equity",
+        "score": 1.600310602802387
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 480960.0,
+        "source": "7247 JP Equity",
+        "score": 1.6167082929439136
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 407720.0,
+        "source": "AADPQZ CH Equity",
+        "score": 1.5836676791885869
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 348220.0,
+        "source": "ADNT US Equity",
+        "score": 1.5521185229328425
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 314970.0,
+        "source": "6985 JP Equity",
+        "score": 1.5320471700155207
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 270240.0,
+        "source": "Changchun2... Equity",
+        "score": 1.5014138864898454
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 241060.0,
+        "source": "ATU US Equity",
+        "score": 1.4785610584957078
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 152800.0,
+        "source": "KOA NO Equity",
+        "score": 1.387378340039152
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 187170.0,
+        "source": "AAXVPZ CH Equity",
+        "score": 1.427955583299044
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 105880.0,
+        "source": "VC US Equity",
+        "score": 1.3140142201901526
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 55920.0,
+        "source": "PGN GR Equity",
+        "score": 1.186339051887471
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 56070.0,
+        "source": "STRT US Equity",
+        "score": 1.1868748047615947
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 21540.0,
+        "source": "Changchun3... Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 20770.0,
+        "source": "002009 CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 17640.0,
+        "source": "VOW GR Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 15250.0,
+        "source": "ACIXPZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 1630.0,
+        "source": "000927 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China FAW Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CHFAWZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Faway Automobile Components Co Ltd",
+        "market_cap": "USD 875.33M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600742 CH Equity",
+        "type": "supplier1",
+        "size": 8.59011151607854,
+        "country": "CN"
+      },
+      {
+        "name": "FAWER Automotive Parts Co Ltd",
+        "market_cap": "USD 1.35B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200030 CH Equity",
+        "type": "supplier1",
+        "size": 9.02337042939675,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Changchun Fawsn Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1573026D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 28.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.081903604189769,
+        "country": "DE"
+      },
+      {
+        "name": "Changchun Faway-Johnson Controls Automotive Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7950518Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 26.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.983283605145786,
+        "country": "US"
+      },
+      {
+        "name": "Beijing Tensyn Digital Marketing Technology JSC",
+        "market_cap": "USD 476.21M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300392 CH Equity",
+        "type": "supplier1",
+        "size": 7.981369491376558,
+        "country": "CN"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.45B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.619353861503047,
+        "country": "DE"
+      },
+      {
+        "name": "JTEKT Corp",
+        "market_cap": "USD 3.88B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6473 JP Equity",
+        "type": "supplier1",
+        "size": 10.079100990581594,
+        "country": "JP"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 15.31B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.451772046616004,
+        "country": "CA"
+      },
+      {
+        "name": "WABCO Holdings Inc",
+        "market_cap": "USD 6.77B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WBC US Equity",
+        "type": "supplier1",
+        "size": 10.635766923870595,
+        "country": "US"
+      },
+      {
+        "name": "thyssenkrupp AG",
+        "market_cap": "USD 9.15B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TKA GR Equity",
+        "type": "supplier1",
+        "size": 10.937019716233841,
+        "country": "DE"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.3B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.711140185100756,
+        "country": "FR"
+      },
+      {
+        "name": "Qiming Information Technology Co Ltd",
+        "market_cap": "USD 490.02M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002232 CH Equity",
+        "type": "supplier1",
+        "size": 8.009956764562514,
+        "country": "CN"
+      },
+      {
+        "name": "Koito Manufacturing Co Ltd",
+        "market_cap": "USD 8.52B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7276 JP Equity",
+        "type": "supplier1",
+        "size": 10.865682177787637,
+        "country": "JP"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.07B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.126908836400915,
+        "country": "TW"
+      },
+      {
+        "name": "Yanfeng Visteon Investment Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1074506D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.98B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.800204248408129,
+        "country": "US"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.714487955022516,
+        "country": "IE"
+      },
+      {
+        "name": "Baoshan Iron & Steel Co Ltd",
+        "market_cap": "USD 21.89B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600019 CH Equity",
+        "type": "supplier1",
+        "size": 11.809295748481183,
+        "country": "CN"
+      },
+      {
+        "name": "Columbus McKinnon Corp/NY",
+        "market_cap": "USD 868.33M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMCO US Equity",
+        "type": "supplier1",
+        "size": 8.58208238470467,
+        "country": "US"
+      },
+      {
+        "name": "Honeywell International Inc",
+        "market_cap": "USD 125.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "HON US Equity",
+        "type": "supplier1",
+        "size": 13.551659571048884,
+        "country": "US"
+      },
+      {
+        "name": "Aisin Seiki Co Ltd",
+        "market_cap": "USD 10.06B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7259 JP Equity",
+        "type": "supplier1",
+        "size": 11.031833001618004,
+        "country": "JP"
+      },
+      {
+        "name": "Changchun Automobile Economic & Technology Development Zone Sanitation Cleaning",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.891176026613856,
+        "country": "US"
+      },
+      {
+        "name": "Hyundai Mobis Co Ltd",
+        "market_cap": "USD 17.58B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "012330 KS Equity",
+        "type": "supplier1",
+        "size": 11.590027729203442,
+        "country": "KR"
+      },
+      {
+        "name": "Intel Corp",
+        "market_cap": "USD 206.84B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "INTC US Equity",
+        "type": "supplier1",
+        "size": 14.055211384474433,
+        "country": "US"
+      },
+      {
+        "name": "Changchun FAW United Die-Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0180917D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "US"
+      },
+      {
+        "name": "Nemak SAB de CV",
+        "market_cap": "USD 1.51B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "NEMAKA MM Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "MX"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.51B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.596605293166888,
+        "country": "SE"
+      },
+      {
+        "name": "PTC Inc",
+        "market_cap": "USD 10.07B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PTC US Equity",
+        "type": "supplier1",
+        "size": 11.032826543676883,
+        "country": "US"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.477669519630698,
+        "country": "FR"
+      },
+      {
+        "name": "Sanguard Automobile Insurance Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1477057D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Toyota Boshoku Corp",
+        "market_cap": "USD 2.43B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "3116 JP Equity",
+        "type": "supplier1",
+        "size": 9.611157094298868,
+        "country": "JP"
+      },
+      {
+        "name": "Kokusai Co Ltd",
+        "market_cap": "USD 95.28M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7722 JP Equity",
+        "type": "supplier1",
+        "size": 6.372330483011318,
+        "country": "JP"
+      },
+      {
+        "name": "Oracle Corp",
+        "market_cap": "USD 186.77B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ORCL US Equity",
+        "type": "supplier1",
+        "size": 13.953143750271927,
+        "country": "US"
+      },
+      {
+        "name": "Cie Plastic Omnium SA",
+        "market_cap": "USD 3.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "POM FP Equity",
+        "type": "supplier1",
+        "size": 10.052989846577908,
+        "country": "FR"
+      },
+      {
+        "name": "Tower International Inc",
+        "market_cap": "USD 425.36M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TOWR US Equity",
+        "type": "supplier1",
+        "size": 7.868446427160357,
+        "country": "US"
+      },
+      {
+        "name": "TI Fluid Systems PLC",
+        "market_cap": "USD 1.32B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "TIFS LN Equity",
+        "type": "supplier1",
+        "size": 9.000897573544691,
+        "country": "GB"
+      },
+      {
+        "name": "American Axle & Manufacturing Holdings Inc",
+        "market_cap": "USD 1.36B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "AXL US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "US"
+      },
+      {
+        "name": "Modine Manufacturing Co",
+        "market_cap": "USD 674.37M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "MOD US Equity",
+        "type": "supplier1",
+        "size": 8.329289479676714,
+        "country": "US"
+      },
+      {
+        "name": "Dana Inc",
+        "market_cap": "USD 2.46B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "DAN US Equity",
+        "type": "supplier1",
+        "size": 9.623427186890684,
+        "country": "US"
+      },
+      {
+        "name": "Sanden Holdings Corp",
+        "market_cap": "USD 160.58M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6444 JP Equity",
+        "type": "supplier1",
+        "size": 6.8943028187208135,
+        "country": "JP"
+      },
+      {
+        "name": "Cooper-Standard Holdings Inc",
+        "market_cap": "USD 920.63M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CPS US Equity",
+        "type": "supplier1",
+        "size": 8.640568776259428,
+        "country": "US"
+      },
+      {
+        "name": "JUI LI Enterprise Co Ltd",
+        "market_cap": "USD 32.71M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1512 TT Equity",
+        "type": "supplier1",
+        "size": 5.303191399514567,
+        "country": "TW"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 127.79M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.6658988495848845,
+        "country": "JP"
+      },
+      {
+        "name": "Changchun Mann Hummel Fawer Filter Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AADPQZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "U-Shin Ltd",
+        "market_cap": "USD 304.07M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6985 JP Equity",
+        "type": "supplier1",
+        "size": 7.532768496021898,
+        "country": "JP"
+      },
+      {
+        "name": "Changchun Fawer Meikelang Auto Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Actuant Corp",
+        "market_cap": "USD 1.51B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ATU US Equity",
+        "type": "supplier1",
+        "size": 9.135375487773246,
+        "country": "US"
+      },
+      {
+        "name": "Kongsberg Automotive ASA",
+        "market_cap": "USD 384.26M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KOA NO Equity",
+        "type": "supplier1",
+        "size": 7.76682996476783,
+        "country": "CH"
+      },
+      {
+        "name": "Changchun Mekra Lang Faway Vehicle Mirror Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AAXVPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.282881624881835,
+        "country": "US"
+      },
+      {
+        "name": "Paragon GmbH & Co KGaA",
+        "market_cap": "USD 130.95M",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "PGN GR Equity",
+        "type": "supplier1",
+        "size": 6.690326128917995,
+        "country": "DE"
+      },
+      {
+        "name": "Strattec Security Corp",
+        "market_cap": "USD 105.89M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "STRT US Equity",
+        "type": "supplier1",
+        "size": 6.477911377406638,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Faw Anjin Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changchun3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Miracle Automation Engineering Co Ltd",
+        "market_cap": "USD 481.62M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002009 CH Equity",
+        "type": "supplier1",
+        "size": 7.992665979335815,
+        "country": "CN"
+      },
+      {
+        "name": "Volkswagen AG",
+        "market_cap": "USD 84.24B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "VOW GR Equity",
+        "type": "supplier1",
+        "size": 13.156935704772131,
+        "country": "DE"
+      },
+      {
+        "name": "Changchun Faw Steel Processing & Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "ACIXPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tianjin Faw Xiali Automobile Co Ltd",
+        "market_cap": "USD 1.03B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000927 CH Equity",
+        "type": "supplier1",
+        "size": 8.752824639187956,
+        "country": "CN"
+      },
+      {
+        "name": "FAW CAR Co Ltd",
+        "market_cap": "USD 2.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000800 CH Equity",
+        "type": "manufacturer",
+        "size": 9.455826019863192,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000800 CH Equity",
+        "relation": 199090000.0,
+        "source": "CHFAWZ CH Equity",
+        "score": 2.821853509355767
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 102420000.0,
+        "source": "TEN US Equity",
+        "score": 2.688918514752479
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 41100000.0,
+        "source": "600742 CH Equity",
+        "score": 2.506303740759473
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 26340000.0,
+        "source": "200030 CH Equity",
+        "score": 2.417319858448896
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 16030000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.3179945173937533
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 10150000.0,
+        "source": "1573026D CH Equity",
+        "score": 2.226596872394847
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9350000.0,
+        "source": "CON GR Equity",
+        "score": 2.2101774016433473
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9360000.0,
+        "source": "7950518Z CH Equity",
+        "score": 2.2103911910582754
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 9610000.0,
+        "source": "CMI US Equity",
+        "score": 2.2156629770009486
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 6280000.0,
+        "source": "300392 CH Equity",
+        "score": 2.1305761395360077
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 87520.0,
+        "source": "KU2 GR Equity",
+        "score": 1.2759268087100626
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 5350000.0,
+        "source": "6473 JP Equity",
+        "score": 2.098521461157612
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 4150000.0,
+        "source": "MG CN Equity",
+        "score": 2.0477238266341415
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2910000.0,
+        "source": "ADNT US Equity",
+        "score": 1.9767327965580455
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2840000.0,
+        "source": "EO FP Equity",
+        "score": 1.9718629924500006
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3810000.0,
+        "source": "WBC US Equity",
+        "score": 2.030628001914008
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 2490000.0,
+        "source": "ALV US Equity",
+        "score": 1.9455587340094471
+      },
+      {
+        "target": "000800 CH Equity",
+        "relation": 3140000.0,
+        "source": "FR FP Equity",
+        "score": 1.9919467352711449
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China FAW Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CHFAWZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.772056001115843,
+        "country": "US"
+      },
+      {
+        "name": "Changchun Faway Automobile Components Co Ltd",
+        "market_cap": "USD 873.87M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600742 CH Equity",
+        "type": "supplier1",
+        "size": 8.588442181137943,
+        "country": "CN"
+      },
+      {
+        "name": "FAWER Automotive Parts Co Ltd",
+        "market_cap": "USD 1.33B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200030 CH Equity",
+        "type": "supplier1",
+        "size": 9.008444779180074,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Changchun Fawsn Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1573026D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 29.55B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.109349580798519,
+        "country": "DE"
+      },
+      {
+        "name": "Changchun Faway-Johnson Controls Automotive Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7950518Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.958802102707718,
+        "country": "US"
+      },
+      {
+        "name": "Beijing Tensyn Digital Marketing Technology JSC",
+        "market_cap": "USD 538.19M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300392 CH Equity",
+        "type": "supplier1",
+        "size": 8.103722215631098,
+        "country": "CN"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.38B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.590366324629795,
+        "country": "DE"
+      },
+      {
+        "name": "JTEKT Corp",
+        "market_cap": "USD 3.89B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "6473 JP Equity",
+        "type": "supplier1",
+        "size": 10.081674994576765,
+        "country": "JP"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.81B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.41856846522612,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.91B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "US"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.01B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.516690585493528,
+        "country": "FR"
+      },
+      {
+        "name": "WABCO Holdings Inc",
+        "market_cap": "USD 6.71B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WBC US Equity",
+        "type": "supplier1",
+        "size": 10.626864787930003,
+        "country": "US"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.24B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.55424601932775,
+        "country": "SE"
+      },
+      {
+        "name": "Valeo SA",
+        "market_cap": "USD 7.64B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "FR FP Equity",
+        "type": "supplier1",
+        "size": 10.75666344012484,
+        "country": "FR"
+      },
+      {
+        "name": "FAW CAR Co Ltd",
+        "market_cap": "USD 2.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000800 CH Equity",
+        "type": "manufacturer",
+        "size": 9.455826019863192,
+        "country": "CN"
+      }
+    ]
+  }
+]

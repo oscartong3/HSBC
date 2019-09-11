@@ -1,0 +1,176 @@
+[
+  {
+    "links": [
+      {
+        "target": "1122 HK Equity",
+        "relation": 228630.0,
+        "source": "SKFB SS Equity",
+        "score": 1.4679729258395802
+      }
+    ],
+    "nodes": [
+      {
+        "name": "SKF AB",
+        "market_cap": "USD 7.65B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "SKFB SS Equity",
+        "type": "supplier1",
+        "size": 10.757971484784857,
+        "country": "SE"
+      },
+      {
+        "name": "QINGLING MOTORS CO LTD-H",
+        "market_cap": "USD 734.11M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1122 HK Equity",
+        "type": "manufacturer",
+        "size": 8.4141629242881,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "QINGLING MOTORS CO LTD-H",
+        "market_cap": "USD 734.11M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1122 HK Equity",
+        "type": "manufacturer",
+        "size": 8.4141629242881,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1122 HK Equity",
+        "relation": 44000000.0,
+        "source": "0165376D CH Equity",
+        "score": 2.5199400429219616
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Qingling Isuzu Chongqing Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0165376D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "QINGLING MOTORS CO LTD-H",
+        "market_cap": "USD 734.11M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1122 HK Equity",
+        "type": "manufacturer",
+        "size": 8.4141629242881,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1122 HK Equity",
+        "relation": 44000000.0,
+        "source": "0165376D CH Equity",
+        "score": 2.5199400429219616
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Qingling Isuzu Chongqing Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0165376D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "QINGLING MOTORS CO LTD-H",
+        "market_cap": "USD 734.11M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1122 HK Equity",
+        "type": "manufacturer",
+        "size": 8.4141629242881,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "QINGLING MOTORS CO LTD-H",
+        "market_cap": "USD 734.11M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1122 HK Equity",
+        "type": "manufacturer",
+        "size": 8.4141629242881,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "1122 HK Equity",
+        "relation": 44000000.0,
+        "source": "0165376D CH Equity",
+        "score": 2.5199400429219616
+      },
+      {
+        "target": "1122 HK Equity",
+        "relation": 132630.0,
+        "source": "7278 JP Equity",
+        "score": 1.3590652230464544
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Qingling Isuzu Chongqing Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0165376D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Exedy Corp",
+        "market_cap": "USD 1000.0M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7278 JP Equity",
+        "type": "supplier1",
+        "size": 8.72326583694641,
+        "country": "JP"
+      },
+      {
+        "name": "QINGLING MOTORS CO LTD-H",
+        "market_cap": "USD 734.11M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1122 HK Equity",
+        "type": "manufacturer",
+        "size": 8.4141629242881,
+        "country": "CN"
+      }
+    ]
+  }
+]

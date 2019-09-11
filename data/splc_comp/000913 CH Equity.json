@@ -1,0 +1,786 @@
+[
+  {
+    "links": [
+      {
+        "target": "000913 CH Equity",
+        "relation": 263910.0,
+        "source": "002403 CH Equity",
+        "score": 1.4966734408156404
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1010000.0,
+        "source": "DLPH US Equity",
+        "score": 1.7650923757831922
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 930770.0,
+        "source": "7973494Z CH Equity",
+        "score": 1.7487537107860147
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 851290.0,
+        "source": "002863 CH Equity",
+        "score": 1.7309018599500026
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 11810.0,
+        "source": "QJGRPZ CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Zhejiang Aishida Electric Co Ltd",
+        "market_cap": "USD 454.84M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002403 CH Equity",
+        "type": "supplier1",
+        "size": 7.935456266720795,
+        "country": "CN"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "GB"
+      },
+      {
+        "name": "Sichuan Yuanxing Rubber Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7973494Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Jinfei Kaida Wheel Co Ltd",
+        "market_cap": "USD 341.56M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002863 CH Equity",
+        "type": "supplier1",
+        "size": 7.649033917003681,
+        "country": "CN"
+      },
+      {
+        "name": "Qianjiang Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "QJGRPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Qianjiang Motorcycle Co Ltd",
+        "market_cap": "USD 674.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000913 CH Equity",
+        "type": "manufacturer",
+        "size": 8.329087003695232,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000913 CH Equity",
+        "relation": 263910.0,
+        "source": "002403 CH Equity",
+        "score": 1.4966734408156404
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1010000.0,
+        "source": "DLPH US Equity",
+        "score": 1.7650923757831922
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 930770.0,
+        "source": "7973494Z CH Equity",
+        "score": 1.7487537107860147
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 851290.0,
+        "source": "002863 CH Equity",
+        "score": 1.7309018599500026
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 87100.0,
+        "source": "BABA US Equity",
+        "score": 1.274964728766189
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 11810.0,
+        "source": "QJGRPZ CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Zhejiang Aishida Electric Co Ltd",
+        "market_cap": "USD 443.2M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002403 CH Equity",
+        "type": "supplier1",
+        "size": 7.909531693397348,
+        "country": "CN"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.83B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.327581803799742,
+        "country": "GB"
+      },
+      {
+        "name": "Sichuan Yuanxing Rubber Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7973494Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Jinfei Kaida Wheel Co Ltd",
+        "market_cap": "USD 348.8M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002863 CH Equity",
+        "type": "supplier1",
+        "size": 7.670009249999097,
+        "country": "CN"
+      },
+      {
+        "name": "Alibaba Group Holding Ltd",
+        "market_cap": "USD 452.05B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "BABA US Equity",
+        "type": "supplier1",
+        "size": 14.837058630129786,
+        "country": "CN"
+      },
+      {
+        "name": "Qianjiang Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "QJGRPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Qianjiang Motorcycle Co Ltd",
+        "market_cap": "USD 674.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000913 CH Equity",
+        "type": "manufacturer",
+        "size": 8.329087003695232,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000913 CH Equity",
+        "relation": 347180.0,
+        "source": "002403 CH Equity",
+        "score": 1.5515203073537287
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1260000.0,
+        "source": "DLPH US Equity",
+        "score": 1.8093246145156279
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1080000.0,
+        "source": "7973494Z CH Equity",
+        "score": 1.7784945050051801
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 898390.0,
+        "source": "002863 CH Equity",
+        "score": 1.7416721329093505
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 887330.0,
+        "source": "CEAYYZ CH Equity",
+        "score": 1.739194671932765
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 87100.0,
+        "source": "BABA US Equity",
+        "score": 1.274964728766189
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 47890.0,
+        "source": "QJGRPZ CH Equity",
+        "score": 1.1553365748609394
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 3610.0,
+        "source": "1481042D CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Zhejiang Aishida Electric Co Ltd",
+        "market_cap": "USD 433.94M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002403 CH Equity",
+        "type": "supplier1",
+        "size": 7.888416833659498,
+        "country": "CN"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.7B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.253894088008582,
+        "country": "GB"
+      },
+      {
+        "name": "Sichuan Yuanxing Rubber Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7973494Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Jinfei Kaida Wheel Co Ltd",
+        "market_cap": "USD 327.1M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002863 CH Equity",
+        "type": "supplier1",
+        "size": 7.605776492508614,
+        "country": "CN"
+      },
+      {
+        "name": "Sichuan Chuannan Absorber Group Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CEAYYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Alibaba Group Holding Ltd",
+        "market_cap": "USD 438.43B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "BABA US Equity",
+        "type": "supplier1",
+        "size": 14.806466000895881,
+        "country": "CN"
+      },
+      {
+        "name": "Qianjiang Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "QJGRPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Global Intelligent Power Technologies Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1481042D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Qianjiang Motorcycle Co Ltd",
+        "market_cap": "USD 674.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000913 CH Equity",
+        "type": "manufacturer",
+        "size": 8.329087003695232,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000913 CH Equity",
+        "relation": 347180.0,
+        "source": "002403 CH Equity",
+        "score": 1.5515203073537287
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1260000.0,
+        "source": "DLPH US Equity",
+        "score": 1.8093246145156279
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1080000.0,
+        "source": "7973494Z CH Equity",
+        "score": 1.7784945050051801
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 898390.0,
+        "source": "002863 CH Equity",
+        "score": 1.7416721329093505
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 887330.0,
+        "source": "CEAYYZ CH Equity",
+        "score": 1.739194671932765
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 115290.0,
+        "source": "BABA US Equity",
+        "score": 1.3310429291937096
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 47890.0,
+        "source": "QJGRPZ CH Equity",
+        "score": 1.1553365748609394
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 3610.0,
+        "source": "1481042D CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Zhejiang Aishida Electric Co Ltd",
+        "market_cap": "USD 434.31M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002403 CH Equity",
+        "type": "supplier1",
+        "size": 7.889269122798336,
+        "country": "CN"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.7B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.253894088008582,
+        "country": "GB"
+      },
+      {
+        "name": "Sichuan Yuanxing Rubber Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7973494Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Jinfei Kaida Wheel Co Ltd",
+        "market_cap": "USD 327.38M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002863 CH Equity",
+        "type": "supplier1",
+        "size": 7.606632133680481,
+        "country": "CN"
+      },
+      {
+        "name": "Sichuan Chuannan Absorber Group Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CEAYYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Alibaba Group Holding Ltd",
+        "market_cap": "USD 438.43B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "BABA US Equity",
+        "type": "supplier1",
+        "size": 14.806466000895881,
+        "country": "CN"
+      },
+      {
+        "name": "Qianjiang Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "QJGRPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Global Intelligent Power Technologies Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1481042D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Qianjiang Motorcycle Co Ltd",
+        "market_cap": "USD 674.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000913 CH Equity",
+        "type": "manufacturer",
+        "size": 8.329087003695232,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000913 CH Equity",
+        "relation": 347180.0,
+        "source": "002403 CH Equity",
+        "score": 1.5515203073537287
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1260000.0,
+        "source": "DLPH US Equity",
+        "score": 1.8093246145156279
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1080000.0,
+        "source": "7973494Z CH Equity",
+        "score": 1.7784945050051801
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 898390.0,
+        "source": "002863 CH Equity",
+        "score": 1.7416721329093505
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 887330.0,
+        "source": "CEAYYZ CH Equity",
+        "score": 1.739194671932765
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 115290.0,
+        "source": "BABA US Equity",
+        "score": 1.3310429291937096
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 47890.0,
+        "source": "QJGRPZ CH Equity",
+        "score": 1.1553365748609394
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 3610.0,
+        "source": "1481042D CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Zhejiang Aishida Electric Co Ltd",
+        "market_cap": "USD 449.72M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002403 CH Equity",
+        "type": "supplier1",
+        "size": 7.924135724845833,
+        "country": "CN"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "GB"
+      },
+      {
+        "name": "Sichuan Yuanxing Rubber Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7973494Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Jinfei Kaida Wheel Co Ltd",
+        "market_cap": "USD 342.7M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002863 CH Equity",
+        "type": "supplier1",
+        "size": 7.652365986844838,
+        "country": "CN"
+      },
+      {
+        "name": "Sichuan Chuannan Absorber Group Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CEAYYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Alibaba Group Holding Ltd",
+        "market_cap": "USD 460.22B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "BABA US Equity",
+        "type": "supplier1",
+        "size": 14.85497047296884,
+        "country": "CN"
+      },
+      {
+        "name": "Qianjiang Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "QJGRPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Global Intelligent Power Technologies Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1481042D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Qianjiang Motorcycle Co Ltd",
+        "market_cap": "USD 674.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000913 CH Equity",
+        "type": "manufacturer",
+        "size": 8.329087003695232,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "000913 CH Equity",
+        "relation": 347180.0,
+        "source": "002403 CH Equity",
+        "score": 1.5515203073537287
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 190210.0,
+        "source": "BABA US Equity",
+        "score": 1.431177852256042
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1260000.0,
+        "source": "DLPH US Equity",
+        "score": 1.8093246145156279
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 1080000.0,
+        "source": "7973494Z CH Equity",
+        "score": 1.7784945050051801
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 898390.0,
+        "source": "002863 CH Equity",
+        "score": 1.7416721329093505
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 887330.0,
+        "source": "CEAYYZ CH Equity",
+        "score": 1.739194671932765
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 47890.0,
+        "source": "QJGRPZ CH Equity",
+        "score": 1.1553365748609394
+      },
+      {
+        "target": "000913 CH Equity",
+        "relation": 3610.0,
+        "source": "1481042D CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Zhejiang Aishida Electric Co Ltd",
+        "market_cap": "USD 452.28M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002403 CH Equity",
+        "type": "supplier1",
+        "size": 7.929812015031317,
+        "country": "CN"
+      },
+      {
+        "name": "Alibaba Group Holding Ltd",
+        "market_cap": "USD 459.19B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "BABA US Equity",
+        "type": "supplier1",
+        "size": 14.852729904711161,
+        "country": "CN"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.299879201250405,
+        "country": "GB"
+      },
+      {
+        "name": "Sichuan Yuanxing Rubber Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "7973494Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Jinfei Kaida Wheel Co Ltd",
+        "market_cap": "USD 347.63M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "002863 CH Equity",
+        "type": "supplier1",
+        "size": 7.66664925373032,
+        "country": "CN"
+      },
+      {
+        "name": "Sichuan Chuannan Absorber Group Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CEAYYZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Qianjiang Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "QJGRPZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Global Intelligent Power Technologies Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1481042D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Zhejiang Qianjiang Motorcycle Co Ltd",
+        "market_cap": "USD 674.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000913 CH Equity",
+        "type": "manufacturer",
+        "size": 8.329087003695232,
+        "country": "CN"
+      }
+    ]
+  }
+]

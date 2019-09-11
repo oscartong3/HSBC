@@ -1,0 +1,160 @@
+[
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "HYBRID KINETIC GROUP LTD",
+        "market_cap": "USD 93.4M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "1188 HK Equity",
+        "type": "manufacturer",
+        "size": 6.3524087154989495,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "HYBRID KINETIC GROUP LTD",
+        "market_cap": "USD 93.4M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "1188 HK Equity",
+        "type": "manufacturer",
+        "size": 6.3524087154989495,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "603611 CH Equity",
+        "relation": 79650.0,
+        "source": "Changxing... Equity",
+        "score": 1.2570819740374382
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Changxing Noble Power Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changxing... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "NOBLELIFT INTELLIGENT EQU -A",
+        "market_cap": "USD 736.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603611 CH Equity",
+        "type": "manufacturer",
+        "size": 8.417055801571045,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "603611 CH Equity",
+        "relation": 79650.0,
+        "source": "Changxing... Equity",
+        "score": 1.2570819740374382
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Changxing Noble Power Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changxing... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "NOBLELIFT INTELLIGENT EQU -A",
+        "market_cap": "USD 736.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603611 CH Equity",
+        "type": "manufacturer",
+        "size": 8.417055801571045,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "603611 CH Equity",
+        "relation": 79650.0,
+        "source": "Changxing... Equity",
+        "score": 1.2570819740374382
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Changxing Noble Power Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changxing... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "NOBLELIFT INTELLIGENT EQU -A",
+        "market_cap": "USD 736.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603611 CH Equity",
+        "type": "manufacturer",
+        "size": 8.417055801571045,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "603611 CH Equity",
+        "relation": 79650.0,
+        "source": "Changxing... Equity",
+        "score": 1.2570819740374382
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Changxing Noble Power Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Changxing... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "NOBLELIFT INTELLIGENT EQU -A",
+        "market_cap": "USD 736.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603611 CH Equity",
+        "type": "manufacturer",
+        "size": 8.417055801571045,
+        "country": "CN"
+      }
+    ]
+  }
+]

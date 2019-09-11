@@ -1,0 +1,3154 @@
+[
+  {
+    "links": [
+      {
+        "target": "200550 CH Equity",
+        "relation": 27720000.0,
+        "source": "BOS IN Equity",
+        "score": 2.427532953672203
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 28510000.0,
+        "source": "0174784D CH Equity",
+        "score": 2.433153099192853
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20590000.0,
+        "source": "Jiangxi J1... Equity",
+        "score": 2.368063225514247
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 14720000.0,
+        "source": "NCJLHZ CH Equity",
+        "score": 2.3009435478399567
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 12390000.0,
+        "source": "Nanchang jguap... Equity",
+        "score": 2.2664800668631147
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 13420000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.2824513528046912
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 329110.0,
+        "source": "KU2 GR Equity",
+        "score": 1.5408300717727763
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8400000.0,
+        "source": "1708229D CH Equity",
+        "score": 2.188748476572231
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 7010000.0,
+        "source": "Jiangxi J3... Equity",
+        "score": 2.152569680332823
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 7220000.0,
+        "source": "EO FP Equity",
+        "score": 2.158473129874631
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4910000.0,
+        "source": "018880 KS Equity",
+        "score": 2.0813569406873342
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4120000.0,
+        "source": "GKN LN Equity",
+        "score": 2.0462727928088253
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 3890000.0,
+        "source": "MG CN Equity",
+        "score": 2.034783994532801
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 3240000.0,
+        "source": "Auto Alli... Equity",
+        "score": 1.998216839282088
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 3240000.0,
+        "source": "LEA US Equity",
+        "score": 1.998216839282088
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 3180000.0,
+        "source": "ADNT US Equity",
+        "score": 1.9944784138443437
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 3070000.0,
+        "source": "APTV US Equity",
+        "score": 1.9874376890592451
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2610000.0,
+        "source": "Nanchang lm... Equity",
+        "score": 1.954972232488113
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2600000.0,
+        "source": "Nanchang jgtap... Equity",
+        "score": 1.954204477521404
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2830000.0,
+        "source": "2105 TT Equity",
+        "score": 1.9711575245952497
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2590000.0,
+        "source": "TEN US Equity",
+        "score": 1.9534337639552062
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2310000.0,
+        "source": "0181017D CH Equity",
+        "score": 1.9305517030796628
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1900000.0,
+        "source": "7312 JP Equity",
+        "score": 1.891472994090464
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1780000.0,
+        "source": "MT NA Equity",
+        "score": 1.878424896813173
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1160000.0,
+        "source": "Nanchang jgxcap... Equity",
+        "score": 1.7927862850302283
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 960210.0,
+        "source": "Jiangling... Equity",
+        "score": 1.7549816661920072
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1020000.0,
+        "source": "Jiangxi J2... Equity",
+        "score": 1.7670628331304261
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 730210.0,
+        "source": "Nanchang g... Equity",
+        "score": 1.700217762491227
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 590200.0,
+        "source": "FROTO TI Equity",
+        "score": 1.6576436871660887
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 333090.0,
+        "source": "Jiangxi B... Equity",
+        "score": 1.5432342009807032
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 319240.0,
+        "source": "VC US Equity",
+        "score": 1.5347403164849167
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 185110.0,
+        "source": "Nanchang2... Equity",
+        "score": 1.4257421848264857
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 89360.0,
+        "source": "CTS US Equity",
+        "score": 1.2800879248739627
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 66630.0,
+        "source": "0613198D CH Equity",
+        "score": 1.2213850427397
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 60680.0,
+        "source": "Jiangxi Jmcg... Equity",
+        "score": 1.202677182644241
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 43690.0,
+        "source": "Jiangxi Jnmd... Equity",
+        "score": 1.1369794820432775
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 39120.0,
+        "source": "Jiangxi I... Equity",
+        "score": 1.1148829372388458
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Bosch Ltd",
+        "market_cap": "USD 7.21B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "BOS IN Equity",
+        "type": "supplier1",
+        "size": 10.698734788243268,
+        "country": "IN"
+      },
+      {
+        "name": "GETRAG Jiangxi Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0174784D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Lear Interior System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Huaxiang Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NCJLHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Group United Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang jguap... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.48B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.6315243971233,
+        "country": "DE"
+      },
+      {
+        "name": "Changan Ford Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1708229D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Motor Group Specialty Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.14B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.53809057910546,
+        "country": "FR"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.19B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.369999534124208,
+        "country": "KR"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 15.36B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.455032564665938,
+        "country": "CA"
+      },
+      {
+        "name": "Auto Alliance Thailand Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Auto Alli... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.891176026613856,
+        "country": "US"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.714487955022516,
+        "country": "IE"
+      },
+      {
+        "name": "Nanchang Lianda Machinery Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang lm... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Group Tianren Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang jgtap... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.13B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.141543243919351,
+        "country": "TW"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Jiangxi Jiangling Motors Imp & Emp Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0181017D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "TKJP Corp",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7312 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 18.54B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.643196397084122,
+        "country": "LU"
+      },
+      {
+        "name": "Nanchang Jiangling Group Xin Chen Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang jgxcap... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangling Material Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangling... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Automobile Group Aowei Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Gear Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang g... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Ford Otomotiv Sanayi AS",
+        "market_cap": "USD 2.95B",
+        "region": "Middle East",
+        "score": 1.0,
+        "ticker": "FROTO TI Equity",
+        "type": "supplier1",
+        "size": 9.805071007298139,
+        "country": "TR"
+      },
+      {
+        "name": "Jiangxi Biaohong Engine Tappet Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi B... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.282881624881835,
+        "country": "US"
+      },
+      {
+        "name": "Nanchang He Qun Costume Co Ltd of Jiangling Group",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 934.74M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.655778973716668,
+        "country": "US"
+      },
+      {
+        "name": "Jiangxi Jiangling Material Utilization Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0613198D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Motor Co Group Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi Jmcg... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Nonferrous Metal Diecasting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi Jnmd... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Isuzu Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi I... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangling Motors Corp Ltd",
+        "market_cap": "USD 2.9B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200550 CH Equity",
+        "type": "manufacturer",
+        "size": 9.789245449120788,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "200550 CH Equity",
+        "relation": 73530000.0,
+        "source": "F US Equity",
+        "score": 2.6226408115544593
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 34950000.0,
+        "source": "Nanchang1... Equity",
+        "score": 2.4738858110512796
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 30570000.0,
+        "source": "0174784D CH Equity",
+        "score": 2.447105945315765
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 28590000.0,
+        "source": "BOS IN Equity",
+        "score": 2.4337135198551514
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20520000.0,
+        "source": "Jiangxi J1... Equity",
+        "score": 2.367382125399957
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20150000.0,
+        "source": "NCJLHZ CH Equity",
+        "score": 2.363742979196951
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 12390000.0,
+        "source": "Nanchang jguap... Equity",
+        "score": 2.2664800668631147
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 15220000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.307624195220167
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2290000.0,
+        "source": "0181017D CH Equity",
+        "score": 1.9288125624423098
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8410000.0,
+        "source": "EO FP Equity",
+        "score": 2.1889864301710373
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8400000.0,
+        "source": "1708229D CH Equity",
+        "score": 2.188748476572231
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 260710.0,
+        "source": "KU2 GR Equity",
+        "score": 1.4942335586248552
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4670000.0,
+        "source": "MG CN Equity",
+        "score": 2.071333968755564
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4330000.0,
+        "source": "ADNT US Equity",
+        "score": 2.0562156661851057
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4440000.0,
+        "source": "GKN LN Equity",
+        "score": 2.0612330319267214
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4040000.0,
+        "source": "Jiangling3... Equity",
+        "score": 2.042351099492411
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 3240000.0,
+        "source": "Auto Alli... Equity",
+        "score": 1.998216839282088
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2600000.0,
+        "source": "Nanchang jgtap... Equity",
+        "score": 1.954204477521404
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2820000.0,
+        "source": "2105 TT Equity",
+        "score": 1.9704495595048326
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2140000.0,
+        "source": "APTV US Equity",
+        "score": 1.915263370857529
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1900000.0,
+        "source": "7312 JP Equity",
+        "score": 1.891472994090464
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1910000.0,
+        "source": "TEN US Equity",
+        "score": 1.892522864716577
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1840000.0,
+        "source": "LEA US Equity",
+        "score": 1.8850553346126562
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1160000.0,
+        "source": "Nanchang jgxcap... Equity",
+        "score": 1.7927862850302283
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1280000.0,
+        "source": "MT NA Equity",
+        "score": 1.8124742834290988
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1180000.0,
+        "source": "Jiangxi J2... Equity",
+        "score": 1.796205168779823
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 960210.0,
+        "source": "Jiangling... Equity",
+        "score": 1.7549816661920072
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 730210.0,
+        "source": "Nanchang g... Equity",
+        "score": 1.700217762491227
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 590200.0,
+        "source": "FROTO TI Equity",
+        "score": 1.6576436871660887
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 485240.0,
+        "source": "Jiangxi J3... Equity",
+        "score": 1.6184801907437216
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 333090.0,
+        "source": "Jiangxi B... Equity",
+        "score": 1.5432342009807032
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 83810.0,
+        "source": "018880 KS Equity",
+        "score": 1.2672639085544315
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 371410.0,
+        "source": "Jiangxi I... Equity",
+        "score": 1.565012909025009
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 316370.0,
+        "source": "VC US Equity",
+        "score": 1.5329341709086952
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 255010.0,
+        "source": "Nanchang2... Equity",
+        "score": 1.489812392093016
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 66630.0,
+        "source": "0613198D CH Equity",
+        "score": 1.2213850427397
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 66630.0,
+        "source": "0613198D CH Equity",
+        "score": 1.2213850427397
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 76470.0,
+        "source": "CTS US Equity",
+        "score": 1.2489333725952876
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 60680.0,
+        "source": "Jiangxi Jmcg... Equity",
+        "score": 1.202677182644241
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 43690.0,
+        "source": "Jiangxi Jnmd... Equity",
+        "score": 1.1369794820432775
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Ford Motor Co",
+        "market_cap": "USD 40.85B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "F US Equity",
+        "type": "supplier1",
+        "size": 12.433172658252424,
+        "country": "US"
+      },
+      {
+        "name": "Nanchang Bao-Jiang Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "GETRAG Jiangxi Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0174784D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Bosch Ltd",
+        "market_cap": "USD 7.23B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "BOS IN Equity",
+        "type": "supplier1",
+        "size": 10.701504873117084,
+        "country": "IN"
+      },
+      {
+        "name": "Jiangxi Jiangling Lear Interior System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Huaxiang Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NCJLHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Group United Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang jguap... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Jiangxi Jiangling Motors Imp & Emp Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0181017D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.75B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "FR"
+      },
+      {
+        "name": "Changan Ford Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1708229D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.39B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.59455920288983,
+        "country": "DE"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.71B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.411793371559757,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.94B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.385953810021647,
+        "country": "US"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Jiangling Holdings Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangling3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Auto Alliance Thailand Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Auto Alli... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Group Tianren Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang jgtap... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.04B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.11951052891947,
+        "country": "TW"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.681815319372685,
+        "country": "IE"
+      },
+      {
+        "name": "TKJP Corp",
+        "market_cap": "--",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7312 JP Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "JP"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.06B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.781534745070388,
+        "country": "US"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.49B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.862154837269667,
+        "country": "US"
+      },
+      {
+        "name": "Nanchang Jiangling Group Xin Chen Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang jgxcap... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 17.47B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.583750961092377,
+        "country": "LU"
+      },
+      {
+        "name": "Jiangxi Jiangling Automobile Group Aowei Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangling Material Corp",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangling... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Gear Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang g... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Ford Otomotiv Sanayi AS",
+        "market_cap": "USD 2.96B",
+        "region": "Middle East",
+        "score": 1.0,
+        "ticker": "FROTO TI Equity",
+        "type": "supplier1",
+        "size": 9.80845510528238,
+        "country": "TR"
+      },
+      {
+        "name": "Jiangxi Jiangling Motor Group Specialty Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Biaohong Engine Tappet Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi B... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.12B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.356420275997827,
+        "country": "KR"
+      },
+      {
+        "name": "Jiangxi Isuzu Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi I... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.59B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.186999853178552,
+        "country": "US"
+      },
+      {
+        "name": "Nanchang He Qun Costume Co Ltd of Jiangling Group",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Material Utilization Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0613198D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Material Utilization Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0613198D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 893.01M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.610108336986361,
+        "country": "US"
+      },
+      {
+        "name": "Jiangxi Jiangling Motor Co Group Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi Jmcg... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Nonferrous Metal Diecasting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi Jnmd... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangling Motors Corp Ltd",
+        "market_cap": "USD 2.9B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200550 CH Equity",
+        "type": "manufacturer",
+        "size": 9.789245449120788,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "200550 CH Equity",
+        "relation": 73530000.0,
+        "source": "F US Equity",
+        "score": 2.6226408115544593
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 34950000.0,
+        "source": "Nanchang1... Equity",
+        "score": 2.4738858110512796
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 28590000.0,
+        "source": "BOS IN Equity",
+        "score": 2.4337135198551514
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20520000.0,
+        "source": "Jiangxi J1... Equity",
+        "score": 2.367382125399957
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20150000.0,
+        "source": "NCJLHZ CH Equity",
+        "score": 2.363742979196951
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 10870000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.240303470218742
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2290000.0,
+        "source": "0181017D CH Equity",
+        "score": 1.9288125624423098
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8400000.0,
+        "source": "1708229D CH Equity",
+        "score": 2.188748476572231
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8410000.0,
+        "source": "EO FP Equity",
+        "score": 2.1889864301710373
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 260710.0,
+        "source": "KU2 GR Equity",
+        "score": 1.4942335586248552
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4990000.0,
+        "source": "GKN LN Equity",
+        "score": 2.0845893336256966
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4670000.0,
+        "source": "MG CN Equity",
+        "score": 2.071333968755564
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4330000.0,
+        "source": "ADNT US Equity",
+        "score": 2.0562156661851057
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4040000.0,
+        "source": "Jiangling3... Equity",
+        "score": 2.042351099492411
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2420000.0,
+        "source": "2105 TT Equity",
+        "score": 1.9398557022711849
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2140000.0,
+        "source": "APTV US Equity",
+        "score": 1.915263370857529
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2060000.0,
+        "source": "TEN US Equity",
+        "score": 1.907643405240508
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1970000.0,
+        "source": "LEA US Equity",
+        "score": 1.898708921665651
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1430000.0,
+        "source": "MT NA Equity",
+        "score": 1.8346371403073087
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1180000.0,
+        "source": "Jiangxi J2... Equity",
+        "score": 1.796205168779823
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 485240.0,
+        "source": "Jiangxi J3... Equity",
+        "score": 1.6184801907437216
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 83810.0,
+        "source": "018880 KS Equity",
+        "score": 1.2672639085544315
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 371410.0,
+        "source": "Jiangxi I... Equity",
+        "score": 1.565012909025009
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 255010.0,
+        "source": "Nanchang2... Equity",
+        "score": 1.489812392093016
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 230860.0,
+        "source": "VC US Equity",
+        "score": 1.4699142153578162
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 69510.0,
+        "source": "CTS US Equity",
+        "score": 1.229848058482054
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 11880.0,
+        "source": "900946 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Ford Motor Co",
+        "market_cap": "USD 41.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "F US Equity",
+        "type": "supplier1",
+        "size": 12.438056672844848,
+        "country": "US"
+      },
+      {
+        "name": "Nanchang Bao-Jiang Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Bosch Ltd",
+        "market_cap": "USD 7.31B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "BOS IN Equity",
+        "type": "supplier1",
+        "size": 10.712509110708098,
+        "country": "IN"
+      },
+      {
+        "name": "Jiangxi Jiangling Lear Interior System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Huaxiang Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NCJLHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Jiangxi Jiangling Motors Imp & Emp Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0181017D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changan Ford Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1708229D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.76B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.474203311654211,
+        "country": "FR"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.31B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "DE"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.5B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.397414486372941,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Jiangling Holdings Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangling3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 3.99B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.107057067848181,
+        "country": "TW"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.35B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.845527375809176,
+        "country": "US"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 16.53B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.528442748779344,
+        "country": "LU"
+      },
+      {
+        "name": "Jiangxi Jiangling Automobile Group Aowei Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Motor Group Specialty Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.1B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.35250637667669,
+        "country": "KR"
+      },
+      {
+        "name": "Jiangxi Isuzu Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi I... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang He Qun Costume Co Ltd of Jiangling Group",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "US"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 887.76M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.604211994156582,
+        "country": "US"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 360.85M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.703972917482556,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangling Motors Corp Ltd",
+        "market_cap": "USD 2.9B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200550 CH Equity",
+        "type": "manufacturer",
+        "size": 9.789245449120788,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "200550 CH Equity",
+        "relation": 73530000.0,
+        "source": "F US Equity",
+        "score": 2.6226408115544593
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 34950000.0,
+        "source": "Nanchang1... Equity",
+        "score": 2.4738858110512796
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 30570000.0,
+        "source": "0174784D CH Equity",
+        "score": 2.447105945315765
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 28590000.0,
+        "source": "BOS IN Equity",
+        "score": 2.4337135198551514
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20520000.0,
+        "source": "Jiangxi J1... Equity",
+        "score": 2.367382125399957
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20150000.0,
+        "source": "NCJLHZ CH Equity",
+        "score": 2.363742979196951
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 10870000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.240303470218742
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2290000.0,
+        "source": "0181017D CH Equity",
+        "score": 1.9288125624423098
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8400000.0,
+        "source": "1708229D CH Equity",
+        "score": 2.188748476572231
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8410000.0,
+        "source": "EO FP Equity",
+        "score": 2.1889864301710373
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 260710.0,
+        "source": "KU2 GR Equity",
+        "score": 1.4942335586248552
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4990000.0,
+        "source": "GKN LN Equity",
+        "score": 2.0845893336256966
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4210000.0,
+        "source": "ADNT US Equity",
+        "score": 2.0505946886376454
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4530000.0,
+        "source": "MG CN Equity",
+        "score": 2.065246543641949
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4040000.0,
+        "source": "Jiangling3... Equity",
+        "score": 2.042351099492411
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2350000.0,
+        "source": "APTV US Equity",
+        "score": 1.9339852623304332
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2420000.0,
+        "source": "2105 TT Equity",
+        "score": 1.9398557022711849
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2060000.0,
+        "source": "TEN US Equity",
+        "score": 1.907643405240508
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1970000.0,
+        "source": "LEA US Equity",
+        "score": 1.898708921665651
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1340000.0,
+        "source": "MT NA Equity",
+        "score": 1.8216361836390944
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1180000.0,
+        "source": "Jiangxi J2... Equity",
+        "score": 1.796205168779823
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 485240.0,
+        "source": "Jiangxi J3... Equity",
+        "score": 1.6184801907437216
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 83810.0,
+        "source": "018880 KS Equity",
+        "score": 1.2672639085544315
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 371410.0,
+        "source": "Jiangxi I... Equity",
+        "score": 1.565012909025009
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 371410.0,
+        "source": "Jiangxi I... Equity",
+        "score": 1.565012909025009
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 293760.0,
+        "source": "5482 JP Equity",
+        "score": 1.5181043581095803
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 255010.0,
+        "source": "Nanchang2... Equity",
+        "score": 1.489812392093016
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 230860.0,
+        "source": "VC US Equity",
+        "score": 1.4699142153578162
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 230860.0,
+        "source": "VC US Equity",
+        "score": 1.4699142153578162
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 76700.0,
+        "source": "CTS US Equity",
+        "score": 1.2495340050160006
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 11880.0,
+        "source": "900946 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Ford Motor Co",
+        "market_cap": "USD 41.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "F US Equity",
+        "type": "supplier1",
+        "size": 12.438056672844848,
+        "country": "US"
+      },
+      {
+        "name": "Nanchang Bao-Jiang Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "GETRAG Jiangxi Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0174784D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Bosch Ltd",
+        "market_cap": "USD 7.31B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "BOS IN Equity",
+        "type": "supplier1",
+        "size": 10.712509110708098,
+        "country": "IN"
+      },
+      {
+        "name": "Jiangxi Jiangling Lear Interior System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Huaxiang Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NCJLHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Jiangxi Jiangling Motors Imp & Emp Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0181017D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Changan Ford Automobile Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1708229D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.77B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.475937917466421,
+        "country": "FR"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.31B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.560513361480112,
+        "country": "DE"
+      },
+      {
+        "name": "GKN Ltd",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GKN LN Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "GB"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.5B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.397414486372941,
+        "country": "CA"
+      },
+      {
+        "name": "Jiangling Holdings Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangling3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 3.99B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.107057067848181,
+        "country": "TW"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 960.49M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.682954128874545,
+        "country": "US"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.35B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.845527375809176,
+        "country": "US"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 16.54B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.529047526541955,
+        "country": "LU"
+      },
+      {
+        "name": "Jiangxi Jiangling Automobile Group Aowei Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Motor Group Specialty Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.1B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.35250637667669,
+        "country": "KR"
+      },
+      {
+        "name": "Jiangxi Isuzu Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi I... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Isuzu Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi I... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aichi Steel Corp",
+        "market_cap": "USD 598.44M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5482 JP Equity",
+        "type": "supplier1",
+        "size": 8.209836827310305,
+        "country": "JP"
+      },
+      {
+        "name": "Nanchang He Qun Costume Co Ltd of Jiangling Group",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "US"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.45B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.094829393378895,
+        "country": "US"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 887.76M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.604211994156582,
+        "country": "US"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 360.85M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.703972917482556,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangling Motors Corp Ltd",
+        "market_cap": "USD 2.9B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200550 CH Equity",
+        "type": "manufacturer",
+        "size": 9.789245449120788,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "200550 CH Equity",
+        "relation": 73530000.0,
+        "source": "F US Equity",
+        "score": 2.6226408115544593
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 34950000.0,
+        "source": "Nanchang1... Equity",
+        "score": 2.4738858110512796
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 30570000.0,
+        "source": "0174784D CH Equity",
+        "score": 2.447105945315765
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 28590000.0,
+        "source": "BOS IN Equity",
+        "score": 2.4337135198551514
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20520000.0,
+        "source": "Jiangxi J1... Equity",
+        "score": 2.367382125399957
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20150000.0,
+        "source": "NCJLHZ CH Equity",
+        "score": 2.363742979196951
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2290000.0,
+        "source": "0181017D CH Equity",
+        "score": 1.9288125624423098
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8510000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.1913505236116726
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8410000.0,
+        "source": "EO FP Equity",
+        "score": 2.1889864301710373
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 260710.0,
+        "source": "KU2 GR Equity",
+        "score": 1.4942335586248552
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 5280000.0,
+        "source": "018880 KS Equity",
+        "score": 2.0958873690152733
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4530000.0,
+        "source": "MG CN Equity",
+        "score": 2.065246543641949
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4210000.0,
+        "source": "ADNT US Equity",
+        "score": 2.0505946886376454
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4040000.0,
+        "source": "Jiangling3... Equity",
+        "score": 2.042351099492411
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2350000.0,
+        "source": "APTV US Equity",
+        "score": 1.9339852623304332
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2420000.0,
+        "source": "2105 TT Equity",
+        "score": 1.9398557022711849
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2060000.0,
+        "source": "TEN US Equity",
+        "score": 1.907643405240508
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2020000.0,
+        "source": "GTX US Equity",
+        "score": 1.9037217128853543
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1970000.0,
+        "source": "LEA US Equity",
+        "score": 1.898708921665651
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1340000.0,
+        "source": "MT NA Equity",
+        "score": 1.8216361836390944
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 485240.0,
+        "source": "Jiangxi J3... Equity",
+        "score": 1.6184801907437216
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 371410.0,
+        "source": "Jiangxi I... Equity",
+        "score": 1.565012909025009
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 293760.0,
+        "source": "5482 JP Equity",
+        "score": 1.5181043581095803
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 255010.0,
+        "source": "Nanchang2... Equity",
+        "score": 1.489812392093016
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 230860.0,
+        "source": "VC US Equity",
+        "score": 1.4699142153578162
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 54300.0,
+        "source": "CTS US Equity",
+        "score": 1.1804595843917425
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 11880.0,
+        "source": "900946 CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Ford Motor Co",
+        "market_cap": "USD 41.41B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "F US Equity",
+        "type": "supplier1",
+        "size": 12.446788234503888,
+        "country": "US"
+      },
+      {
+        "name": "Nanchang Bao-Jiang Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "GETRAG Jiangxi Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0174784D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Bosch Ltd",
+        "market_cap": "USD 7.22B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "BOS IN Equity",
+        "type": "supplier1",
+        "size": 10.700120789851145,
+        "country": "IN"
+      },
+      {
+        "name": "Jiangxi Jiangling Lear Interior System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Huaxiang Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NCJLHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Motors Imp & Emp Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0181017D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 5.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.477669519630698,
+        "country": "FR"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.45B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.619353861503047,
+        "country": "DE"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.22B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.375763238840957,
+        "country": "KR"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 15.31B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.451772046616004,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "Jiangling Holdings Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangling3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.714487955022516,
+        "country": "IE"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.08B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.129362825362481,
+        "country": "TW"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.04B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.762486550099691,
+        "country": "US"
+      },
+      {
+        "name": "Garrett Motion Inc",
+        "market_cap": "USD 1.36B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GTX US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "CH"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.74B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.891176026613856,
+        "country": "US"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 17.54B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.587749823890448,
+        "country": "LU"
+      },
+      {
+        "name": "Jiangxi Jiangling Motor Group Specialty Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Isuzu Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi I... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aichi Steel Corp",
+        "market_cap": "USD 589.76M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5482 JP Equity",
+        "type": "supplier1",
+        "size": 8.195226232445734,
+        "country": "JP"
+      },
+      {
+        "name": "Nanchang He Qun Costume Co Ltd of Jiangling Group",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.282881624881835,
+        "country": "US"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 934.74M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.655778973716668,
+        "country": "US"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 389.94M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.781503439098586,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangling Motors Corp Ltd",
+        "market_cap": "USD 2.9B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200550 CH Equity",
+        "type": "manufacturer",
+        "size": 9.789245449120788,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "200550 CH Equity",
+        "relation": 73530000.0,
+        "source": "F US Equity",
+        "score": 2.6226408115544593
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 34950000.0,
+        "source": "Nanchang1... Equity",
+        "score": 2.4738858110512796
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 30570000.0,
+        "source": "0174784D CH Equity",
+        "score": 2.447105945315765
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 28590000.0,
+        "source": "BOS IN Equity",
+        "score": 2.4337135198551514
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20520000.0,
+        "source": "Jiangxi J1... Equity",
+        "score": 2.367382125399957
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 20150000.0,
+        "source": "NCJLHZ CH Equity",
+        "score": 2.363742979196951
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2290000.0,
+        "source": "0181017D CH Equity",
+        "score": 1.9288125624423098
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8510000.0,
+        "source": "1003Z GR Equity",
+        "score": 2.1913505236116726
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 8410000.0,
+        "source": "EO FP Equity",
+        "score": 2.1889864301710373
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 260710.0,
+        "source": "KU2 GR Equity",
+        "score": 1.4942335586248552
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 5280000.0,
+        "source": "018880 KS Equity",
+        "score": 2.0958873690152733
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4790000.0,
+        "source": "TEN US Equity",
+        "score": 2.0764082356310687
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4530000.0,
+        "source": "MG CN Equity",
+        "score": 2.065246543641949
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 3460000.0,
+        "source": "ADNT US Equity",
+        "score": 2.0113558872102413
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 4040000.0,
+        "source": "Jiangling3... Equity",
+        "score": 2.042351099492411
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2350000.0,
+        "source": "APTV US Equity",
+        "score": 1.9339852623304332
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2420000.0,
+        "source": "2105 TT Equity",
+        "score": 1.9398557022711849
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1720000.0,
+        "source": "WBC US Equity",
+        "score": 1.871567086036963
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 2020000.0,
+        "source": "GTX US Equity",
+        "score": 1.9037217128853543
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1240000.0,
+        "source": "LEA US Equity",
+        "score": 1.8061245488065016
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1120000.0,
+        "source": "MT NA Equity",
+        "score": 1.7857680272256045
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 1180000.0,
+        "source": "Jiangxi J2... Equity",
+        "score": 1.796205168779823
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 485240.0,
+        "source": "Jiangxi J3... Equity",
+        "score": 1.6184801907437216
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 371410.0,
+        "source": "Jiangxi I... Equity",
+        "score": 1.565012909025009
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 293760.0,
+        "source": "5482 JP Equity",
+        "score": 1.5181043581095803
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 255010.0,
+        "source": "Nanchang2... Equity",
+        "score": 1.489812392093016
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 183230.0,
+        "source": "VC US Equity",
+        "score": 1.4237005861761793
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 57890.0,
+        "source": "CTS US Equity",
+        "score": 1.193263442212893
+      },
+      {
+        "target": "200550 CH Equity",
+        "relation": 23830.0,
+        "source": "900946 CH Equity",
+        "score": 1.0157485066246728
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Ford Motor Co",
+        "market_cap": "USD 41.33B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "F US Equity",
+        "type": "supplier1",
+        "size": 12.444854465470051,
+        "country": "US"
+      },
+      {
+        "name": "Nanchang Bao-Jiang Steel Processing Distribution Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "GETRAG Jiangxi Transmission Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0174784D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Bosch Ltd",
+        "market_cap": "USD 7.05B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "BOS IN Equity",
+        "type": "supplier1",
+        "size": 10.676293453770587,
+        "country": "IN"
+      },
+      {
+        "name": "Jiangxi Jiangling Lear Interior System Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J1... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Nanchang Jiangling Huaxiang Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NCJLHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Motors Imp & Emp Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0181017D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "ZF Friedrichshafen AG",
+        "market_cap": "--",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "1003Z GR Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "DE"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.01B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.516690585493528,
+        "country": "FR"
+      },
+      {
+        "name": "KUKA AG",
+        "market_cap": "USD 2.38B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "KU2 GR Equity",
+        "type": "supplier1",
+        "size": 9.590366324629795,
+        "country": "DE"
+      },
+      {
+        "name": "Hanon Systems",
+        "market_cap": "USD 5.16B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "018880 KS Equity",
+        "type": "supplier1",
+        "size": 10.364202416439884,
+        "country": "KR"
+      },
+      {
+        "name": "Tenneco Inc",
+        "market_cap": "USD 1.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "TEN US Equity",
+        "type": "supplier1",
+        "size": 8.772056001115843,
+        "country": "US"
+      },
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.81B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.41856846522612,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.91B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "US"
+      },
+      {
+        "name": "Jiangling Holdings Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangling3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.35B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.6859582564222,
+        "country": "IE"
+      },
+      {
+        "name": "Cheng Shin Rubber Industry Co Ltd",
+        "market_cap": "USD 4.06B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "2105 TT Equity",
+        "type": "supplier1",
+        "size": 10.124448810560054,
+        "country": "TW"
+      },
+      {
+        "name": "WABCO Holdings Inc",
+        "market_cap": "USD 6.71B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WBC US Equity",
+        "type": "supplier1",
+        "size": 10.626864787930003,
+        "country": "US"
+      },
+      {
+        "name": "Garrett Motion Inc",
+        "market_cap": "USD 1.36B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "GTX US Equity",
+        "type": "supplier1",
+        "size": 9.03075053669437,
+        "country": "CH"
+      },
+      {
+        "name": "Lear Corp",
+        "market_cap": "USD 8.49B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LEA US Equity",
+        "type": "supplier1",
+        "size": 10.862154837269667,
+        "country": "US"
+      },
+      {
+        "name": "ArcelorMittal",
+        "market_cap": "USD 17.38B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "MT NA Equity",
+        "type": "supplier1",
+        "size": 11.578585956783659,
+        "country": "LU"
+      },
+      {
+        "name": "Jiangxi Jiangling Automobile Group Aowei Auto Parts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Jiangling Motor Group Specialty Vehicle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi J3... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangxi Isuzu Engine Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangxi I... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aichi Steel Corp",
+        "market_cap": "USD 589.34M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "5482 JP Equity",
+        "type": "supplier1",
+        "size": 8.194513824646965,
+        "country": "JP"
+      },
+      {
+        "name": "Nanchang He Qun Costume Co Ltd of Jiangling Group",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Nanchang2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Visteon Corp",
+        "market_cap": "USD 1.57B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "VC US Equity",
+        "type": "supplier1",
+        "size": 9.174341456306628,
+        "country": "US"
+      },
+      {
+        "name": "CTS Corp",
+        "market_cap": "USD 909.11M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CTS US Equity",
+        "type": "supplier1",
+        "size": 8.62797665692159,
+        "country": "US"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 375.4M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.743502682116681,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangling Motors Corp Ltd",
+        "market_cap": "USD 2.9B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "200550 CH Equity",
+        "type": "manufacturer",
+        "size": 9.789245449120788,
+        "country": "CN"
+      }
+    ]
+  }
+]

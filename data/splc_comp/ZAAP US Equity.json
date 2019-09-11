@@ -1,0 +1,125 @@
+[
+  {
+    "links": [
+      {
+        "target": "ZAAP US Equity",
+        "relation": 223500.0,
+        "source": "0886806D CH Equity",
+        "score": 1.4634342334597363
+      },
+      {
+        "target": "ZAAP US Equity",
+        "relation": 3820.0,
+        "source": "BWA US Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Taizhou Huadu Material Co",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0886806D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "BorgWarner Inc",
+        "market_cap": "USD 7.98B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "BWA US Equity",
+        "type": "supplier1",
+        "size": 10.800204248408129,
+        "country": "US"
+      },
+      {
+        "name": "ZAP",
+        "market_cap": "--",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZAAP US Equity",
+        "type": "manufacturer",
+        "size": 5,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "ZAP",
+        "market_cap": "--",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZAAP US Equity",
+        "type": "manufacturer",
+        "size": 5,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "ZAP",
+        "market_cap": "--",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZAAP US Equity",
+        "type": "manufacturer",
+        "size": 5,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "ZAP",
+        "market_cap": "--",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZAAP US Equity",
+        "type": "manufacturer",
+        "size": 5,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "ZAP",
+        "market_cap": "--",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZAAP US Equity",
+        "type": "manufacturer",
+        "size": 5,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "ZAP",
+        "market_cap": "--",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZAAP US Equity",
+        "type": "manufacturer",
+        "size": 5,
+        "country": "US"
+      }
+    ]
+  }
+]

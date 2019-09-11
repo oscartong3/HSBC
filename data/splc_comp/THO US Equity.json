@@ -1,0 +1,738 @@
+[
+  {
+    "links": [
+      {
+        "target": "THO US Equity",
+        "relation": 155300000.0,
+        "source": "LCII US Equity",
+        "score": 2.772173858911613
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 17750000.0,
+        "source": "SPAR US Equity",
+        "score": 2.338379226044745
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 18510000.0,
+        "source": "CMI US Equity",
+        "score": 2.346764347714906
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 7800000.0,
+        "source": "GWR US Equity",
+        "score": 2.173926883972988
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 8970000.0,
+        "source": "ALSN US Equity",
+        "score": 2.2018792691035385
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 1340000.0,
+        "source": "ARNC US Equity",
+        "score": 1.8216361836390944
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 92370.0,
+        "source": "CMT US Equity",
+        "score": 1.286713671110764
+      }
+    ],
+    "nodes": [
+      {
+        "name": "LCI Industries",
+        "market_cap": "USD 2.28B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LCII US Equity",
+        "type": "supplier1",
+        "size": 9.54744127991276,
+        "country": "US"
+      },
+      {
+        "name": "Spartan Motors Inc",
+        "market_cap": "USD 333.71M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SPAR US Equity",
+        "type": "supplier1",
+        "size": 7.62578291030886,
+        "country": "US"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 26.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.983283605145786,
+        "country": "US"
+      },
+      {
+        "name": "Genesee & Wyoming Inc",
+        "market_cap": "USD 4.92B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "GWR US Equity",
+        "type": "supplier1",
+        "size": 10.316574367450627,
+        "country": "US"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "US"
+      },
+      {
+        "name": "Arconic Inc",
+        "market_cap": "USD 10.09B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ARNC US Equity",
+        "type": "supplier1",
+        "size": 11.034810671311927,
+        "country": "US"
+      },
+      {
+        "name": "Core Molding Technologies Inc",
+        "market_cap": "USD 64.02M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMT US Equity",
+        "type": "supplier1",
+        "size": 5.97470609250599,
+        "country": "US"
+      },
+      {
+        "name": "THOR INDUSTRIES INC",
+        "market_cap": "USD 3.64B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "THO US Equity",
+        "type": "manufacturer",
+        "size": 10.014711914771357,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "THO US Equity",
+        "relation": 204040000.0,
+        "source": "LCII US Equity",
+        "score": 2.826765323184
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 21210000.0,
+        "source": "SPAR US Equity",
+        "score": 2.373996674737687
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 22180000.0,
+        "source": "CMI US Equity",
+        "score": 2.382940316994431
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 11170000.0,
+        "source": "ALSN US Equity",
+        "score": 2.245748452114179
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 7800000.0,
+        "source": "GWR US Equity",
+        "score": 2.173926883972988
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 1130000.0,
+        "source": "ARNC US Equity",
+        "score": 1.7875458151287766
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 134180.0,
+        "source": "CMT US Equity",
+        "score": 1.3613889827529237
+      }
+    ],
+    "nodes": [
+      {
+        "name": "LCI Industries",
+        "market_cap": "USD 2.25B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LCII US Equity",
+        "type": "supplier1",
+        "size": 9.534196053162741,
+        "country": "US"
+      },
+      {
+        "name": "Spartan Motors Inc",
+        "market_cap": "USD 321.34M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SPAR US Equity",
+        "type": "supplier1",
+        "size": 7.588010310579463,
+        "country": "US"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.32B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.954860434222386,
+        "country": "US"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.53B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.433453652480654,
+        "country": "US"
+      },
+      {
+        "name": "Genesee & Wyoming Inc",
+        "market_cap": "USD 4.88B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "GWR US Equity",
+        "type": "supplier1",
+        "size": 10.308411056811465,
+        "country": "US"
+      },
+      {
+        "name": "Arconic Inc",
+        "market_cap": "USD 9.81B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ARNC US Equity",
+        "type": "supplier1",
+        "size": 11.006668110523684,
+        "country": "US"
+      },
+      {
+        "name": "Core Molding Technologies Inc",
+        "market_cap": "USD 62.8M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMT US Equity",
+        "type": "supplier1",
+        "size": 5.955465631438425,
+        "country": "US"
+      },
+      {
+        "name": "THOR INDUSTRIES INC",
+        "market_cap": "USD 3.64B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "THO US Equity",
+        "type": "manufacturer",
+        "size": 10.014711914771357,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "THO US Equity",
+        "relation": 204040000.0,
+        "source": "LCII US Equity",
+        "score": 2.826765323184
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 21210000.0,
+        "source": "SPAR US Equity",
+        "score": 2.373996674737687
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 20580000.0,
+        "source": "CMI US Equity",
+        "score": 2.3679660673922087
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 12550000.0,
+        "source": "ALSN US Equity",
+        "score": 2.269046260644668
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 7800000.0,
+        "source": "GWR US Equity",
+        "score": 2.173926883972988
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 1130000.0,
+        "source": "ARNC US Equity",
+        "score": 1.7875458151287766
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 134180.0,
+        "source": "CMT US Equity",
+        "score": 1.3613889827529237
+      }
+    ],
+    "nodes": [
+      {
+        "name": "LCI Industries",
+        "market_cap": "USD 2.17B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LCII US Equity",
+        "type": "supplier1",
+        "size": 9.497993004498781,
+        "country": "US"
+      },
+      {
+        "name": "Spartan Motors Inc",
+        "market_cap": "USD 312.85M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SPAR US Equity",
+        "type": "supplier1",
+        "size": 7.561234400408647,
+        "country": "US"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.94533655271113,
+        "country": "US"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.47B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.4225444533803,
+        "country": "US"
+      },
+      {
+        "name": "Genesee & Wyoming Inc",
+        "market_cap": "USD 4.87B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "GWR US Equity",
+        "type": "supplier1",
+        "size": 10.30635977404091,
+        "country": "US"
+      },
+      {
+        "name": "Arconic Inc",
+        "market_cap": "USD 9.85B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ARNC US Equity",
+        "type": "supplier1",
+        "size": 11.010737292130408,
+        "country": "US"
+      },
+      {
+        "name": "Core Molding Technologies Inc",
+        "market_cap": "USD 64.76M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMT US Equity",
+        "type": "supplier1",
+        "size": 5.986198686773708,
+        "country": "US"
+      },
+      {
+        "name": "THOR INDUSTRIES INC",
+        "market_cap": "USD 3.64B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "THO US Equity",
+        "type": "manufacturer",
+        "size": 10.014711914771357,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "THO US Equity",
+        "relation": 204040000.0,
+        "source": "LCII US Equity",
+        "score": 2.826765323184
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 21210000.0,
+        "source": "SPAR US Equity",
+        "score": 2.373996674737687
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 20580000.0,
+        "source": "CMI US Equity",
+        "score": 2.3679660673922087
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 12550000.0,
+        "source": "ALSN US Equity",
+        "score": 2.269046260644668
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 1590000.0,
+        "source": "ARNC US Equity",
+        "score": 1.8558490406254071
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 300700.0,
+        "source": "CMT US Equity",
+        "score": 1.5227743389089503
+      }
+    ],
+    "nodes": [
+      {
+        "name": "LCI Industries",
+        "market_cap": "USD 2.17B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LCII US Equity",
+        "type": "supplier1",
+        "size": 9.497993004498781,
+        "country": "US"
+      },
+      {
+        "name": "Spartan Motors Inc",
+        "market_cap": "USD 312.85M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SPAR US Equity",
+        "type": "supplier1",
+        "size": 7.561234400408647,
+        "country": "US"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.08B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.94533655271113,
+        "country": "US"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.47B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.4225444533803,
+        "country": "US"
+      },
+      {
+        "name": "Arconic Inc",
+        "market_cap": "USD 9.85B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ARNC US Equity",
+        "type": "supplier1",
+        "size": 11.010737292130408,
+        "country": "US"
+      },
+      {
+        "name": "Core Molding Technologies Inc",
+        "market_cap": "USD 64.76M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMT US Equity",
+        "type": "supplier1",
+        "size": 5.986198686773708,
+        "country": "US"
+      },
+      {
+        "name": "THOR INDUSTRIES INC",
+        "market_cap": "USD 3.64B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "THO US Equity",
+        "type": "manufacturer",
+        "size": 10.014711914771357,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "THO US Equity",
+        "relation": 204040000.0,
+        "source": "LCII US Equity",
+        "score": 2.826765323184
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 21210000.0,
+        "source": "SPAR US Equity",
+        "score": 2.373996674737687
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 20580000.0,
+        "source": "CMI US Equity",
+        "score": 2.3679660673922087
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 12550000.0,
+        "source": "ALSN US Equity",
+        "score": 2.269046260644668
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 1420000.0,
+        "source": "ARNC US Equity",
+        "score": 1.8332336267605096
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 300700.0,
+        "source": "CMT US Equity",
+        "score": 1.5227743389089503
+      }
+    ],
+    "nodes": [
+      {
+        "name": "LCI Industries",
+        "market_cap": "USD 2.28B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LCII US Equity",
+        "type": "supplier1",
+        "size": 9.54744127991276,
+        "country": "US"
+      },
+      {
+        "name": "Spartan Motors Inc",
+        "market_cap": "USD 333.71M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SPAR US Equity",
+        "type": "supplier1",
+        "size": 7.62578291030886,
+        "country": "US"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 26.05B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.983283605145786,
+        "country": "US"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.75B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.47246569175567,
+        "country": "US"
+      },
+      {
+        "name": "Arconic Inc",
+        "market_cap": "USD 10.09B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ARNC US Equity",
+        "type": "supplier1",
+        "size": 11.034810671311927,
+        "country": "US"
+      },
+      {
+        "name": "Core Molding Technologies Inc",
+        "market_cap": "USD 64.02M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMT US Equity",
+        "type": "supplier1",
+        "size": 5.97470609250599,
+        "country": "US"
+      },
+      {
+        "name": "THOR INDUSTRIES INC",
+        "market_cap": "USD 3.64B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "THO US Equity",
+        "type": "manufacturer",
+        "size": 10.014711914771357,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "THO US Equity",
+        "relation": 191880000.0,
+        "source": "LCII US Equity",
+        "score": 2.8144761479619453
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 21210000.0,
+        "source": "SPAR US Equity",
+        "score": 2.373996674737687
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 20580000.0,
+        "source": "CMI US Equity",
+        "score": 2.3679660673922087
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 12550000.0,
+        "source": "ALSN US Equity",
+        "score": 2.269046260644668
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 1400000.0,
+        "source": "ARNC US Equity",
+        "score": 1.8303967017741893
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 300700.0,
+        "source": "CMT US Equity",
+        "score": 1.5227743389089503
+      },
+      {
+        "target": "THO US Equity",
+        "relation": 101510.0,
+        "source": "ZBRA US Equity",
+        "score": 1.305584489195227
+      }
+    ],
+    "nodes": [
+      {
+        "name": "LCI Industries",
+        "market_cap": "USD 2.28B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "LCII US Equity",
+        "type": "supplier1",
+        "size": 9.54744127991276,
+        "country": "US"
+      },
+      {
+        "name": "Spartan Motors Inc",
+        "market_cap": "USD 322.05M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "SPAR US Equity",
+        "type": "supplier1",
+        "size": 7.590217370957173,
+        "country": "US"
+      },
+      {
+        "name": "Cummins Inc",
+        "market_cap": "USD 25.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMI US Equity",
+        "type": "supplier1",
+        "size": 11.958802102707718,
+        "country": "US"
+      },
+      {
+        "name": "Allison Transmission Holdings Inc",
+        "market_cap": "USD 5.56B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ALSN US Equity",
+        "type": "supplier1",
+        "size": 10.438863945208901,
+        "country": "US"
+      },
+      {
+        "name": "Arconic Inc",
+        "market_cap": "USD 9.87B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ARNC US Equity",
+        "type": "supplier1",
+        "size": 11.012765690391802,
+        "country": "US"
+      },
+      {
+        "name": "Core Molding Technologies Inc",
+        "market_cap": "USD 61.26M",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "CMT US Equity",
+        "type": "supplier1",
+        "size": 5.930637659368902,
+        "country": "US"
+      },
+      {
+        "name": "Zebra Technologies Corp",
+        "market_cap": "USD 10.0B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ZBRA US Equity",
+        "type": "supplier1",
+        "size": 11.025850929940457,
+        "country": "US"
+      },
+      {
+        "name": "THOR INDUSTRIES INC",
+        "market_cap": "USD 3.64B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "THO US Equity",
+        "type": "manufacturer",
+        "size": 10.014711914771357,
+        "country": "US"
+      }
+    ]
+  }
+]

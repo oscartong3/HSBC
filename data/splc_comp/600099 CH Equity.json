@@ -1,0 +1,450 @@
+[
+  {
+    "links": [
+      {
+        "target": "600099 CH Equity",
+        "relation": 387660.0,
+        "source": "Jiangsu Lgthm... Equity",
+        "score": 1.5735773050713968
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 279250.0,
+        "source": "Jiangsu Lem... Equity",
+        "score": 1.507973259589125
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 260560.0,
+        "source": "QSASLZ CH Equity",
+        "score": 1.4941184555660754
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 59690.0,
+        "source": "China Fum... Equity",
+        "score": 1.1993873068494714
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 37750.0,
+        "source": "AAAAVZ CH Equity",
+        "score": 1.107753448878508
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 15650.0,
+        "source": "Yituo Luo... Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Jiangsu Linhai Group Taizhou Haifeng Machinery Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangsu Lgthm... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Lianhai Engine Machinery Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangsu Lem... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Linhai Power Machinery Group Co",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "QSASLZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Fuma Foresty Machinery Shanghai Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "China Fum... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Linhai Yamaha Motorcycle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AAAAVZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Yituo Luoyang Vehicles Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Yituo Luo... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Linhai Co Ltd",
+        "market_cap": "USD 266.19M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600099 CH Equity",
+        "type": "manufacturer",
+        "size": 7.399739486756609,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600099 CH Equity",
+        "relation": 1190000.0,
+        "source": "1293798D CH Equity",
+        "score": 1.7978929410846987
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 387660.0,
+        "source": "Jiangsu Lgthm... Equity",
+        "score": 1.5735773050713968
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 279250.0,
+        "source": "Jiangsu Lem... Equity",
+        "score": 1.507973259589125
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 233980.0,
+        "source": "AATZIZ CH Equity",
+        "score": 1.4725990388924042
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 260560.0,
+        "source": "QSASLZ CH Equity",
+        "score": 1.4941184555660754
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 59690.0,
+        "source": "China Fum... Equity",
+        "score": 1.1993873068494714
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 37750.0,
+        "source": "AAAAVZ CH Equity",
+        "score": 1.107753448878508
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 15650.0,
+        "source": "Yituo Luo... Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China Foma Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1293798D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Linhai Group Taizhou Haifeng Machinery Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangsu Lgthm... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Lianhai Engine Machinery Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Jiangsu Lem... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Gangyang Stock Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AATZIZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Linhai Power Machinery Group Co",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "QSASLZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Fuma Foresty Machinery Shanghai Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "China Fum... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Linhai Yamaha Motorcycle Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AAAAVZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Yituo Luoyang Vehicles Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Yituo Luo... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Linhai Co Ltd",
+        "market_cap": "USD 266.19M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600099 CH Equity",
+        "type": "manufacturer",
+        "size": 7.399739486756609,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600099 CH Equity",
+        "relation": 1190000.0,
+        "source": "1293798D CH Equity",
+        "score": 1.7978929410846987
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 233980.0,
+        "source": "AATZIZ CH Equity",
+        "score": 1.4725990388924042
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China Foma Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1293798D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Gangyang Stock Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AATZIZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Linhai Co Ltd",
+        "market_cap": "USD 266.19M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600099 CH Equity",
+        "type": "manufacturer",
+        "size": 7.399739486756609,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600099 CH Equity",
+        "relation": 1190000.0,
+        "source": "1293798D CH Equity",
+        "score": 1.7978929410846987
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 233980.0,
+        "source": "AATZIZ CH Equity",
+        "score": 1.4725990388924042
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China Foma Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1293798D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Gangyang Stock Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AATZIZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Linhai Co Ltd",
+        "market_cap": "USD 266.19M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600099 CH Equity",
+        "type": "manufacturer",
+        "size": 7.399739486756609,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600099 CH Equity",
+        "relation": 1190000.0,
+        "source": "1293798D CH Equity",
+        "score": 1.7978929410846987
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 233980.0,
+        "source": "AATZIZ CH Equity",
+        "score": 1.4725990388924042
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China Foma Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1293798D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Gangyang Stock Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AATZIZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Linhai Co Ltd",
+        "market_cap": "USD 266.19M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600099 CH Equity",
+        "type": "manufacturer",
+        "size": 7.399739486756609,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600099 CH Equity",
+        "relation": 1190000.0,
+        "source": "1293798D CH Equity",
+        "score": 1.7978929410846987
+      },
+      {
+        "target": "600099 CH Equity",
+        "relation": 233980.0,
+        "source": "AATZIZ CH Equity",
+        "score": 1.4725990388924042
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China Foma Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "1293798D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Jiangsu Gangyang Stock Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "AATZIZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Linhai Co Ltd",
+        "market_cap": "USD 266.19M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600099 CH Equity",
+        "type": "manufacturer",
+        "size": 7.399739486756609,
+        "country": "CN"
+      }
+    ]
+  }
+]

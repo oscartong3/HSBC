@@ -1,0 +1,561 @@
+[
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "WINNEBAGO INDUSTRIES",
+        "market_cap": "USD 1.17B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "WGO US Equity",
+        "type": "manufacturer",
+        "size": 8.876786960930684,
+        "country": "US"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601777 CH Equity",
+        "relation": 2060000.0,
+        "source": "MG CN Equity",
+        "score": 1.907643405240508
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 1420000.0,
+        "source": "ADNT US Equity",
+        "score": 1.8332336267605096
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 898240.0,
+        "source": "PPG US Equity",
+        "score": 1.7416387370886488
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 83510.0,
+        "source": "CHOLIHZ CH Equity",
+        "score": 1.2665467277378797
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 270330.0,
+        "source": "0188744D CH Equity",
+        "score": 1.5014804826145665
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 114210.0,
+        "source": "APTV US Equity",
+        "score": 1.3291605787614076
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.71B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.411793371559757,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.94B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.385953810021647,
+        "country": "US"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.33B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.993974810454628,
+        "country": "US"
+      },
+      {
+        "name": "Chongqing Lifan Holdings Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CHOLIHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Dihan Mechanical Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0188744D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.27B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.681815319372685,
+        "country": "IE"
+      },
+      {
+        "name": "Lifan Industry Group Co Ltd",
+        "market_cap": "USD 1.37B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601777 CH Equity",
+        "type": "manufacturer",
+        "size": 9.040682597433712,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601777 CH Equity",
+        "relation": 2060000.0,
+        "source": "MG CN Equity",
+        "score": 1.907643405240508
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 1420000.0,
+        "source": "ADNT US Equity",
+        "score": 1.8332336267605096
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 83510.0,
+        "source": "CHOLIHZ CH Equity",
+        "score": 1.2665467277378797
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 815930.0,
+        "source": "PPG US Equity",
+        "score": 1.722417014309483
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 387230.0,
+        "source": "000622 CH Equity",
+        "score": 1.573355338632648
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 114210.0,
+        "source": "APTV US Equity",
+        "score": 1.3291605787614076
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.5B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.397414486372941,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Chongqing Lifan Holdings Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CHOLIHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.995871984235581,
+        "country": "US"
+      },
+      {
+        "name": "Hengli Industrial Development Group Co Ltd",
+        "market_cap": "USD 329.77M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000622 CH Equity",
+        "type": "supplier1",
+        "size": 7.613905999731536,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "Lifan Industry Group Co Ltd",
+        "market_cap": "USD 1.37B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601777 CH Equity",
+        "type": "manufacturer",
+        "size": 9.040682597433712,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601777 CH Equity",
+        "relation": 1930000.0,
+        "source": "MG CN Equity",
+        "score": 1.89460621580313
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 1210000.0,
+        "source": "ADNT US Equity",
+        "score": 1.8012263488037727
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 83510.0,
+        "source": "CHOLIHZ CH Equity",
+        "score": 1.2665467277378797
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 815930.0,
+        "source": "PPG US Equity",
+        "score": 1.722417014309483
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 387230.0,
+        "source": "000622 CH Equity",
+        "score": 1.573355338632648
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 124150.0,
+        "source": "APTV US Equity",
+        "score": 1.3458507691352652
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.5B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.397414486372941,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.68B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.242059630361577,
+        "country": "US"
+      },
+      {
+        "name": "Chongqing Lifan Holdings Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CHOLIHZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.38B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.995871984235581,
+        "country": "US"
+      },
+      {
+        "name": "Hengli Industrial Development Group Co Ltd",
+        "market_cap": "USD 329.71M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000622 CH Equity",
+        "type": "supplier1",
+        "size": 7.613724038185573,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 18.99B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.667178361770606,
+        "country": "IE"
+      },
+      {
+        "name": "Lifan Industry Group Co Ltd",
+        "market_cap": "USD 1.37B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601777 CH Equity",
+        "type": "manufacturer",
+        "size": 9.040682597433712,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601777 CH Equity",
+        "relation": 1930000.0,
+        "source": "MG CN Equity",
+        "score": 1.89460621580313
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 1210000.0,
+        "source": "ADNT US Equity",
+        "score": 1.8012263488037727
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 555600.0,
+        "source": "PPG US Equity",
+        "score": 1.6455611379433437
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 387230.0,
+        "source": "000622 CH Equity",
+        "score": 1.573355338632648
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 124150.0,
+        "source": "APTV US Equity",
+        "score": 1.3458507691352652
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 15.31B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.451772046616004,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 2.01B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.421400559017396,
+        "country": "US"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.5B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 12.000410569938587,
+        "country": "US"
+      },
+      {
+        "name": "Hengli Industrial Development Group Co Ltd",
+        "market_cap": "USD 335.37M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000622 CH Equity",
+        "type": "supplier1",
+        "size": 7.630744957914619,
+        "country": "CN"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.91B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.714487955022516,
+        "country": "IE"
+      },
+      {
+        "name": "Lifan Industry Group Co Ltd",
+        "market_cap": "USD 1.37B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601777 CH Equity",
+        "type": "manufacturer",
+        "size": 9.040682597433712,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "601777 CH Equity",
+        "relation": 1930000.0,
+        "source": "MG CN Equity",
+        "score": 1.89460621580313
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 932070.0,
+        "source": "ADNT US Equity",
+        "score": 1.7490328542047342
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 555600.0,
+        "source": "PPG US Equity",
+        "score": 1.6455611379433437
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 387230.0,
+        "source": "000622 CH Equity",
+        "score": 1.573355338632648
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 208270.0,
+        "source": "DLPH US Equity",
+        "score": 1.4493190790562358
+      },
+      {
+        "target": "601777 CH Equity",
+        "relation": 124150.0,
+        "source": "APTV US Equity",
+        "score": 1.3458507691352652
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Magna International Inc",
+        "market_cap": "USD 14.81B",
+        "region": "North America",
+        "score": 1.0,
+        "ticker": "MG CN Equity",
+        "type": "supplier1",
+        "size": 11.41856846522612,
+        "country": "CA"
+      },
+      {
+        "name": "Adient PLC",
+        "market_cap": "USD 1.91B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "ADNT US Equity",
+        "type": "supplier1",
+        "size": 9.370369079004949,
+        "country": "US"
+      },
+      {
+        "name": "PPG Industries Inc",
+        "market_cap": "USD 26.42B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "PPG US Equity",
+        "type": "supplier1",
+        "size": 11.99738713604059,
+        "country": "US"
+      },
+      {
+        "name": "Hengli Industrial Development Group Co Ltd",
+        "market_cap": "USD 349.91M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "000622 CH Equity",
+        "type": "supplier1",
+        "size": 7.673186536523698,
+        "country": "CN"
+      },
+      {
+        "name": "Delphi Technologies PLC",
+        "market_cap": "USD 1.78B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "DLPH US Equity",
+        "type": "supplier1",
+        "size": 9.299879201250405,
+        "country": "GB"
+      },
+      {
+        "name": "Aptiv PLC",
+        "market_cap": "USD 19.35B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "APTV US Equity",
+        "type": "supplier1",
+        "size": 11.6859582564222,
+        "country": "IE"
+      },
+      {
+        "name": "Lifan Industry Group Co Ltd",
+        "market_cap": "USD 1.37B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "601777 CH Equity",
+        "type": "manufacturer",
+        "size": 9.040682597433712,
+        "country": "CN"
+      }
+    ]
+  }
+]

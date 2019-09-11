@@ -1,0 +1,255 @@
+[
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "NOBLELIFT INTELLIGENT EQU -A",
+        "market_cap": "USD 736.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603611 CH Equity",
+        "type": "manufacturer",
+        "size": 8.417055801571045,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "NOBLELIFT INTELLIGENT EQU -A",
+        "market_cap": "USD 736.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603611 CH Equity",
+        "type": "manufacturer",
+        "size": 8.417055801571045,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [],
+    "nodes": [
+      {
+        "name": "NOBLELIFT INTELLIGENT EQU -A",
+        "market_cap": "USD 736.23M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "603611 CH Equity",
+        "type": "manufacturer",
+        "size": 8.417055801571045,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "NIO US Equity",
+        "relation": 167550.0,
+        "source": "ANDR AV Equity",
+        "score": 1.4058086123030593
+      }
+    ],
+    "nodes": [
+      {
+        "name": "ANDRITZ AG",
+        "market_cap": "USD 3.94B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ANDR AV Equity",
+        "type": "supplier1",
+        "size": 10.094446560256255,
+        "country": "AT"
+      },
+      {
+        "name": "NIO Inc",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NIO US Equity",
+        "type": "manufacturer",
+        "size": 5,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "NIO US Equity",
+        "relation": 448970.0,
+        "source": "ABBN SW Equity",
+        "score": 1.6029427153330449
+      },
+      {
+        "target": "NIO US Equity",
+        "relation": 110190.0,
+        "source": "ANDR AV Equity",
+        "score": 1.3219941005348659
+      }
+    ],
+    "nodes": [
+      {
+        "name": "ABB Ltd",
+        "market_cap": "USD 40.69B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ABBN SW Equity",
+        "type": "supplier1",
+        "size": 12.42924819896001,
+        "country": "CH"
+      },
+      {
+        "name": "ANDRITZ AG",
+        "market_cap": "USD 4.01B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ANDR AV Equity",
+        "type": "supplier1",
+        "size": 10.11205707826489,
+        "country": "AT"
+      },
+      {
+        "name": "NIO Inc",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NIO US Equity",
+        "type": "manufacturer",
+        "size": 5,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "NIO US Equity",
+        "relation": 2730000.0,
+        "source": "CON GR Equity",
+        "score": 1.9639625066922881
+      },
+      {
+        "target": "NIO US Equity",
+        "relation": 353410.0,
+        "source": "ABBN SW Equity",
+        "score": 1.5550773929171853
+      },
+      {
+        "target": "NIO US Equity",
+        "relation": 949490.0,
+        "source": "EO FP Equity",
+        "score": 1.7527362661033137
+      },
+      {
+        "target": "NIO US Equity",
+        "relation": 796750.0,
+        "source": "ALV US Equity",
+        "score": 1.7176594974755268
+      },
+      {
+        "target": "NIO US Equity",
+        "relation": 737260.0,
+        "source": "300750 CH Equity",
+        "score": 1.702139449375637
+      },
+      {
+        "target": "NIO US Equity",
+        "relation": 110190.0,
+        "source": "ANDR AV Equity",
+        "score": 1.3219941005348659
+      },
+      {
+        "target": "NIO US Equity",
+        "relation": 78730.0,
+        "source": "INTC US Equity",
+        "score": 1.2547584515472718
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Continental AG",
+        "market_cap": "USD 29.55B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "CON GR Equity",
+        "type": "supplier1",
+        "size": 12.109349580798519,
+        "country": "DE"
+      },
+      {
+        "name": "ABB Ltd",
+        "market_cap": "USD 41.08B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ABBN SW Equity",
+        "type": "supplier1",
+        "size": 12.43878722200677,
+        "country": "CH"
+      },
+      {
+        "name": "Faurecia SA",
+        "market_cap": "USD 6.01B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "EO FP Equity",
+        "type": "supplier1",
+        "size": 10.516690585493528,
+        "country": "FR"
+      },
+      {
+        "name": "Autoliv Inc",
+        "market_cap": "USD 6.24B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ALV US Equity",
+        "type": "supplier1",
+        "size": 10.55424601932775,
+        "country": "SE"
+      },
+      {
+        "name": "Contemporary Amperex Technology Co Ltd",
+        "market_cap": "USD 23.93B",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "300750 CH Equity",
+        "type": "supplier1",
+        "size": 11.898398738866693,
+        "country": "CN"
+      },
+      {
+        "name": "ANDRITZ AG",
+        "market_cap": "USD 3.92B",
+        "region": "Europe",
+        "score": 1.0,
+        "ticker": "ANDR AV Equity",
+        "type": "supplier1",
+        "size": 10.089357490748782,
+        "country": "AT"
+      },
+      {
+        "name": "Intel Corp",
+        "market_cap": "USD 204.24B",
+        "region": "USA",
+        "score": 1.0,
+        "ticker": "INTC US Equity",
+        "type": "supplier1",
+        "size": 14.042561609879641,
+        "country": "US"
+      },
+      {
+        "name": "NIO Inc",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NIO US Equity",
+        "type": "manufacturer",
+        "size": 5,
+        "country": "CN"
+      }
+    ]
+  }
+]

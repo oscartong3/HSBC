@@ -1,0 +1,994 @@
+[
+  {
+    "links": [
+      {
+        "target": "600877 CH Equity",
+        "relation": 570650.0,
+        "source": "Chongqing2... Equity",
+        "score": 1.6509066186735675
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 303170.0,
+        "source": "NOAJAZ CH Equity",
+        "score": 1.5244104563475895
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 232470.0,
+        "source": "CSIGCZ CH Equity",
+        "score": 1.4713041530094344
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 173300.0,
+        "source": "8016582Z CH Equity",
+        "score": 1.4125570492054997
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 121200.0,
+        "source": "7267 JP Equity",
+        "score": 1.3410411206816795
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 55140.0,
+        "source": "0608440D CH Equity",
+        "score": 1.183529764013607
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 40630.0,
+        "source": "900946 CH Equity",
+        "score": 1.122457320206859
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 12520.0,
+        "source": "South Tia... Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7790.0,
+        "source": "7247 JP Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 1980.0,
+        "source": "CQHXZ CH Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "Chongqing JiuFang Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing KeRui Industrial Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NOAJAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China South Industries Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CSIGCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Jialing Jiapeng Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "8016582Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Honda Motor Co Ltd",
+        "market_cap": "USD 46.77B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7267 JP Equity",
+        "type": "supplier1",
+        "size": 12.568507808684206,
+        "country": "JP"
+      },
+      {
+        "name": "Chengdu Ningjiang Showa Autoparts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0608440D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 403.1M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.814695228087395,
+        "country": "CN"
+      },
+      {
+        "name": "South Tianhe  Chassis Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "South Tia... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 140.63M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.761642885846431,
+        "country": "JP"
+      },
+      {
+        "name": "Chongqing Hongxiang Transportation Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CQHXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Jialing Industrial Co Ltd",
+        "market_cap": "USD 685.91M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600877 CH Equity",
+        "type": "manufacturer",
+        "size": 8.346260701506832,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600877 CH Equity",
+        "relation": 224590.0,
+        "source": "CSIGCZ CH Equity",
+        "score": 1.4644072498491698
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 188210.0,
+        "source": "7267 JP Equity",
+        "score": 1.4290637905768913
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 13710.0,
+        "source": "CQHXZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 163760.0,
+        "source": "Chongqing2... Equity",
+        "score": 1.4012326653627678
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 173300.0,
+        "source": "8016582Z CH Equity",
+        "score": 1.4125570492054997
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 123660.0,
+        "source": "0608440D CH Equity",
+        "score": 1.3450598459538345
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 73120.0,
+        "source": "NOAJAZ CH Equity",
+        "score": 1.2399741764366619
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 40660.0,
+        "source": "900946 CH Equity",
+        "score": 1.1226049362151351
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7940.0,
+        "source": "7247 JP Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7130.0,
+        "source": "South Tia... Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China South Industries Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CSIGCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Honda Motor Co Ltd",
+        "market_cap": "USD 46.31B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7267 JP Equity",
+        "type": "supplier1",
+        "size": 12.558623757439072,
+        "country": "JP"
+      },
+      {
+        "name": "Chongqing Hongxiang Transportation Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CQHXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing JiuFang Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing Jialing Jiapeng Industry Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "8016582Z CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chengdu Ningjiang Showa Autoparts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0608440D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing KeRui Industrial Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NOAJAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 371.87M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.734054888795626,
+        "country": "CN"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 119.87M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.601918380183282,
+        "country": "JP"
+      },
+      {
+        "name": "South Tianhe  Chassis Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "South Tia... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "China Jialing Industrial Co Ltd",
+        "market_cap": "USD 685.91M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600877 CH Equity",
+        "type": "manufacturer",
+        "size": 8.346260701506832,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600877 CH Equity",
+        "relation": 224590.0,
+        "source": "CSIGCZ CH Equity",
+        "score": 1.4644072498491698
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 188210.0,
+        "source": "7267 JP Equity",
+        "score": 1.4290637905768913
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 13710.0,
+        "source": "CQHXZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 163760.0,
+        "source": "Chongqing2... Equity",
+        "score": 1.4012326653627678
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 123660.0,
+        "source": "0608440D CH Equity",
+        "score": 1.3450598459538345
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 73120.0,
+        "source": "NOAJAZ CH Equity",
+        "score": 1.2399741764366619
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 40660.0,
+        "source": "900946 CH Equity",
+        "score": 1.1226049362151351
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7130.0,
+        "source": "South Tia... Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7160.0,
+        "source": "7247 JP Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China South Industries Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CSIGCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Honda Motor Co Ltd",
+        "market_cap": "USD 46.24B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7267 JP Equity",
+        "type": "supplier1",
+        "size": 12.557111061310533,
+        "country": "JP"
+      },
+      {
+        "name": "Chongqing Hongxiang Transportation Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CQHXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing JiuFang Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chengdu Ningjiang Showa Autoparts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0608440D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing KeRui Industrial Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NOAJAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 360.85M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.703972917482556,
+        "country": "CN"
+      },
+      {
+        "name": "South Tianhe  Chassis Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "South Tia... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 119.32M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.597319517610821,
+        "country": "JP"
+      },
+      {
+        "name": "China Jialing Industrial Co Ltd",
+        "market_cap": "USD 685.91M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600877 CH Equity",
+        "type": "manufacturer",
+        "size": 8.346260701506832,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600877 CH Equity",
+        "relation": 224590.0,
+        "source": "CSIGCZ CH Equity",
+        "score": 1.4644072498491698
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 188210.0,
+        "source": "7267 JP Equity",
+        "score": 1.4290637905768913
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 13710.0,
+        "source": "CQHXZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 163760.0,
+        "source": "Chongqing2... Equity",
+        "score": 1.4012326653627678
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 123660.0,
+        "source": "0608440D CH Equity",
+        "score": 1.3450598459538345
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 73120.0,
+        "source": "NOAJAZ CH Equity",
+        "score": 1.2399741764366619
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 40660.0,
+        "source": "900946 CH Equity",
+        "score": 1.1226049362151351
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7130.0,
+        "source": "South Tia... Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7160.0,
+        "source": "7247 JP Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China South Industries Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CSIGCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Honda Motor Co Ltd",
+        "market_cap": "USD 46.3B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7267 JP Equity",
+        "type": "supplier1",
+        "size": 12.558407798038601,
+        "country": "JP"
+      },
+      {
+        "name": "Chongqing Hongxiang Transportation Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CQHXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing JiuFang Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chengdu Ningjiang Showa Autoparts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0608440D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing KeRui Industrial Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NOAJAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 360.85M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.703972917482556,
+        "country": "CN"
+      },
+      {
+        "name": "South Tianhe  Chassis Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "South Tia... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 119.47M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.598575851793406,
+        "country": "JP"
+      },
+      {
+        "name": "China Jialing Industrial Co Ltd",
+        "market_cap": "USD 685.91M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600877 CH Equity",
+        "type": "manufacturer",
+        "size": 8.346260701506832,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600877 CH Equity",
+        "relation": 224590.0,
+        "source": "CSIGCZ CH Equity",
+        "score": 1.4644072498491698
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 188210.0,
+        "source": "7267 JP Equity",
+        "score": 1.4290637905768913
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 13710.0,
+        "source": "CQHXZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 163760.0,
+        "source": "Chongqing2... Equity",
+        "score": 1.4012326653627678
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 123660.0,
+        "source": "0608440D CH Equity",
+        "score": 1.3450598459538345
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 73120.0,
+        "source": "NOAJAZ CH Equity",
+        "score": 1.2399741764366619
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 40660.0,
+        "source": "900946 CH Equity",
+        "score": 1.1226049362151351
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7130.0,
+        "source": "South Tia... Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7160.0,
+        "source": "7247 JP Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China South Industries Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CSIGCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Honda Motor Co Ltd",
+        "market_cap": "USD 46.55B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7267 JP Equity",
+        "type": "supplier1",
+        "size": 12.563792840669489,
+        "country": "JP"
+      },
+      {
+        "name": "Chongqing Hongxiang Transportation Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CQHXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing JiuFang Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chengdu Ningjiang Showa Autoparts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0608440D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing KeRui Industrial Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NOAJAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 389.94M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.781503439098586,
+        "country": "CN"
+      },
+      {
+        "name": "South Tianhe  Chassis Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "South Tia... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 127.39M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.662763805085969,
+        "country": "JP"
+      },
+      {
+        "name": "China Jialing Industrial Co Ltd",
+        "market_cap": "USD 685.91M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600877 CH Equity",
+        "type": "manufacturer",
+        "size": 8.346260701506832,
+        "country": "CN"
+      }
+    ]
+  },
+  {
+    "links": [
+      {
+        "target": "600877 CH Equity",
+        "relation": 224590.0,
+        "source": "CSIGCZ CH Equity",
+        "score": 1.4644072498491698
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 188210.0,
+        "source": "7267 JP Equity",
+        "score": 1.4290637905768913
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 13710.0,
+        "source": "CQHXZ CH Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 163760.0,
+        "source": "Chongqing2... Equity",
+        "score": 1.4012326653627678
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 123660.0,
+        "source": "0608440D CH Equity",
+        "score": 1.3450598459538345
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 73120.0,
+        "source": "NOAJAZ CH Equity",
+        "score": 1.2399741764366619
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 40660.0,
+        "source": "900946 CH Equity",
+        "score": 1.1226049362151351
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 7130.0,
+        "source": "South Tia... Equity",
+        "score": 1
+      },
+      {
+        "target": "600877 CH Equity",
+        "relation": 3200.0,
+        "source": "7247 JP Equity",
+        "score": 1
+      }
+    ],
+    "nodes": [
+      {
+        "name": "China South Industries Group Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CSIGCZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Honda Motor Co Ltd",
+        "market_cap": "USD 46.4B",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7267 JP Equity",
+        "type": "supplier1",
+        "size": 12.56056529617862,
+        "country": "JP"
+      },
+      {
+        "name": "Chongqing Hongxiang Transportation Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "CQHXZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing JiuFang Casting Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "Chongqing2... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chengdu Ningjiang Showa Autoparts Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "0608440D CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Chongqing KeRui Industrial Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "NOAJAZ CH Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Hunan Tyen Machinery Co Ltd",
+        "market_cap": "USD 375.4M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "900946 CH Equity",
+        "type": "supplier1",
+        "size": 7.743502682116681,
+        "country": "CN"
+      },
+      {
+        "name": "South Tianhe  Chassis Systems Co Ltd",
+        "market_cap": "--",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "South Tia... Equity",
+        "type": "supplier1",
+        "size": 5,
+        "country": "CN"
+      },
+      {
+        "name": "Mikuni Corp",
+        "market_cap": "USD 121.27M",
+        "region": "APAC",
+        "score": 1.0,
+        "ticker": "7247 JP Equity",
+        "type": "supplier1",
+        "size": 6.613530022632975,
+        "country": "JP"
+      },
+      {
+        "name": "China Jialing Industrial Co Ltd",
+        "market_cap": "USD 685.91M",
+        "region": "China",
+        "score": 1.0,
+        "ticker": "600877 CH Equity",
+        "type": "manufacturer",
+        "size": 8.346260701506832,
+        "country": "CN"
+      }
+    ]
+  }
+]
