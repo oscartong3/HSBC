@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>HSBC Network Analysis</title>
+  <!-- JQuery UI -->
+  <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/multiple-select.css" rel="stylesheet">
+  <link href="css/bootstrap-slider.css" rel="stylesheet">
+
+  <link rel="icon" href="icon/hexanet.ico">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <img alt="Brand" src="icon/hsbc.png" height=50px>
+      </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+        data-target="#navbarResponsive">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html" style="color: #db0011; font-weight: 500">Network</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="tradewar.html">Trade War</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="faq.html">Instruction</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div id="network" class="container">
+    <div class="row mt-4">
+      <div class="col-lg-5">
+
+        <!-- Filters -->
+        <div class="filters">
+
+          <!-- Filter Title -->
+          <div class="row mb-2">
+            <div class="col-lg-4"></div>
+            <div class="col-lg-4 mb-2 filter-title" id="centralComFilter">Manufacturer</div>
+            <div class="col-lg-4 mb-2 filter-title" id="supplierFilter">Supplier</div>
+          </div>
+
+          <!-- Industry Filter -->
+          <div class="row mb-2" id="sectorFilters">
+            <div class="col-lg-4">
+              <div class="filter-name">Sector</div>
+            </div>
+            <select class="col-lg-4 custom-select" id="sectorCentral">
+              <option value="all" selected>Automobiles</option>
+            </select>
+            <select class="col-lg-4 filter ms" mutiple="mutiple" id="sectorSupplier">
+              <option value="Communication Services">Communication Services</option>
+              <option value="Health Care">Health Care</option>
+              <option value="Consumer Discretionary">Consumer Discretionary</option>
+              <option value="Information Technology">Information Technology</option>
+              <option value="Materials">Materials</option>
+              <option value="Utilities">Utilities</option>
+              <option value="Real Estate">Real Estate</option>
+              <option value="Financials">Financials</option>
+              <option value="Industrials">Industrials</option>
+              <option value="Energy">Energy</option>
+              <option value="Consumer Staples">Consumer Staples</option>
+            </select>
+          </div>
+
+          <!-- Region Filter -->
+          <div class="row mb-2">
+            <div class="col-lg-4">
+              <div class="filter-name">Region</div>
+            </div>
+            <select class="col-lg-4 filter ms" mutiple="mutiple" id="regionCentral">
+              <option value="APAC">APAC</option>
+              <option value="China">China</option>
+              <option value="Europe">Europe</option>
+              <option value="Hong Kong">Hong Kong</option>
+              <option value="USA">USA</option>
+            </select>
+            <select class="col-lg-4 filter ms" mutiple="mutiple" id="regionSupplier">
+              <option value="APAC">APAC</option>
+              <option value="Africa">Africa</option>
+              <option value="China">China</option>
+              <option value="Europe">Europe</option>
+              <option value="Hong Kong">Hong Kong</option>
+              <option value="Latin America">Latin America</option>
+              <option value="Middle East">Middle East</option>
+              <option value="North America">North America</option>
+              <option value="USA">USA</option>
+            </select>
+          </div>
+
+          <!-- Market Capital Filter -->
+          <div class="row mb-2">
+            <div class="col-lg-4">
+              <div class="filter-name">Market Cap</div>
+            </div>
+            <div class="col-lg-4 slider-padding">
+              <input id="marketCapCentral" type="text" data-provide="slider" />
+              <div class="row" style="padding-left: 15px">
+                <div class="col slider-btm" id="marketCapCentralBtm"></div>
+                <div class="col slider-top" id="marketCapCentralTop"></div>
+              </div>
+            </div>
+            <div class="col-lg-4 slider-padding">
+              <input id="marketCapSupplier" type="text" data-provide="slider" />
+              <div class="row" style="padding-left: 15px">
+                <div class="col slider-btm" id="marketCapSupplierBtm"></div>
+                <div class="col slider-top" id="marketCapSupplierTop"></div>
+              </div>
+            </div>
+          </div>
+
+
+          <!-- ROA Filter -->
+          <div class="row mb-2">
+            <div class="col-lg-4">
+              <div class="filter-name">ROA</div>
+            </div>
+            <div class="col-lg-4 slider-padding">
+              <input id="roaCentral" type="text" data-provide="slider" />
+              <div class="row" style="padding-left: 15px">
+                <div class="col slider-btm" id="roaCentralBtm"></div>
+                <div class="col slider-top" id="roaCentralTop"></div>
+              </div>
+            </div>
+            <div class="col-lg-4 slider-padding">
+              <input id="roaSupplier" type="text" data-provide="slider" />
+              <div class="row" style="padding-left: 15px">
+                <div class="col slider-btm" id="roaSupplierBtm"></div>
+                <div class="col slider-top" id="roaSupplierTop"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Relationship Filter -->
+          <div class="row mb-2">
+            <div class="col-lg-4">
+              <div class="filter-name">Relationship</div>
+            </div>
+            <select class="col-lg-8 filter ms" mutiple="mutiple" id="relationship">
+              <option value="COGS">COGS</option>
+              <option value="SG&A">SG&A</option>
+              <option value="CAPEX">CAPEX</option>
+            </select>
+          </div>
+
+          <!-- Relationship Value Filter -->
+          <div class="row mb-2">
+            <div class="col-lg-4">
+              <div class="filter-name">Relation Value</div>
+            </div>
+            <div class="col-lg-8 slider-padding">
+              <input id="relationValue" type="text" data-provide="slider" />
+              <div class="row" style="padding-left: 15px">
+                <div class="col slider-btm" id="relationVBtm"></div>
+                <div class="col slider-top" id="relationVTop"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Reset All -->
+        </div>
+
+        <!-- Show Tier 2 suppliers -->
+        <div class="mb-2 btn-group-toggle" data-toggle="buttons">
+          <button class="btn btn-red btn-block" id="exploreMoreSuppliers" style="padding-right: 0">
+            <input class="filter" type="checkbox">Explore Tier 2 Suppliers!</button>
+        </div>
+
+        <hr>
+
+        <!-- Search -->
+        <div class="input-group">
+          <input type="text" class="form-control" placeholder="Search for..." id="search">
+          <span class="input-group-btn">
+            <button class="btn btn-red" type="button" id="searchButton" data-toggle="tooltip" data-placement="top"
+              title="Highlight the company's supply chain on the whole network">Highlight</button>
+          </span>
+          <button class="btn btn-red" type="button" id="showNetworkBtn" data-toggle="tooltip" data-placement="top"
+            title="Only show the company's supply chain in the graph">Show Network</button>
+        </div>
+        <div class="card mt-2 mb-4" id="searchInfoBox" style="display: none;">
+          <div class="card-body">
+            <p class="card-text">Company Name &nbsp&nbsp<span id="infoName"></span></p>
+            <p class="card-text">Country &nbsp&nbsp<span id="infoCountry"></span></p>
+            <p class="card-text">Stock Ticker &nbsp&nbsp<span id="infoTicker"></span></p>
+            <p class="card-text">Sector &nbsp&nbsp<span id="infoSector"></span></p>
+            <p class="card-text">Industry &nbsp&nbsp<span id="infoIndustry"></span></p>
+            <p class="card-text">Market Captital &nbsp&nbsp<span id="infoMarketCap"></span></p>
+            <p class="card-text">ROA (recent year) &nbsp&nbsp<span id="infoRoa"></span></p>
+            <p class="card-text">Number of Suppliers &nbsp&nbsp<span id="infoNumSupplier"></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Supply Chain Network -->
+      <div id="container" class="col-lg-7">
+
+        <!-- Network Analysis -->
+        <div class="row btn-group-evenly mt-3 btn-group-toggle" data-toggle="buttons">
+          <button type="button" class="btn btn-group-red" id="groupByRegion"><input type="checkbox">Group by
+            Region</button>
+          <!-- <button type="button" class="btn btn-group-red">Predict Links</button> -->
+          <div class="btn-group" role="group">
+            <button id="centralityBtn" type="button" class="btn btn-group-red dropdown-toggle" data-toggle="dropdown">
+              No Centrality
+            </button>
+            <div class="dropdown-menu" id="centrality">
+              <a class="dropdown-item" href="#">Show Hub Score</a>
+              <a class="dropdown-item" href="#">Show Authority Score</a>
+              <a class="dropdown-item" href="#">Show Degree Centrality</a>
+              <a class="dropdown-item" href="#">Show Closeness Centrality</a>
+              <a class="dropdown-item" href="#">Show Betweenness Centrality</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item active" href="#">No Centrality</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Network -->
+        <div id="main" class="mb-4 mt-4" role="main">
+          <div id="dataLoading">Loading Data ...</div>
+          <canvas id="vis"></canvas>
+          <img src="icon/legend.png" id="legend">
+        </div>
+
+        <!-- Suppliers List -->
+        <div id="suppliersList" style="display: none;">
+          <table class="table table-sm table-hover">
+            <thead class="thead-light">
+              <tr>
+                <th scope="col">TOP</th>
+                <th scope="col">Supplier Name</th>
+                <th scope="col">Country</th>
+                <th scope="col" id="slValueTitle">Market Capital</th>
+              </tr>
+            </thead>
+            <tbody id="suppliersListBody">
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+    <!-- /.row -->
+
+  </div>
+  <!-- /.container -->
+
+  <!-- Footer -->
+  <footer class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="py-4 m-0 navbar-brand col-6">
+          <img src="icon/hku.png" height=80px>
+          <img id="hexanetlogo" src="icon/hexanet.png" height=80px>
+        </div>
+        <div class="py-5 m-0 text-right col-6">Copyright &copy; HKU MSBA HexaNet Team 2019. All rights
+          reserved.</div>
+      </div>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="js/jquery-ui-autocomplete.js"></script>
+  <script src="http://d3js.org/d3.v4.min.js"></script>
+  <script src="js/multiple-select.js"></script>
+  <script src="https://unpkg.com/d3-force-cluster@latest"></script>
+  <script src="js/tooltip.js"></script>
+  <script src="js/bootstrap-slider.js"></script>
+  <script src="js/tinycolor.js"></script>
+  <script src="js/main.js"></script>
+
+  <script>
+    $(function () {
+      $('.ms').multipleSelect({}).multipleSelect('checkAll');
+    })
+
+    $(function () {
+      $('button[data-toggle="tooltip"]').tooltip()
+    })
+  </script>
+
+</body>
+
+</html>
