@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>HSBC Network Analysis</title>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+  </script>
+  <script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script>
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <link rel="icon" href="icon/hexanet.ico">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <img alt="Brand" src="icon/hsbc.png" height=50px>
+      </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+        data-target="#navbarResponsive">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Network</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="tradewar.html">Trade War</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="faq.html" style="color: #db0011; font-weight: 500">Instruction</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+
+    <!-- Network Questions -->
+    <div class="card h-100 mt-4 mb-2">
+      <h5 class="card-header">Supply Chain Network</h5>
+      <div class="card-body">
+
+        <!-- Q1.1 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q1_1" role="button">
+            Q1.1 What are the basic operations of the network?
+          </a>
+          <div class="collapse text-answer" id="q1_1">
+            <li><b>Scroll up</b> on the network to zoom-in and have a deeper look, <b>scroll down</b> to zoom-out.</li>
+
+            <li><b>Mouse over a node</b> to see information of the particular company.</li>
+
+            <li><b>Click a node</b> to highlight the particular company’s supply chain network.
+              And the information of the company will show up on the left area.</li>
+
+            <li><b>Double click a node</b> to move it to the center of the canvas.</li>
+          </div>
+        </div>
+
+        <!-- Q1.2 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q1_2" role="button">
+            Q1.2 Where does the data come from?
+          </a>
+          <div class="collapse text-answer" id="q1_2">
+            The data is from Bloomberg Terminal. Bloomberg Terminal allows subscribers to access the
+            Bloomberg Professional service to monitor and analyze real-time financial data, search financial
+            news, obtain price quotes and send electronic messages through the Bloomberg Messaging Service.
+            The Terminal covers both public and private markets globally.
+          </div>
+        </div>
+
+        <!-- Q1.3 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q1_3" role="button">
+            Q1.3 What do <span class="font-italic">Market Cap</span>, <span class="font-italic">ROA</span>,
+            <span class="font-italic">Relation</span>, <span class="font-italic">Relation Value</span> mean?
+          </a>
+          <div class="collapse text-answer" id="q1_3">
+            <p><b>Market Cap:</b> Market capitalization is the market value of a publicly traded company's
+              outstanding shares. Market capitalization is equal to the share price multiplied by the
+              number of shares outstanding.</p>
+
+            <p><b>Return on Assets (ROA):</b> A profitability ratio that provides how much profit a company
+              is able to generate from its assets.</p>
+
+            <p><b>Relation:</b> Relation shows the cost type of two companies. There are 3 types of relations: COGS,
+              SG&A and CAPEX.
+              <b>COGS:</b> Cost of goods sold is the expense most directly involved in creating revenue.
+              It represents the costs of producing or purchasing the goods or services sold by the company.
+
+              <b>SG&A:</b> Selling, general & administrative expense. This category includes marketing, salaries,
+              utility bills, technology expenses and other general costs associated with running a business.
+
+              <b>CAPEX:</b> Capital expenditures are funds used by a company to acquire, upgrade, and maintain physical
+              assets such as property, buildings, an industrial plant, technology, or equipment.</p>
+
+            <p><b>Relationship Value:</b> Amount involved in the relationship adjusted to quarterly-equivalent value.
+            </p>
+          </div>
+        </div>
+
+        <!-- Q1.4 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q1_4" role="button">
+            Q1.4 How do you divide the countries to different regions? Why do I see APAC and China at the same time?
+          </a>
+          <div class="collapse text-answer" id="q1_4">
+            In order to analyze the effect of China-US trade war on the supply chain, China(mainland), Hong Kong and USA
+            are
+            classified as special regions in this network. That is, China(mainland) and Hong Kong are not included in
+            APAC region, and the United States is not included in North America region.
+          </div>
+        </div>
+
+        <!-- Q1.5 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q1_5" role="button">
+            Q1.5 What do the color and size of a node mean? What does the thickness of a link mean?
+          </a>
+          <div class="collapse text-answer" id="q1_5">
+            The color of a node represents a company’s role in the network, manufacturer, tier 1 supplier or tier 2
+            supplier.<br>
+            The size of a node represents a company’s market capital.<br>
+            The thickness of a link represents the relationship value of two companies.
+          </div>
+        </div>
+
+        <!-- Q1.6 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q1_6" role="button">
+            Q1.6 What is the difference between function <span class="font-italic">Search</span> and
+            <span class="font-italic">Show Network</span>?
+          </a>
+          <div class="collapse text-answer" id="q1_6">
+            <p><b>Search:</b> Highlight target company's network in the whole network.</p>
+            <p><b>Show Network:</b> Only show the companies in target company’s network.</p>
+          </div>
+        </div>
+
+        <!-- Q1.7 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q1_7" role="button">
+            Q1.7 What is the difference between <span class="font-italic">Hub Score</span>, <span class="font-italic">Authority Score</span>,
+            <span class="font-italic">Degree Centrality</span>, <span class="font-italic">Closeness Centrality</span> 
+            and <span class="font-italic">Betweeness Centrality</span>?
+          </a>
+          <div class="collapse text-answer" id="q1_7">
+            <p><b>Hub Score:</b> Indicates the most important supplier</p>
+            <p><b>Authority Score:</b> Indicates the most important central company</p>
+            <p><b>Degree Centrality:</b> The use of the number of connected nodes</p>
+            <p><b>Closeness Centrality:</b> Nodes having shortest distance to the others are more important</p>
+            <p><b>Betweeness Centrality:</b> Number of times of a node exists in other shortest path</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Network Questions -->
+
+    <!-- Trade War Effects Questions -->
+    <div class="card h-100 mt-4 mb-5">
+      <h5 class="card-header">Trade War Effect Analysis</h5>
+      <div class="card-body">
+
+        <!-- Q2.1 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q2_1" role="button">
+            Q2.1 What are <span class="font-italic">Borrow Need</span>, <span class="font-italic">Risk Score</span> and <span class="font-italic">FX Need</span>?
+          </a>
+          <div class="collapse text-answer" id="q2_1">
+            These 3 scores represents the business opportunities and risks of the respective companies within the network. The formula are as below: <br>
+            <br>
+            <p><b>Borrow Need:</b> Abnormal Change of Inventories – Abnormal Change of cash</p>
+            <p><b>Risk Score:</b> Abnormal Change of D/E ratio</p>
+            <p><b>FX Need:</b> Number of Foreign Suppliers</p>
+            All the scores are standardized by min-max transformation which scaled from 0 to 1. Hence, the score here is relative but not absolute.
+            <br><br>
+            The rationale behind:
+            <br>
+            <p><b>Borrow Need:</b> Increase in inventory and/or decrease in cash decrease operation efficiency</p>
+            <p><b>Risk Score:</b> Increase in D/E ratio decrease financial flexibility</p>
+            <p><b>FX Need:</b> Increase in foreign suppliers increase FX opportunities</p>
+          </div>
+        </div>
+
+        <!-- Q2.2 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q2_2" role="button">
+            Q2.2 What does <span class="font-italic">Abnormal Change</span> mean?
+          </a>
+          <div class="collapse text-answer" id="q2_2">
+              The abnormal changes equal to the actual performances divided by the expected performances minus 1.
+              In order to get the estimated performances, we utilize three-factor model to calculate the expected financial performances as if there is no trade war. 
+              <br> <br>
+              This methodology is adopted from event study. An event study is a statistical method to assess the impact of an event on the value of a firm. 
+              For example, the announcement of a merger between two business entities can be analyzed to see whether investors believe the merger will create or destroy value. 
+              The basic idea is to find the abnormal return attributable to the event being studied by adjusting for the return that stems from the price fluctuation of the market as a whole. 
+              The event study was invented by Fama, Fisher, Jensen, and Roll (1969).
+          </div>
+        </div>
+
+        <!-- Q2.3 -->
+        <div class="my-3">
+          <a class="text-question" data-toggle="collapse" href="#q2_3" role="button">
+            Q2.3 How to use the timeline and what are the differences?
+          </a>
+          <div class="collapse text-answer" id="q2_3">
+              We have six snapshots in our timeline. You can slide to see the changes of the network and the respective HexaNet Scores.
+              <br> Note that for the HexaNet Score, we cannot provide them before the trade war period. 
+              It is because this is the measurement of tradewar impact so cannot be generalised for daily usage.
+          </div>
+        </div>
+
+        <!-- Q2.4 -->
+        <div class="my-3">
+            <a class="text-question" data-toggle="collapse" href="#q2_4" role="button">
+              Q2.4 What do the colors of the nodes mean on network and scatter plot?
+            </a>
+            <div class="collapse text-answer" id="q2_4">
+                <p><b>On the network graph:</b><br>
+                The color represents the degree of the score. The lower the score, the color is more yellowish. 
+                The higher the degree, the color is be more reddish. 3 scores shared the same scale.
+                  <br>
+                  <p><b>On the scatter plot:</b><br>
+                  The color represents the degree of the HexaNet score. The lower the score, the color is more yellowish. 
+                The higher the degree, the color is be more purple.
+                <br>
+                HexaNet Score is an aggregated score using Euclidean metric. Here is the formula:
+                <br>
+                
+                $$HexaNet\ Score = \sqrt{Borrow\ Need^2+FX\ Need^2+(1-Risk)^2} $$
+            </div>
+          </div>
+
+          <!-- Q2.5 -->
+        <div class="my-3">
+            <a class="text-question" data-toggle="collapse" href="#q2_5" role="button">
+              Q2.5 What is <span class="font-italic">Industry Landscape</span>?
+            </a>
+            <div class="collapse text-answer" id="q2_5">
+                Industry landscape contains the financial metrics abnormal changes on the country aggregate level. 
+                Besides that, it contains how financial abnormal changes correlate with their proportion of US or Chinese supplier. 
+                There are 2 degree measurements. <br> <br> Firstly, it is US/CN degree and its applied to manufacturers only. 
+                This measures how much portion of Chinese suppliers is for the US manufacturers and how much portion of US supplier is for the Chinese manufacturers. 
+                The proportion has accounted the second-tier suppliers already.
+                <br> <br> Secondly, it is RC degree and its applied to first-tier supplier only. 
+                This measures the portion of Chinese supplier and customers for the US suppliers. Same logic applies to Chinese suppliers. This degree balanced the revenue and cost effect by COGS ratio.                
+            </div>
+          </div>
+
+      </div>
+    </div>
+    <!-- End Trade War Effects Questions -->
+
+  </div>
+
+  </div>
+  <!-- /.container -->
+
+  <!-- Footer -->
+  <footer class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="py-4 m-0 navbar-brand col-6">
+          <img src="icon/hku.png" height=80px>
+          <img id="hexanetlogo" src="icon/hexanet.png" height=80px>
+        </div>
+        <div class="py-5 m-0 text-right col-6">Copyright &copy; HKU MSBA HexaNet Team 2019. All rights
+          reserved.</div>
+      </div>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  
+
+</body>
+
+</html>

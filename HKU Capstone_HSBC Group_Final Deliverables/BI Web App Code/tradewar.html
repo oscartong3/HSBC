@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>HSBC Network Analysis</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/multiple-select.css" rel="stylesheet">
+  <link href="css/bootstrap-slider.css" rel="stylesheet">
+
+  <link rel="icon" href="icon/hexanet.ico">
+  <link rel="stylesheet" href="css/scatterchat.css">
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <img alt="Brand" src="icon/hsbc.png" height=50px>
+      </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+        data-target="#navbarResponsive">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Network</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="tradewar.html" style="color: #db0011; font-weight: 500">Trade War</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="faq.html">Instruction</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+
+    <div class="row mt-4 mb-4">
+      <!-- Hidden element for information passing -->
+      <div id="company" style="display: none;"></div>
+
+      <!-- Network Filters -->
+      <div id="scoreFilter" class="col-lg-3 btn-group btn-group-toggle" data-toggle="buttons">
+        <label class="btn btn-score active">
+          <input type="radio" name="options" id="borrow" autocomplete="off" checked>Borrow Need
+        </label>
+        <label class="btn btn-score">
+          <input type="radio" name="options" id="risk" autocomplete="off">Risk Score
+        </label>
+        <label class="btn btn-score">
+          <input type="radio" name="options" id="fx" autocomplete="off">FX Need
+        </label>
+      </div>
+      <div class="col-lg-5">
+        <div class="row">
+          <div class="col-lg-2 filter-name">Region</div>
+          <select class="col-lg-3 filter ms" mutiple="mutiple" id="region">
+            <option value="APAC">APAC</option>
+            <option value="Africa">Africa</option>
+            <option value="China">China</option>
+            <option value="Europe">Europe</option>
+            <option value="Hong Kong">Hong Kong</option>
+            <option value="Latin America">Latin America</option>
+            <option value="Middle East">Middle East</option>
+            <option value="North America">North America</option>
+            <option value="USA">USA</option>
+          </select>
+          <div class="col-lg-3 filter-name">Market Cap</div>
+          <div class="col-lg-4">
+            <input id="marketCap" type="text" data-provide="slider" />
+            <div class="row pd-15">
+              <div class="col slider-btm" id="marketCapBtm"></div>
+              <div class="col slider-top" id="marketCapTop"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Search -->
+      <div class="col-lg-4">
+        <div class="input-group">
+          <input type="text" class="form-control" placeholder="Search for..." id="search">
+          <span class="input-group-btn">
+            <button class="btn btn-red mr-0" type="button" id="searchButton">Search</button>
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Timeline Slider -->
+    <div id="tradewar">
+    <input id="timeline" type="text" />
+    <div id="timelineLabel" class="row mt-1 pd-15">
+      <p class="col">2017 Q4</p>
+      <p class="col">2018 Q1</p>
+      <p class="col">2018 Q2</p>
+      <p class="col">2018 Q3</p>
+      <p class="col">2018 Q4</p>
+      <p class="col">2019 Q1</p>
+    </div>
+    </div>
+
+    <!-- Timeline and Network -->
+    <div class="row mb-4">
+      <div id="net" class="col-lg-7">
+        <!-- Network -->
+        <div id="dataLoading">Loading Data ...</div>
+        <canvas id="vis"></canvas>
+        <img src="icon/score_legend.png" class="score_legend">
+      </div>
+
+      <div class="col-lg-5">
+        <div id="scatter"></div>
+      </div>
+
+    </div>
+
+    <div class="row mb-5">
+
+      <!-- Data Table -->
+      <div class="col-lg-4">
+        <div class="card mb-2" id="searchInfoBox">
+          <div class="card-body">
+            <p class="card-text">Company Name &nbsp&nbsp<span id="infoName"></span></p>
+            <p class="card-text">Country &nbsp&nbsp<span id="infoCountry"></span></p>
+            <p class="card-text">Stock Ticker &nbsp&nbsp<span id="infoTicker"></span></p>
+            <p class="card-text">Centrality Score &nbsp&nbsp<span id="infoScore"></span></p>
+          </div>
+        </div>
+        <!-- HexaNet Score Line Chart -->
+        <div id="roLineChart">
+          <img src="icon/score_linechart_legend.png" id="score_line_legend">
+        </div>
+      </div>
+
+      <!-- Data List -->
+      <div class="col-lg-8">
+        <div class="table-fix-head">
+          <table class="table table-sm table-hover">
+            <thead class="thead-light">
+              <tr>
+                <th scope="col">Company Name</th>
+                <th scope="col">Borrow Need</th>
+                <th scope="col">Company Name</th>
+                <th scope="col">Risk Score</th>
+                <th scope="col">Company Name</th>
+                <th scope="col">FX Need</th>
+              </tr>
+            </thead>
+            <tbody id="companyListBody">
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Financial Performance Line Chart -->
+    <div class="row mb-5" id="linecharts">
+      <div class="col-lg-3" id="linechart1">
+        <select class="custom-select mb-2" id="linechart1_sel">
+          <option value="Last_Price" selected>Stock Price (As Of Last Trading Day)</option>
+          <option value="Cash">Cash</option>
+          <option value="Revenue">Revenue</option>
+          <option value="Gross_Profit">Gross Profit</option>
+          <option value="EBIT">EBIT</option>
+          <option value="Net_Income">Net Income</option>
+          <option value="COGS">COGS</option>
+          <option value="Operating_Expenses">Operating Expenses</option>
+          <option value="Inventories">Inventories</option>
+          <option value="BEPS">Basic Earning Per Share</option>
+          <option value="Short_Term_Debt">Short Term Debt</option>
+          <option value="Long_Term_Debt">Long Term Debt</option>
+          <option value="Total_Liabilities">Total Liabilities</option>
+          <option value="Total_Equity">Total Equities</option>
+        </select>
+
+      </div>
+      <div class="col-lg-3" id="linechart2">
+        <select class="custom-select mb-2" id="linechart2_sel">
+          <option value="Last_Price">Stock Price (As Of Last Trading Day)</option>
+          <option value="Cash">Cash</option>
+          <option value="Revenue" selected>Revenue</option>
+          <option value="Gross_Profit">Gross Profit</option>
+          <option value="EBIT">EBIT</option>
+          <option value="Net_Income">Net Income</option>
+          <option value="COGS">COGS</option>
+          <option value="Operating_Expenses">Operating Expenses</option>
+          <option value="Inventories">Inventories</option>
+          <option value="BEPS">Basic Earning Per Share</option>
+          <option value="Short_Term_Debt">Short Term Debt</option>
+          <option value="Long_Term_Debt">Long Term Debt</option>
+          <option value="Total_Liabilities">Total Liabilities</option>
+          <option value="Total_Equity">Total Equities</option>
+        </select>
+
+      </div>
+      <div class="col-lg-3" id="linechart3">
+        <select class="custom-select mb-2" id="linechart3_sel">
+          <option value="Last_Price">Stock Price (As Of Last Trading Day)</option>
+          <option value="Cash">Cash</option>
+          <option value="Revenue">Revenue</option>
+          <option value="Gross_Profit">Gross Profit</option>
+          <option value="EBIT">EBIT</option>
+          <option value="Net_Income" selected>Net Income</option>
+          <option value="COGS">COGS</option>
+          <option value="Operating_Expenses">Operating Expenses</option>
+          <option value="Inventories">Inventories</option>
+          <option value="BEPS">Basic Earning Per Share</option>
+          <option value="Short_Term_Debt">Short Term Debt</option>
+          <option value="Long_Term_Debt">Long Term Debt</option>
+          <option value="Total_Liabilities">Total Liabilities</option>
+          <option value="Total_Equity">Total Equities</option>
+        </select>
+      </div>
+      <div class="col-lg-3" id="linechart4">
+        <select class="custom-select mb-2" id="linechart4_sel">
+          <option value="Last_Price">Stock Price (As Of Last Trading Day)</option>
+          <option value="Cash">Cash</option>
+          <option value="Revenue">Revenue</option>
+          <option value="Gross_Profit">Gross Profit</option>
+          <option value="EBIT">EBIT</option>
+          <option value="Net_Income">Net Income</option>
+          <option value="COGS">COGS</option>
+          <option value="Operating_Expenses">Operating Expenses</option>
+          <option value="Inventories" selected>Inventories</option>
+          <option value="BEPS">Basic Earning Per Share</option>
+          <option value="Short_Term_Debt">Short Term Debt</option>
+          <option value="Long_Term_Debt">Long Term Debt</option>
+          <option value="Total_Liabilities">Total Liabilities</option>
+          <option value="Total_Equity">Total Equities</option>
+        </select>
+      </div>
+    </div>
+
+    <hr>
+
+    <h2>Industry Landscape</h2>
+
+    <!-- Industry Average Line Chart -->
+    <div class="row mt-4 mb-4">
+      <div class="col-lg">
+        <div class='tableauPlaceholder' id='viz1560352810286' style='position: relative'><noscript>
+            <a href=' '>
+              <img alt=' '
+                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BO&#47;BOOK_15601791376550&#47;Dashboard1&#47;1_rss.png'
+                style='border: none' />
+            </a>
+          </noscript><object class='tableauViz' style='display:none;'>
+            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+            <param name='embed_code_version' value='3' />
+            <param name='site_root' value='' />
+            <param name='name' value='BOOK_15601791376550&#47;Dashboard1' />
+            <param name='tabs' value='no' />
+            <param name='toolbar' value='yes' />
+            <param name='static_image'
+              value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BO&#47;BOOK_15601791376550&#47;Dashboard1&#47;1.png' />
+            <param name='animate_transition' value='yes' />
+            <param name='display_static_image' value='yes' />
+            <param name='display_spinner' value='yes' />
+            <param name='display_overlay' value='yes' />
+            <param name='display_count' value='yes' />
+            <param name='filter' value='publish=yes' /></object></div>
+      </div>
+      <div class="col-lg">
+        <div class='tableauPlaceholder' id='viz1560352931632' style='position: relative'><noscript>
+            <a href=' '>
+              <img alt=' '
+                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BO&#47;BOOK1_15603529123920&#47;Dashboard1&#47;1_rss.png'
+                style='border: none' />
+            </a>
+          </noscript><object class='tableauViz' style='display:none;'>
+            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+            <param name='embed_code_version' value='3' />
+            <param name='site_root' value='' />
+            <param name='name' value='BOOK1_15603529123920&#47;Dashboard1' />
+            <param name='tabs' value='no' />
+            <param name='toolbar' value='yes' />
+            <param name='static_image'
+              value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;BO&#47;BOOK1_15603529123920&#47;Dashboard1&#47;1.png' />
+            <param name='animate_transition' value='yes' />
+            <param name='display_static_image' value='yes' />
+            <param name='display_spinner' value='yes' />
+            <param name='display_overlay' value='yes' />
+            <param name='display_count' value='yes' />
+            <param name='filter' value='publish=yes' /></object></div>
+      </div>
+    </div>
+
+    <!-- Effect Lag Tableau -->
+    <div class="mt-2 mb-5">
+      <div class='tableauPlaceholder' id='viz1560176811504' style='position: relative'><noscript>
+          <a href=' '>
+            <img alt=' '
+              src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;R4&#47;R49DTX489&#47;1_rss.png'
+              style='border: none' />
+          </a>
+        </noscript><object class='tableauViz' style='display:none;'>
+          <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+          <param name='embed_code_version' value='3' />
+          <param name='path' value='shared&#47;R49DTX489' />
+          <param name='toolbar' value='yes' />
+          <param name='static_image'
+            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;R4&#47;R49DTX489&#47;1.png' />
+          <param name='animate_transition' value='yes' />
+          <param name='display_static_image' value='yes' />
+          <param name='display_spinner' value='yes' />
+          <param name='display_overlay' value='yes' />
+          <param name='display_count' value='yes' />
+          <param name='filter' value='publish=yes' /></object></div>
+    </div>
+    <!-- /.container -->
+  </div>
+  <!-- Footer -->
+  <footer class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="py-4 m-0 navbar-brand col-6">
+          <img src="icon/hku.png" height=80px>
+          <img id="hexanetlogo" src="icon/hexanet.png" height=80px>
+        </div>
+        <div class="py-5 m-0 text-right col-6">Copyright &copy; HKU MSBA HexaNet Team 2019. All rights
+          reserved.</div>
+      </div>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src='https://d3js.org/d3.v4.min.js'></script>
+  <script src="js/jquery-ui-autocomplete.js"></script>
+  <script src="js/multiple-select.js"></script>
+  <script src="js/bootstrap-slider.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!--script src="js/tablenumber.js"></script>-->
+  <script src="js/lineplot.js"></script>
+  <!-- <script src="js/Industry_scatter.js"></script> -->
+  <script src="js/tooltip.js"></script>
+  <script src="js/tinycolor.js"></script>
+  <script src="js/tradewar.js"></script>
+  <script type='text/javascript'>
+    var divElement = document.getElementById('viz1560352810286');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  </script>
+  <script type='text/javascript'>
+    var divElement = document.getElementById('viz1560352931632');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  </script>
+  <script type='text/javascript'>
+    var divElement = document.getElementById('viz1560176811504');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  </script>
+</body>
+
+</html>
